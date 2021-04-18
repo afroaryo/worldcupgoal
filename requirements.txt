@@ -7,3 +7,4 @@ emoji == 1.2.0
 ast-tools == 0.1.4
 pywaffle == 0.6.1
 statsbombpy == 1.0
+indented == 0.9.0

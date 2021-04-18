@@ -1,0 +1,1683 @@
+,index,player,team,type,shot_outcome,shot_body_part,shot_type,location,shot_statsbomb_xg
+0,3725,Mathias Jattah-Njie Jørgensen,Denmark,Shot,Goal,Left Foot,Open Play,"[115.0, 34.0]",0.07408676
+1,3726,Mario Mandžukić,Croatia,Shot,Goal,Right Foot,Open Play,"[112.0, 36.0]",0.29299468
+2,3727,Ivan Perišić,Croatia,Shot,Blocked,Left Foot,Free Kick,"[101.0, 55.0]",0.07871395
+3,3728,Ivan Perišić,Croatia,Shot,Blocked,Right Foot,Open Play,"[103.0, 24.0]",0.028037952
+4,3729,Christian Dannemann Eriksen,Denmark,Shot,Blocked,Right Foot,Open Play,"[96.0, 37.0]",0.06426074
+5,3730,Martin Braithwaite Christensen,Denmark,Shot,Saved,Right Foot,Open Play,"[111.0, 50.0]",0.30314973
+6,3731,Ivan Rakitić,Croatia,Shot,Saved,Right Foot,Open Play,"[94.0, 32.0]",0.03258096
+7,3732,Ivan Perišić,Croatia,Shot,Wayward,Left Foot,Open Play,"[110.0, 32.0]",0.20444514
+8,3733,Ivan Perišić,Croatia,Shot,Off T,Right Foot,Open Play,"[111.0, 34.0]",0.15178046
+9,3734,Ante Rebić,Croatia,Shot,Blocked,Right Foot,Open Play,"[97.0, 30.0]",0.03208493
+10,3735,Christian Dannemann Eriksen,Denmark,Shot,Off T,Left Foot,Open Play,"[96.0, 57.0]",0.01724441
+11,3736,Dejan Lovren,Croatia,Shot,Off T,Head,Open Play,"[115.0, 39.0]",0.18882553
+12,3737,Ivan Rakitić,Croatia,Shot,Saved,Left Foot,Open Play,"[104.0, 31.0]",0.09615429
+13,3738,Ivan Perišić,Croatia,Shot,Off T,Right Foot,Open Play,"[98.0, 62.0]",0.014904396
+14,3739,Martin Braithwaite Christensen,Denmark,Shot,Off T,Right Foot,Open Play,"[115.0, 52.0]",0.06730466
+15,3740,Ivan Perišić,Croatia,Shot,Blocked,Right Foot,Open Play,"[108.0, 21.0]",0.017317483
+16,3741,Ante Rebić,Croatia,Shot,Blocked,Right Foot,Open Play,"[102.0, 26.0]",0.033544227
+17,3742,Nicolai Jørgensen,Denmark,Shot,Saved,Right Foot,Open Play,"[107.0, 50.0]",0.075596966
+18,3743,Christian Dannemann Eriksen,Denmark,Shot,Off T,Right Foot,Open Play,"[101.0, 30.0]",0.038286086
+19,3744,Luka Modrić,Croatia,Shot,Off T,Right Foot,Open Play,"[96.0, 51.0]",0.028009525
+20,3745,Ante Rebić,Croatia,Shot,Saved,Left Foot,Open Play,"[97.0, 58.0]",0.01753663
+21,3746,Ivan Perišić,Croatia,Shot,Off T,Head,Open Play,"[113.0, 31.0]",0.057968285
+22,3747,Josip Pivarić,Croatia,Shot,Blocked,Left Foot,Open Play,"[98.0, 30.0]",0.024782224
+23,3748,Lasse Schöne,Denmark,Shot,Off T,Right Foot,Open Play,"[97.0, 50.0]",0.026935928
+24,3749,Ivan Rakitić,Croatia,Shot,Off T,Right Foot,Open Play,"[88.0, 40.0]",0.018788926
+25,3750,Martin Braithwaite Christensen,Denmark,Shot,Off T,Right Foot,Open Play,"[100.0, 50.0]",0.015414895
+26,3751,Thomas Delaney,Denmark,Shot,Blocked,Left Foot,Open Play,"[78.0, 47.0]",0.018779105
+27,3752,Lasse Schöne,Denmark,Shot,Blocked,Right Foot,Open Play,"[95.0, 45.0]",0.016967557
+28,3753,Lasse Schöne,Denmark,Shot,Off T,Right Foot,Open Play,"[95.0, 47.0]",0.032352064
+29,3754,Mateo Kovačić,Croatia,Shot,Blocked,Right Foot,Open Play,"[98.0, 30.0]",0.041005496
+30,3755,Pione Sisto Ifolo Emirmija,Denmark,Shot,Off T,Right Foot,Open Play,"[106.0, 20.0]",0.03230451
+31,3756,Nicolai Jørgensen,Denmark,Shot,Off T,Right Foot,Open Play,"[112.0, 27.0]",0.04240444
+32,3757,Luka Modrić,Croatia,Shot,Saved,Right Foot,Penalty,"[109.0, 41.0]",0.76
+33,3758,Luka Modrić,Croatia,Shot,Saved,Right Foot,Open Play,"[97.0, 33.0]",0.066564746
+34,3759,Andrej Kramarić,Croatia,Shot,Off T,Right Foot,Open Play,"[98.0, 28.0]",0.024423312
+35,3760,Christian Dannemann Eriksen,Denmark,Shot,Saved,Right Foot,Penalty,"[108.0, 40.0]",0.76
+36,3761,Milan Badelj,Croatia,Shot,Saved,Right Foot,Penalty,"[108.0, 40.0]",0.76
+37,3762,Simon Thorup Kjær,Denmark,Shot,Goal,Right Foot,Penalty,"[108.0, 40.0]",0.76
+38,3763,Andrej Kramarić,Croatia,Shot,Goal,Right Foot,Penalty,"[108.0, 40.0]",0.76
+39,3764,Michael Krohn-Dehli,Denmark,Shot,Goal,Right Foot,Penalty,"[108.0, 40.0]",0.76
+40,3765,Luka Modrić,Croatia,Shot,Goal,Right Foot,Penalty,"[108.0, 40.0]",0.76
+41,3766,Lasse Schöne,Denmark,Shot,Saved,Right Foot,Penalty,"[108.0, 40.0]",0.76
+42,3767,Josip Pivarić,Croatia,Shot,Saved,Left Foot,Penalty,"[108.0, 40.0]",0.76
+43,3768,Nicolai Jørgensen,Denmark,Shot,Saved,Right Foot,Penalty,"[108.0, 40.0]",0.76
+44,3769,Ivan Rakitić,Croatia,Shot,Goal,Right Foot,Penalty,"[108.0, 40.0]",0.76
+45,3059,Gylfi Þór Sigurðsson,Iceland,Shot,Saved,Right Foot,Free Kick,"[92.0, 40.0]",0.076998495
+46,3060,Gylfi Þór Sigurðsson,Iceland,Shot,Saved,Right Foot,Open Play,"[99.0, 39.0]",0.0927936
+47,3061,Kenneth Josiah Omeruo,Nigeria,Shot,Wayward,Head,Open Play,"[104.0, 39.0]",0.013531805
+48,3062,Birkir Bjarnason,Iceland,Shot,Blocked,Left Foot,Open Play,"[114.0, 27.0]",0.023211429
+49,3063,Birkir Bjarnason,Iceland,Shot,Off T,Right Foot,Open Play,"[109.0, 24.0]",0.01771761
+50,3064,Alfreð Finnbogason,Iceland,Shot,Off T,Other,Open Play,"[113.0, 40.0]",0.16101475
+51,3065,Jón Daði Böðvarsson,Iceland,Shot,Off T,Head,Open Play,"[113.0, 51.0]",0.020662703
+52,3066,Oghenekaro Etebo,Nigeria,Shot,Saved,Right Foot,Open Play,"[96.0, 47.0]",0.0431096
+53,3067,Ahmed Musa,Nigeria,Shot,Goal,Right Foot,Open Play,"[112.0, 46.0]",0.17125738
+54,3068,Onyinye Wilfred Ndidi,Nigeria,Shot,Saved,Right Foot,Open Play,"[84.0, 26.0]",0.011676902
+55,3069,Victor Moses,Nigeria,Shot,Off T,Right Foot,Open Play,"[106.0, 61.0]",0.018106434
+56,3070,Rúrik Gíslason,Iceland,Shot,Off T,Right Foot,Open Play,"[99.0, 28.0]",0.03623538
+57,3071,Victor Moses,Nigeria,Shot,Blocked,Left Foot,Open Play,"[101.0, 55.0]",0.033122562
+58,3072,Oghenekaro Etebo,Nigeria,Shot,Blocked,Right Foot,Open Play,"[95.0, 38.0]",0.029355345
+59,3073,William Troost-Ekong,Nigeria,Shot,Off T,Head,Open Play,"[107.0, 48.0]",0.05465494
+60,3074,Leon-Aderemi Balogun,Nigeria,Shot,Off T,Head,Open Play,"[112.0, 43.0]",0.08665461
+61,3075,Kelechi Promise Iheanacho,Nigeria,Shot,Blocked,Left Foot,Open Play,"[98.0, 54.0]",0.024419278
+62,3077,Victor Moses,Nigeria,Shot,Off T,Right Foot,Open Play,"[104.0, 50.0]",0.054739155
+63,3078,Ahmed Musa,Nigeria,Shot,Goal,Right Foot,Open Play,"[113.0, 41.0]",0.5289739
+64,3079,William Troost-Ekong,Nigeria,Shot,Blocked,Left Foot,Open Play,"[92.0, 39.0]",0.018213244
+65,3080,Gylfi Þór Sigurðsson,Iceland,Shot,Off T,Right Foot,Penalty,"[108.0, 40.0]",0.76
+66,3081,Kelechi Promise Iheanacho,Nigeria,Shot,Off T,Left Foot,Open Play,"[98.0, 48.0]",0.049648497
+67,3082,Alfreð Finnbogason,Iceland,Shot,Saved,Left Foot,Open Play,"[112.0, 27.0]",0.104910664
+68,3083,Onyinye Wilfred Ndidi,Nigeria,Shot,Blocked,Right Foot,Open Play,"[91.0, 42.0]",0.02246638
+69,3084,Sverrir Ingi Ingason,Iceland,Shot,Off T,Head,Open Play,"[107.0, 41.0]",0.030964347
+70,3085,Alex Iwobi,Nigeria,Shot,Blocked,Left Foot,Open Play,"[103.0, 39.0]",0.06505654
+71,3406,Dawid Kownacki,Poland,Shot,Blocked,Right Foot,Open Play,"[104.0, 21.0]",0.02011104
+72,3407,Robert Lewandowski,Poland,Shot,Wayward,Head,Open Play,"[115.0, 39.0]",0.20120071
+73,3408,Santiago Arias Naranjo,Colombia,Shot,Blocked,Right Foot,Open Play,"[95.0, 52.0]",0.009108385
+74,3409,Piotr Zieliński,Poland,Shot,Blocked,Left Foot,Open Play,"[95.0, 52.0]",0.027869526
+75,3410,Juan Guillermo Cuadrado Bello,Colombia,Shot,Off T,Right Foot,Open Play,"[82.0, 30.0]",0.0148842465
+76,3411,Yerry Fernando Mina González,Colombia,Shot,Goal,Head,Open Play,"[116.0, 38.0]",0.3634548
+77,3412,Bartosz Bereszyński,Poland,Shot,Off T,Head,Open Play,"[105.0, 55.0]",0.015632125
+78,3413,Robert Lewandowski,Poland,Shot,Off T,Head,Open Play,"[112.0, 44.0]",0.069430396
+79,3414,Juan Fernando Quintero Paniagua,Colombia,Shot,Off T,Left Foot,Open Play,"[85.0, 57.0]",0.012219362
+80,3415,Radamel Falcao García Zárate,Colombia,Shot,Off T,Right Foot,Open Play,"[102.0, 51.0]",0.066389844
+81,3416,James David Rodríguez Rubio,Colombia,Shot,Blocked,Left Foot,Open Play,"[105.0, 53.0]",0.04925287
+82,3417,Juan Fernando Quintero Paniagua,Colombia,Shot,Blocked,Left Foot,Open Play,"[98.0, 35.0]",0.035838474
+83,3418,Juan Guillermo Cuadrado Bello,Colombia,Shot,Off T,Right Foot,Open Play,"[88.0, 50.0]",0.011373354
+84,3419,Robert Lewandowski,Poland,Shot,Saved,Left Foot,Open Play,"[110.0, 29.0]",0.12777343
+85,3420,Robert Lewandowski,Poland,Shot,Blocked,Head,Open Play,"[112.0, 41.0]",0.064435676
+86,3421,Radamel Falcao García Zárate,Colombia,Shot,Goal,Right Foot,Open Play,"[108.0, 47.0]",0.35977694
+87,3422,Piotr Zieliński,Poland,Shot,Off T,Right Foot,Open Play,"[94.0, 50.0]",0.012643818
+88,3423,Juan Guillermo Cuadrado Bello,Colombia,Shot,Goal,Right Foot,Open Play,"[105.0, 38.0]",0.22527124
+89,3424,Łukasz Teodorczyk,Poland,Shot,Blocked,Head,Open Play,"[109.0, 34.0]",0.029345447
+90,3425,Grzegorz Krychowiak,Poland,Shot,Blocked,Right Foot,Open Play,"[116.0, 33.0]",0.25026387
+91,3426,Andrés Mateus Uribe Villa,Colombia,Shot,Blocked,Left Foot,Open Play,"[118.0, 47.0]",0.09427906
+92,3427,James David Rodríguez Rubio,Colombia,Shot,Off T,Left Foot,Free Kick,"[89.0, 15.0]",0.060087644
+93,3428,Robert Lewandowski,Poland,Shot,Saved,Right Foot,Open Play,"[91.0, 33.0]",0.0146566285
+94,3429,Jefferson Andrés Lerma Solís,Colombia,Shot,Blocked,Left Foot,Open Play,"[92.0, 50.0]",0.01789519
+95,3272,Alex Iwobi,Nigeria,Shot,Blocked,Right Foot,Open Play,"[89.0, 40.0]",0.010071044
+96,3273,Ivan Perišić,Croatia,Shot,Off T,Right Foot,Open Play,"[99.0, 46.0]",0.05412039
+97,3274,Andrej Kramarić,Croatia,Shot,Off T,Right Foot,Open Play,"[86.0, 35.0]",0.012597333
+98,3275,Odion Jude Ighalo,Nigeria,Shot,Blocked,Right Foot,Open Play,"[109.0, 59.0]",0.02220718
+99,3276,Oghenekaro Etebo,Nigeria,Shot,Off T,Right Foot,Open Play,"[93.0, 41.0]",0.018827748
+100,3277,Ante Rebić,Croatia,Shot,Blocked,Right Foot,Open Play,"[101.0, 23.0]",0.026724156
+101,3278,Mario Mandžukić,Croatia,Shot,Blocked,Head,Open Play,"[113.0, 41.0]",0.22018777
+102,3279,Odion Jude Ighalo,Nigeria,Shot,Blocked,Left Foot,Open Play,"[106.0, 33.0]",0.13032283
+103,3280,Andrej Kramarić,Croatia,Shot,Off T,Head,Open Play,"[107.0, 37.0]",0.06772817
+104,3281,Šime Vrsaljko,Croatia,Shot,Off T,Right Foot,Open Play,"[104.0, 59.0]",0.025439281
+105,3282,Alex Iwobi,Nigeria,Shot,Blocked,Right Foot,Open Play,"[104.0, 31.0]",0.026036683
+106,3283,Victor Moses,Nigeria,Shot,Off T,Right Foot,Open Play,"[91.0, 47.0]",0.020710541
+107,3284,Victor Moses,Nigeria,Shot,Off T,Left Foot,Open Play,"[108.0, 57.0]",0.028252468
+108,3285,Ivan Rakitić,Croatia,Shot,Off T,Right Foot,Open Play,"[88.0, 41.0]",0.010134564
+109,3286,Alex Iwobi,Nigeria,Shot,Blocked,Right Foot,Open Play,"[112.0, 21.0]",0.021278273
+110,3287,Odion Jude Ighalo,Nigeria,Shot,Saved,Head,Open Play,"[108.0, 34.0]",0.03788443
+111,3288,Mario Mandžukić,Croatia,Shot,Off T,Head,Open Play,"[112.0, 44.0]",0.061654758
+112,3289,Luka Modrić,Croatia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+113,3290,Dejan Lovren,Croatia,Shot,Blocked,Head,Open Play,"[108.0, 46.0]",0.013806463
+114,3291,Kelechi Promise Iheanacho,Nigeria,Shot,Off T,Left Foot,Open Play,"[108.0, 52.0]",0.06748636
+115,3292,Leon-Aderemi Balogun,Nigeria,Shot,Saved,Head,Open Play,"[106.0, 40.0]",0.037232388
+116,3293,Oghenekaro Etebo,Nigeria,Shot,Off T,Right Foot,Open Play,"[86.0, 29.0]",0.013130586
+117,3294,Victor Moses,Nigeria,Shot,Blocked,Right Foot,Open Play,"[108.0, 49.0]",0.12623498
+118,3295,Mateo Kovačić,Croatia,Shot,Saved,Right Foot,Open Play,"[111.0, 52.0]",0.17565578
+119,3516,Philippe Coutinho Correia,Brazil,Shot,Off T,Right Foot,Open Play,"[98.0, 51.0]",0.041867834
+120,3517,Cristian Gamboa Luna,Costa Rica,Shot,Off T,Right Foot,Open Play,"[88.0, 59.0]",0.012412083
+121,3518,Celso Borges Mora,Costa Rica,Shot,Off T,Right Foot,Open Play,"[107.0, 48.0]",0.09552835
+122,3519,Bryan Oviedo,Costa Rica,Shot,Blocked,Left Foot,Open Play,"[82.0, 27.0]",0.014804577
+123,3520,Thiago Emiliano da Silva,Brazil,Shot,Off T,Head,Open Play,"[106.0, 25.0]",0.015817871
+124,3521,Marcelo Vieira da Silva Júnior,Brazil,Shot,Blocked,Left Foot,Open Play,"[99.0, 22.0]",0.016983224
+125,3522,Marcelo Vieira da Silva Júnior,Brazil,Shot,Off T,Left Foot,Open Play,"[97.0, 20.0]",0.016828433
+126,3523,Philippe Coutinho Correia,Brazil,Shot,Off T,Right Foot,Open Play,"[92.0, 23.0]",0.016931064
+127,3524,Willian Borges da Silva,Brazil,Shot,Off T,Left Foot,Open Play,"[100.0, 52.0]",0.040131316
+128,3525,Marcelo Vieira da Silva Júnior,Brazil,Shot,Saved,Right Foot,Open Play,"[96.0, 23.0]",0.021595828
+129,3526,Neymar da Silva Santos Junior,Brazil,Shot,Blocked,Right Foot,Open Play,"[117.0, 39.0]",0.47045976
+130,3528,Philippe Coutinho Correia,Brazil,Shot,Blocked,Right Foot,Open Play,"[105.0, 41.0]",0.13453194
+131,3529,Neymar da Silva Santos Junior,Brazil,Shot,Saved,Right Foot,Open Play,"[110.0, 42.0]",0.3024155
+132,3530,Philippe Coutinho Correia,Brazil,Shot,Saved,Right Foot,Open Play,"[103.0, 48.0]",0.06996362
+133,3531,Óscar Esau Duarte Gaitán,Costa Rica,Shot,Wayward,Right Foot,Open Play,"[104.0, 40.0]",0.026154986
+134,3532,Gabriel Fernando de Jesus,Brazil,Shot,Blocked,Right Foot,Open Play,"[108.0, 31.0]",0.06596128
+135,3533,Neymar da Silva Santos Junior,Brazil,Shot,Saved,Left Foot,Open Play,"[100.0, 24.0]",0.023692384
+136,3534,Thiago Emiliano da Silva,Brazil,Shot,Wayward,Head,Open Play,"[111.0, 44.0]",0.1054688
+137,3535,Carlos Henrique Casimiro,Brazil,Shot,Saved,Head,Open Play,"[112.0, 41.0]",0.09714448
+138,3536,Neymar da Silva Santos Junior,Brazil,Shot,Off T,Right Foot,Open Play,"[98.0, 38.0]",0.10580404
+139,3537,Neymar da Silva Santos Junior,Brazil,Shot,Blocked,Right Foot,Open Play,"[108.0, 27.0]",0.03603283
+140,3538,Philippe Coutinho Correia,Brazil,Shot,Saved,Right Foot,Open Play,"[89.0, 28.0]",0.010091367
+141,3539,Carlos Henrique Casimiro,Brazil,Shot,Saved,Right Foot,Open Play,"[96.0, 46.0]",0.028604189
+142,3540,Philippe Coutinho Correia,Brazil,Shot,Goal,Right Foot,Open Play,"[113.0, 38.0]",0.36002645
+143,3541,Roberto Firmino Barbosa de Oliveira,Brazil,Shot,Off T,Right Foot,Open Play,"[112.0, 32.0]",0.12025434
+144,3542,Neymar da Silva Santos Junior,Brazil,Shot,Goal,Left Foot,Open Play,"[115.0, 42.0]",0.84282774
+145,3240,Hirving Rodrigo Lozano Bahena,Mexico,Shot,Blocked,Right Foot,Open Play,"[111.0, 29.0]",0.12454654
+146,3241,Timo Werner,Germany,Shot,Off T,Right Foot,Open Play,"[114.0, 54.0]",0.058446128
+147,3242,Mats Hummels,Germany,Shot,Saved,Left Foot,Open Play,"[103.0, 41.0]",0.081823245
+148,3243,Miguel Arturo Layún Prado,Mexico,Shot,Off T,Right Foot,Free Kick,"[95.0, 38.0]",0.10152786
+149,3244,Héctor Miguel Herrera López,Mexico,Shot,Saved,Right Foot,Open Play,"[91.0, 40.0]",0.021575123
+150,3245,Héctor Alfredo Moreno Herrera,Mexico,Shot,Saved,Head,Open Play,"[110.0, 39.0]",0.069603324
+151,3246,Julian Draxler,Germany,Shot,Saved,Right Foot,Open Play,"[94.0, 28.0]",0.0128795365
+152,3247,Toni Kroos,Germany,Shot,Blocked,Right Foot,Open Play,"[87.0, 23.0]",0.012751587
+153,3248,Timo Werner,Germany,Shot,Saved,Left Foot,Open Play,"[105.0, 46.0]",0.13701679
+154,3249,Toni Kroos,Germany,Shot,Saved,Left Foot,Open Play,"[97.0, 27.0]",0.031637885
+155,3250,Javier Hernández Balcázar,Mexico,Shot,Blocked,Left Foot,Open Play,"[100.0, 31.0]",0.037012618
+156,3251,Miguel Arturo Layún Prado,Mexico,Shot,Off T,Right Foot,Open Play,"[95.0, 39.0]",0.025883628
+157,3252,Miguel Arturo Layún Prado,Mexico,Shot,Saved,Right Foot,Open Play,"[97.0, 34.0]",0.04182519
+158,3253,Hirving Rodrigo Lozano Bahena,Mexico,Shot,Goal,Right Foot,Open Play,"[109.0, 32.0]",0.1432629
+159,3254,Sami Khedira,Germany,Shot,Blocked,Right Foot,Open Play,"[107.0, 50.0]",0.045221735
+160,3255,Toni Kroos,Germany,Shot,Saved,Right Foot,Free Kick,"[95.0, 49.0]",0.08655771
+161,3256,Carlos Alberto Vela Garrido,Mexico,Shot,Off T,Left Foot,Open Play,"[102.0, 32.0]",0.06636913
+162,3257,Marvin Plattenhardt,Germany,Shot,Saved,Left Foot,Open Play,"[95.0, 30.0]",0.022533856
+163,3258,Joshua Kimmich,Germany,Shot,Off T,Left Foot,Open Play,"[93.0, 40.0]",0.016957339
+164,3259,Julian Draxler,Germany,Shot,Blocked,Right Foot,Open Play,"[105.0, 25.0]",0.03690991
+165,3260,Toni Kroos,Germany,Shot,Blocked,Right Foot,Open Play,"[102.0, 36.0]",0.036896866
+166,3261,José Andrés Guardado Hernández,Mexico,Shot,Off T,Left Foot,Open Play,"[102.0, 29.0]",0.054035157
+167,3262,Julian Draxler,Germany,Shot,Blocked,Right Foot,Open Play,"[99.0, 31.0]",0.04118117
+168,3263,Joshua Kimmich,Germany,Shot,Off T,Right Foot,Open Play,"[109.0, 41.0]",0.11041257
+169,3264,Julian Draxler,Germany,Shot,Off T,Right Foot,Open Play,"[104.0, 31.0]",0.044748064
+170,3265,Timo Werner,Germany,Shot,Off T,Right Foot,Open Play,"[114.0, 34.0]",0.1665578
+171,3266,Marco Reus,Germany,Shot,Off T,Right Foot,Open Play,"[114.0, 58.0]",0.020397227
+172,3267,Toni Kroos,Germany,Shot,Off T,Right Foot,Open Play,"[100.0, 49.0]",0.06758642
+173,3268,Julian Draxler,Germany,Shot,Blocked,Left Foot,Open Play,"[106.0, 40.0]",0.1436374
+174,3269,Miguel Arturo Layún Prado,Mexico,Shot,Off T,Right Foot,Open Play,"[97.0, 48.0]",0.036564335
+175,3270,Mesut Özil,Germany,Shot,Blocked,Left Foot,Open Play,"[99.0, 52.0]",0.034131553
+176,3271,Miguel Arturo Layún Prado,Mexico,Shot,Off T,Right Foot,Open Play,"[101.0, 54.0]",0.05629847
+177,3272,Toni Kroos,Germany,Shot,Saved,Left Foot,Open Play,"[99.0, 33.0]",0.0523555
+178,3273,Mario Gómez García,Germany,Shot,Blocked,Head,Open Play,"[113.0, 35.0]",0.049506612
+179,3274,Mario Gómez García,Germany,Shot,Off T,Head,Open Play,"[113.0, 40.0]",0.08843158
+180,3275,Mario Gómez García,Germany,Shot,Saved,Right Foot,Open Play,"[117.0, 39.0]",0.41927418
+181,3276,Julian Brandt,Germany,Shot,Off T,Right Foot,Open Play,"[96.0, 31.0]",0.024618596
+182,3277,Jérôme Boateng,Germany,Shot,Saved,Left Foot,Open Play,"[95.0, 59.0]",0.016289597
+183,3485,Mile Jedinak,Australia,Shot,Off T,Right Foot,Open Play,"[97.0, 53.0]",0.04348265
+184,3486,Tom Rogić,Australia,Shot,Blocked,Left Foot,Open Play,"[95.0, 46.0]",0.048779152
+185,3487,André Martín Carrillo Díaz,Peru,Shot,Goal,Right Foot,Open Play,"[104.0, 53.0]",0.036197923
+186,3488,Mathew Leckie,Australia,Shot,Wayward,Head,Open Play,"[112.0, 42.0]",0.15494666
+187,3489,José Paolo Guerrero González,Peru,Shot,Saved,Head,Open Play,"[109.0, 37.0]",0.060401045
+188,3490,Tom Rogić,Australia,Shot,Saved,Left Foot,Open Play,"[105.0, 40.0]",0.2767756
+189,3491,Víctor Yoshimar Yotún Flores,Peru,Shot,Off T,Left Foot,Open Play,"[83.0, 33.0]",0.011811328
+190,3492,Trent Sainsbury,Australia,Shot,Off T,Head,Open Play,"[116.0, 43.0]",0.09505257
+191,3493,Trent Sainsbury,Australia,Shot,Off T,Head,Open Play,"[115.0, 34.0]",0.06519177
+192,3494,José Paolo Guerrero González,Peru,Shot,Goal,Left Foot,Open Play,"[111.0, 36.0]",0.1810734
+193,3495,Mile Jedinak,Australia,Shot,Saved,Head,Open Play,"[113.0, 50.0]",0.04791941
+194,3496,Aaron Mooy,Australia,Shot,Blocked,Right Foot,Free Kick,"[96.0, 61.0]",0.037910372
+195,3497,Trent Sainsbury,Australia,Shot,Wayward,Head,Open Play,"[113.0, 52.0]",0.02350248
+196,3498,Mile Jedinak,Australia,Shot,Wayward,Head,Open Play,"[116.0, 39.0]",0.1810469
+197,3499,Tim Cahill,Australia,Shot,Wayward,Head,Open Play,"[111.0, 51.0]",0.041663412
+198,3500,Aziz Eraltay Behich,Australia,Shot,Off T,Left Foot,Open Play,"[107.0, 32.0]",0.059994295
+199,3501,Tim Cahill,Australia,Shot,Blocked,Right Foot,Open Play,"[110.0, 35.0]",0.1079838
+200,3502,Mathew Leckie,Australia,Shot,Blocked,Right Foot,Open Play,"[112.0, 50.0]",0.031708725
+201,3503,Daniel Arzani,Australia,Shot,Off T,Right Foot,Open Play,"[96.0, 31.0]",0.04634848
+202,3504,Mile Jedinak,Australia,Shot,Off T,Right Foot,Free Kick,"[93.0, 36.0]",0.059850473
+203,3898,Philippe Coutinho Correia,Brazil,Shot,Blocked,Right Foot,Open Play,"[104.0, 37.0]",0.08005835
+204,3899,Gabriel Fernando de Jesus,Brazil,Shot,Saved,Right Foot,Open Play,"[114.0, 28.0]",0.08755656
+205,3900,Filip Kostić,Serbia,Shot,Blocked,Left Foot,Open Play,"[96.0, 46.0]",0.01887498
+206,3901,Aleksandar Mitrović,Serbia,Shot,Wayward,Head,Open Play,"[108.0, 43.0]",0.017764475
+207,3902,Neymar da Silva Santos Junior,Brazil,Shot,Saved,Left Foot,Open Play,"[117.0, 30.0]",0.08092888
+208,3903,Gabriel Fernando de Jesus,Brazil,Shot,Blocked,Right Foot,Open Play,"[114.0, 29.0]",0.08293217
+209,3904,Aleksandar Mitrović,Serbia,Shot,Off T,Left Foot,Open Play,"[110.0, 42.0]",0.068023644
+210,3905,José Paulo Bezzera Maciel Júnior,Brazil,Shot,Goal,Right Foot,Open Play,"[106.0, 39.0]",0.27684093
+211,3906,Dušan Tadić,Serbia,Shot,Off T,Left Foot,Open Play,"[95.0, 45.0]",0.014794509
+212,3907,Neymar da Silva Santos Junior,Brazil,Shot,Off T,Right Foot,Open Play,"[101.0, 18.0]",0.024582438
+213,3908,Sergej Milinković-Savić,Serbia,Shot,Blocked,Right Foot,Open Play,"[96.0, 50.0]",0.031584896
+214,3909,Neymar da Silva Santos Junior,Brazil,Shot,Saved,Left Foot,Open Play,"[111.0, 28.0]",0.0935555
+215,3910,Aleksandar Mitrović,Serbia,Shot,Blocked,Head,Open Play,"[112.0, 41.0]",0.35422686
+216,3911,Sergej Milinković-Savić,Serbia,Shot,Off T,Right Foot,Open Play,"[104.0, 28.0]",0.038562443
+217,3912,Aleksandar Mitrović,Serbia,Shot,Saved,Head,Open Play,"[113.0, 37.0]",0.09027755
+218,3913,Thiago Emiliano da Silva,Brazil,Shot,Goal,Head,Open Play,"[116.0, 36.0]",0.30332908
+219,3914,Philippe Coutinho Correia,Brazil,Shot,Blocked,Right Foot,Open Play,"[101.0, 43.0]",0.043053042
+220,3915,Filipe Luis Kasmirski,Brazil,Shot,Saved,Left Foot,Open Play,"[95.0, 40.0]",0.01288662
+221,3916,Neymar da Silva Santos Junior,Brazil,Shot,Blocked,Right Foot,Open Play,"[104.0, 30.0]",0.0637518
+222,3917,Carlos Henrique Casimiro,Brazil,Shot,Off T,Right Foot,Open Play,"[80.0, 43.0]",0.010222873
+223,3918,Nemanja Matić,Serbia,Shot,Off T,Left Foot,Open Play,"[109.0, 40.0]",0.21679449
+224,3919,Neymar da Silva Santos Junior,Brazil,Shot,Off T,Right Foot,Open Play,"[106.0, 43.0]",0.1605145
+225,3920,Aleksandar Mitrović,Serbia,Shot,Blocked,Right Foot,Open Play,"[106.0, 43.0]",0.07516868
+226,3921,Neymar da Silva Santos Junior,Brazil,Shot,Blocked,Right Foot,Open Play,"[108.0, 30.0]",0.055022724
+227,3922,Andrija Živković,Serbia,Shot,Off T,Left Foot,Open Play,"[99.0, 59.0]",0.01166152
+228,3923,Neymar da Silva Santos Junior,Brazil,Shot,Saved,Right Foot,Open Play,"[114.0, 52.0]",0.14093578
+229,1649,"M""Baye Babacar Niang",Senegal,Shot,Off T,Right Foot,Open Play,"[96.0, 26.0]",0.021801108
+230,1650,Juan Fernando Quintero Paniagua,Colombia,Shot,Saved,Left Foot,Free Kick,"[96.0, 53.0]",0.06201031
+231,1651,Keita Baldé Diao,Senegal,Shot,Saved,Right Foot,Open Play,"[107.0, 23.0]",0.024572538
+232,1652,Ismaïla Sarr,Senegal,Shot,Saved,Left Foot,Open Play,"[104.0, 59.0]",0.0224238
+233,1653,Salif Sané,Senegal,Shot,Off T,Right Foot,Open Play,"[90.0, 41.0]",0.018913621
+234,1654,Sadio Mané,Senegal,Shot,Off T,Right Foot,Free Kick,"[95.0, 51.0]",0.07043302
+235,1655,Luis Fernando Muriel Fruto,Colombia,Shot,Blocked,Left Foot,Open Play,"[105.0, 49.0]",0.038616735
+236,1656,Radamel Falcao García Zárate,Colombia,Shot,Off T,Head,Open Play,"[114.0, 43.0]",0.08617213
+237,1657,Yerry Fernando Mina González,Colombia,Shot,Goal,Head,Open Play,"[114.0, 47.0]",0.039005697
+238,1658,"M""Baye Babacar Niang",Senegal,Shot,Saved,Right Foot,Open Play,"[113.0, 52.0]",0.14207058
+239,1659,Ismaïla Sarr,Senegal,Shot,Off T,Right Foot,Open Play,"[108.0, 51.0]",0.057264026
+240,3287,Ferjani Sassi,Tunisia,Shot,Blocked,Right Foot,Open Play,"[101.0, 40.0]",0.10470346
+241,3288,Naïm Sliti,Tunisia,Shot,Wayward,Right Foot,Open Play,"[104.0, 33.0]",0.045645814
+242,3289,Ricardo Guardia Avila,Panama,Shot,Off T,Left Foot,Open Play,"[78.0, 22.0]",0.0136322705
+243,3290,Naïm Sliti,Tunisia,Shot,Off T,Right Foot,Open Play,"[95.0, 42.0]",0.060311474
+244,3291,Gabriel Arturo Torres Tejada,Panama,Shot,Wayward,Other,Open Play,"[113.0, 32.0]",0.16159177
+245,3292,Fakhreddine Ben Youssef,Tunisia,Shot,Blocked,Right Foot,Open Play,"[104.0, 27.0]",0.045342684
+246,3293,Naïm Sliti,Tunisia,Shot,Saved,Right Foot,Open Play,"[102.0, 48.0]",0.07522538
+247,3294,Luis Carlos Ovalle Victoria,Panama,Shot,Saved,Right Foot,Open Play,"[90.0, 20.0]",0.009438108
+248,3295,Román Aureliano Torres Morcillo,Panama,Shot,Blocked,Right Foot,Open Play,"[108.0, 30.0]",0.06781374
+249,3296,José Luis Rodríguez Francis,Panama,Shot,Blocked,Left Foot,Open Play,"[94.0, 34.0]",0.030780757
+250,3297,Fakhreddine Ben Youssef,Tunisia,Shot,Off T,Head,Open Play,"[116.0, 38.0]",0.18375683
+251,3298,Wahbi Khazri,Tunisia,Shot,Off T,Right Foot,Open Play,"[109.0, 54.0]",0.06737645
+252,3299,Wahbi Khazri,Tunisia,Shot,Blocked,Right Foot,Open Play,"[105.0, 54.0]",0.037925974
+253,3300,Wahbi Khazri,Tunisia,Shot,Saved,Right Foot,Open Play,"[109.0, 54.0]",0.061486255
+254,3301,Fakhreddine Ben Youssef,Tunisia,Shot,Goal,Right Foot,Open Play,"[114.0, 40.0]",0.5075647
+255,3302,Fakhreddine Ben Youssef,Tunisia,Shot,Saved,Right Foot,Open Play,"[109.0, 47.0]",0.32092282
+256,3303,Hamdi Nagguez,Tunisia,Shot,Wayward,Other,Open Play,"[113.0, 50.0]",0.032893594
+257,3304,Ghilane Chalali,Tunisia,Shot,Wayward,Right Foot,Open Play,"[103.0, 51.0]",0.03709035
+258,3305,Wahbi Khazri,Tunisia,Shot,Saved,Right Foot,Open Play,"[104.0, 56.0]",0.025835417
+259,3306,Edgar Yoel Bárcenas Herrera,Panama,Shot,Saved,Right Foot,Open Play,"[104.0, 42.0]",0.22509256
+260,3307,Wahbi Khazri,Tunisia,Shot,Goal,Right Foot,Open Play,"[117.0, 43.0]",0.8620113
+261,3308,José Luis Rodríguez Francis,Panama,Shot,Saved,Left Foot,Open Play,"[108.0, 31.0]",0.053500086
+262,3309,Aníbal Cesis Godoy,Panama,Shot,Off T,Left Foot,Open Play,"[104.0, 31.0]",0.052292347
+263,3310,Edgar Yoel Bárcenas Herrera,Panama,Shot,Saved,Right Foot,Free Kick,"[94.0, 50.0]",0.079581
+264,3130,Mario Gavranović,Switzerland,Shot,Blocked,Right Foot,Open Play,"[111.0, 49.0]",0.08514858
+265,3131,Joel Nathaniel Campbell Samuels,Costa Rica,Shot,Saved,Left Foot,Open Play,"[99.0, 54.0]",0.018753203
+266,3132,Celso Borges Mora,Costa Rica,Shot,Saved,Head,Open Play,"[111.0, 40.0]",0.10052337
+267,3133,Cristian Gamboa Luna,Costa Rica,Shot,Saved,Left Foot,Open Play,"[98.0, 50.0]",0.020396402
+268,3134,Daniel Colindres Solera,Costa Rica,Shot,Off T,Left Foot,Open Play,"[98.0, 31.0]",0.047347855
+269,3136,Mario Gavranović,Switzerland,Shot,Off T,Right Foot,Open Play,"[97.0, 37.0]",0.03176429
+270,3137,Bryan Oviedo,Costa Rica,Shot,Saved,Left Foot,Open Play,"[104.0, 18.0]",0.028150484
+271,3138,Daniel Colindres Solera,Costa Rica,Shot,Blocked,Right Foot,Open Play,"[109.0, 29.0]",0.11378889
+272,3139,Blerim Džemaili,Switzerland,Shot,Goal,Right Foot,Open Play,"[113.0, 43.0]",0.42871645
+273,3140,Blerim Džemaili,Switzerland,Shot,Blocked,Right Foot,Open Play,"[105.0, 42.0]",0.19935568
+274,3141,Stephan Lichtsteiner,Switzerland,Shot,Blocked,Left Foot,Open Play,"[91.0, 51.0]",0.011991691
+275,3142,Blerim Džemaili,Switzerland,Shot,Wayward,Head,Open Play,"[116.0, 51.0]",0.03152342
+276,3143,Valon Behrami,Switzerland,Shot,Wayward,Left Foot,Open Play,"[87.0, 40.0]",0.011717601
+277,3144,Joel Nathaniel Campbell Samuels,Costa Rica,Shot,Off T,Left Foot,Open Play,"[108.0, 36.0]",0.10652326
+278,3145,Ricardo Iván Rodríguez Araya,Switzerland,Shot,Off T,Left Foot,Open Play,"[91.0, 21.0]",0.021019584
+279,3146,Breel-Donald Embolo,Switzerland,Shot,Wayward,Head,Open Play,"[111.0, 39.0]",0.044326983
+280,3147,Breel-Donald Embolo,Switzerland,Shot,Saved,Right Foot,Open Play,"[119.0, 53.0]",0.07451685
+281,3148,David Alberto Guzmán Pérez,Costa Rica,Shot,Blocked,Right Foot,Open Play,"[97.0, 28.0]",0.014943483
+282,3149,Bryan Oviedo,Costa Rica,Shot,Off T,Left Foot,Open Play,"[109.0, 29.0]",0.037939653
+283,3150,Kendall Jamaal Waston Manley,Costa Rica,Shot,Goal,Head,Open Play,"[115.0, 42.0]",0.07792592
+284,3151,Celso Borges Mora,Costa Rica,Shot,Off T,Right Foot,Open Play,"[87.0, 31.0]",0.013839894
+285,3152,Josip Drmic,Switzerland,Shot,Blocked,Left Foot,Open Play,"[96.0, 32.0]",0.023676213
+286,3154,Celso Borges Mora,Costa Rica,Shot,Saved,Right Foot,Open Play,"[104.0, 57.0]",0.03549099
+287,3155,Josip Drmic,Switzerland,Shot,Goal,Right Foot,Open Play,"[106.0, 34.0]",0.11787563
+288,3144,Kylian Mbappé Lottin,France,Shot,Saved,Left Foot,Open Play,"[114.0, 56.0]",0.023680815
+289,3145,Paul Pogba,France,Shot,Saved,Right Foot,Free Kick,"[94.0, 28.0]",0.0537762
+290,3146,Antoine Griezmann,France,Shot,Saved,Right Foot,Open Play,"[95.0, 43.0]",0.029836575
+291,3147,Antoine Griezmann,France,Shot,Blocked,Head,Open Play,"[109.0, 31.0]",0.043471277
+292,3148,Mathew Leckie,Australia,Shot,Off T,Head,Open Play,"[110.0, 34.0]",0.041143782
+293,3149,Mathew Leckie,Australia,Shot,Saved,Head,Open Play,"[105.0, 32.0]",0.016474541
+294,3150,Lucas Hernández Pi,France,Shot,Blocked,Left Foot,Open Play,"[109.0, 26.0]",0.056864604
+295,3151,Aziz Eraltay Behich,Australia,Shot,Off T,Right Foot,Open Play,"[101.0, 21.0]",0.01838063
+296,3152,Antoine Griezmann,France,Shot,Goal,Left Foot,Penalty,"[108.0, 40.0]",0.76
+297,3153,Antoine Griezmann,France,Shot,Blocked,Left Foot,Open Play,"[104.0, 37.0]",0.124435306
+298,3154,Antoine Griezmann,France,Shot,Off T,Right Foot,Open Play,"[104.0, 43.0]",0.053825147
+299,3155,Mile Jedinak,Australia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+300,3156,Samuel Yves Umtiti,France,Shot,Blocked,Left Foot,Open Play,"[86.0, 30.0]",0.010798525
+301,3157,Benjamin Pavard,France,Shot,Off T,Right Foot,Open Play,"[95.0, 42.0]",0.016129572
+302,3158,Lucas Hernández Pi,France,Shot,Off T,Right Foot,Open Play,"[100.0, 31.0]",0.04685782
+303,3159,Nabil Fekir,France,Shot,Blocked,Left Foot,Free Kick,"[100.0, 63.0]",0.058693647
+304,3160,Josh Risdon,Australia,Shot,Blocked,Left Foot,Open Play,"[97.0, 47.0]",0.049843766
+305,2996,Matías Vecino Falero,Uruguay,Shot,Off T,Right Foot,Open Play,"[87.0, 30.0]",0.008022297
+306,2997,Luis Alberto Suárez Díaz,Uruguay,Shot,Goal,Right Foot,Free Kick,"[101.0, 36.0]",0.112385206
+307,2998,Denis Cheryshev,Russia,Shot,Saved,Right Foot,Open Play,"[103.0, 32.0]",0.06471651
+308,2999,Diego Sebastián Laxalt Suárez,Uruguay,Shot,Blocked,Left Foot,Open Play,"[96.0, 24.0]",0.014004752
+309,3000,Rodrigo Bentancur Colmán,Uruguay,Shot,Saved,Right Foot,Open Play,"[111.0, 45.0]",0.38191983
+310,3001,Edinson Roberto Cavani Gómez,Uruguay,Shot,Blocked,Right Foot,Free Kick,"[94.0, 45.0]",0.09139082
+311,3002,Rodrigo Bentancur Colmán,Uruguay,Shot,Blocked,Left Foot,Open Play,"[111.0, 57.0]",0.030116782
+312,3003,Diego Roberto Godín Leal,Uruguay,Shot,Off T,Right Foot,Open Play,"[59.0, 32.0]",0.009486399
+313,3004,Edinson Roberto Cavani Gómez,Uruguay,Shot,Off T,Right Foot,Open Play,"[105.0, 33.0]",0.059820477
+314,3005,Roman Zobnin,Russia,Shot,Blocked,Right Foot,Open Play,"[96.0, 55.0]",0.023039786
+315,3006,Artem Dzyuba,Russia,Shot,Off T,Left Foot,Open Play,"[105.0, 52.0]",0.068745025
+316,3007,Cristian Gabriel Rodríguez Barrotti,Uruguay,Shot,Saved,Left Foot,Open Play,"[94.0, 25.0]",0.017061912
+317,3008,José Martín Cáceres Silva,Uruguay,Shot,Wayward,Head,Open Play,"[116.0, 42.0]",0.20716776
+318,3009,Edinson Roberto Cavani Gómez,Uruguay,Shot,Blocked,Left Foot,Open Play,"[107.0, 47.0]",0.06877739
+319,3010,Cristian Gabriel Rodríguez Barrotti,Uruguay,Shot,Saved,Left Foot,Open Play,"[101.0, 22.0]",0.021906631
+320,3011,Diego Roberto Godín Leal,Uruguay,Shot,Saved,Head,Open Play,"[114.0, 39.0]",0.114004165
+321,3012,Edinson Roberto Cavani Gómez,Uruguay,Shot,Goal,Left Foot,Open Play,"[119.0, 39.0]",0.64413047
+322,3013,Giorgian Daniel De Arrascaeta Benedetti,Uruguay,Shot,Wayward,Left Foot,Open Play,"[113.0, 44.0]",0.38110033
+323,3014,Lucas Torreira Di Pascua,Uruguay,Shot,Blocked,Right Foot,Open Play,"[91.0, 31.0]",0.02063423
+324,3270,Hirving Rodrigo Lozano Bahena,Mexico,Shot,Blocked,Right Foot,Open Play,"[111.0, 52.0]",0.07893264
+325,3271,Neymar da Silva Santos Junior,Brazil,Shot,Saved,Right Foot,Open Play,"[96.0, 43.0]",0.051520824
+326,3272,Carlos Joel Salcedo Hernández,Mexico,Shot,Wayward,Head,Open Play,"[107.0, 43.0]",0.012247688
+327,3273,Hirving Rodrigo Lozano Bahena,Mexico,Shot,Blocked,Left Foot,Open Play,"[111.0, 58.0]",0.02344906
+328,3274,Héctor Miguel Herrera López,Mexico,Shot,Blocked,Left Foot,Open Play,"[105.0, 41.0]",0.06120251
+329,3275,Neymar da Silva Santos Junior,Brazil,Shot,Saved,Right Foot,Open Play,"[116.0, 30.0]",0.13530065
+330,3276,Gabriel Fernando de Jesus,Brazil,Shot,Blocked,Left Foot,Open Play,"[112.0, 48.0]",0.10139771
+331,3277,Philippe Coutinho Correia,Brazil,Shot,Off T,Right Foot,Open Play,"[102.0, 30.0]",0.030451013
+332,3278,Carlos Alberto Vela Garrido,Mexico,Shot,Off T,Left Foot,Open Play,"[101.0, 26.0]",0.04205263
+333,3279,Gabriel Fernando de Jesus,Brazil,Shot,Saved,Left Foot,Open Play,"[111.0, 30.0]",0.100937374
+334,3280,Philippe Coutinho Correia,Brazil,Shot,Wayward,Left Foot,Open Play,"[115.0, 32.0]",0.23329093
+335,3281,Philippe Coutinho Correia,Brazil,Shot,Blocked,Left Foot,Open Play,"[100.0, 31.0]",0.07007318
+336,3282,Philippe Coutinho Correia,Brazil,Shot,Blocked,Right Foot,Open Play,"[93.0, 31.0]",0.030183105
+337,3283,Neymar da Silva Santos Junior,Brazil,Shot,Off T,Right Foot,Free Kick,"[90.0, 27.0]",0.02039316
+338,3284,Gabriel Fernando de Jesus,Brazil,Shot,Blocked,Right Foot,Open Play,"[102.0, 48.0]",0.050033048
+339,3285,Philippe Coutinho Correia,Brazil,Shot,Saved,Right Foot,Open Play,"[107.0, 31.0]",0.09557149
+340,3286,Jesús Daniel Gallardo Vasconcelos,Mexico,Shot,Off T,Left Foot,Open Play,"[95.0, 33.0]",0.05415378
+341,3287,Neymar da Silva Santos Junior,Brazil,Shot,Goal,Right Foot,Open Play,"[119.0, 43.0]",0.90845025
+342,3288,José Andrés Guardado Hernández,Mexico,Shot,Blocked,Left Foot,Open Play,"[92.0, 33.0]",0.040702
+343,3289,Miguel Arturo Layún Prado,Mexico,Shot,Blocked,Right Foot,Open Play,"[97.0, 54.0]",0.023132723
+344,3290,Neymar da Silva Santos Junior,Brazil,Shot,Off T,Right Foot,Open Play,"[99.0, 54.0]",0.05060692
+345,3291,José Paulo Bezzera Maciel Júnior,Brazil,Shot,Saved,Right Foot,Open Play,"[107.0, 43.0]",0.21793565
+346,3292,Hirving Rodrigo Lozano Bahena,Mexico,Shot,Blocked,Right Foot,Open Play,"[91.0, 41.0]",0.039082214
+347,3293,Carlos Alberto Vela Garrido,Mexico,Shot,Saved,Left Foot,Open Play,"[100.0, 56.0]",0.02711902
+348,3294,Willian Borges da Silva,Brazil,Shot,Saved,Right Foot,Open Play,"[106.0, 54.0]",0.027005129
+349,3295,Neymar da Silva Santos Junior,Brazil,Shot,Off T,Left Foot,Open Play,"[104.0, 40.0]",0.13883619
+350,3296,José Andrés Guardado Hernández,Mexico,Shot,Blocked,Left Foot,Open Play,"[93.0, 41.0]",0.023216132
+351,3297,Willian Borges da Silva,Brazil,Shot,Saved,Left Foot,Open Play,"[97.0, 55.0]",0.027677026
+352,3298,Hugo Ayala Castro,Mexico,Shot,Wayward,Right Foot,Open Play,"[109.0, 29.0]",0.021870146
+353,3299,Neymar da Silva Santos Junior,Brazil,Shot,Saved,Right Foot,Open Play,"[112.0, 33.0]",0.46234304
+354,3300,Roberto Firmino Barbosa de Oliveira,Brazil,Shot,Goal,Right Foot,Open Play,"[119.0, 43.0]",0.9317404
+355,3301,Hirving Rodrigo Lozano Bahena,Mexico,Shot,Off T,Right Foot,Open Play,"[111.0, 59.0]",0.02425635
+356,3302,Raúl Alonso Jiménez Rodríguez,Mexico,Shot,Blocked,Right Foot,Open Play,"[105.0, 52.0]",0.07907735
+357,3681,Denis Cheryshev,Russia,Shot,Blocked,Right Foot,Open Play,"[109.0, 56.0]",0.051290978
+358,3682,Artem Dzyuba,Russia,Shot,Blocked,Right Foot,Open Play,"[110.0, 52.0]",0.03967244
+359,3683,Ante Rebić,Croatia,Shot,Off T,Head,Open Play,"[113.0, 42.0]",0.11612712
+360,3684,Mario Mandžukić,Croatia,Shot,Wayward,Right Foot,Open Play,"[109.0, 43.0]",0.1229721
+361,3685,Ivan Rakitić,Croatia,Shot,Off T,Right Foot,Free Kick,"[98.0, 23.0]",0.049078766
+362,3686,Ivan Perišić,Croatia,Shot,Off T,Head,Open Play,"[109.0, 50.0]",0.033829287
+363,3687,Denis Cheryshev,Russia,Shot,Goal,Left Foot,Open Play,"[94.0, 34.0]",0.0700209
+364,3688,Ante Rebić,Croatia,Shot,Blocked,Right Foot,Open Play,"[94.0, 30.0]",0.017253965
+365,3689,Ivan Perišić,Croatia,Shot,Wayward,Head,Open Play,"[115.0, 37.0]",0.102284394
+366,3690,Sergei Ignashevich,Russia,Shot,Off T,Right Foot,Open Play,"[118.0, 27.0]",0.04668437
+367,3691,Denis Cheryshev,Russia,Shot,Off T,Left Foot,Open Play,"[115.0, 29.0]",0.10346184
+368,3692,Andrej Kramarić,Croatia,Shot,Goal,Head,Open Play,"[113.0, 38.0]",0.17762586
+369,3693,Luka Modrić,Croatia,Shot,Off T,Right Foot,Open Play,"[88.0, 53.0]",0.007884129
+370,3694,Andrej Kramarić,Croatia,Shot,Saved,Right Foot,Open Play,"[105.0, 40.0]",0.0689109
+371,3695,Ante Rebić,Croatia,Shot,Off T,Right Foot,Open Play,"[97.0, 20.0]",0.01671075
+372,3697,Artem Dzyuba,Russia,Shot,Saved,Head,Open Play,"[110.0, 40.0]",0.021173509
+373,3698,Andrej Kramarić,Croatia,Shot,Blocked,Right Foot,Open Play,"[90.0, 31.0]",0.022288216
+374,3699,Aleksandr Erokhin,Russia,Shot,Off T,Head,Open Play,"[113.0, 44.0]",0.12005566
+375,3700,Luka Modrić,Croatia,Shot,Blocked,Left Foot,Open Play,"[105.0, 39.0]",0.14905682
+376,3701,Šime Vrsaljko,Croatia,Shot,Blocked,Right Foot,Open Play,"[114.0, 57.0]",0.023632344
+377,3702,Mario Mandžukić,Croatia,Shot,Off T,Head,Open Play,"[111.0, 39.0]",0.06144705
+378,3703,Fyodor Smolov,Russia,Shot,Saved,Right Foot,Open Play,"[117.0, 64.0]",0.031307407
+379,3704,Domagoj Vida,Croatia,Shot,Goal,Head,Open Play,"[110.0, 40.0]",0.06021956
+380,3705,Ilya Kutepov,Russia,Shot,Wayward,Head,Open Play,"[115.0, 37.0]",0.2357307
+381,3706,Aleksandr Erokhin,Russia,Shot,Off T,Head,Open Play,"[114.0, 35.0]",0.069342524
+382,3707,Dejan Lovren,Croatia,Shot,Saved,Right Foot,Open Play,"[101.0, 20.0]",0.019602463
+383,3708,Daler Kuzyaev,Russia,Shot,Saved,Right Foot,Open Play,"[103.0, 52.0]",0.022727875
+384,3709,Mário Figueira Fernandes,Russia,Shot,Goal,Head,Open Play,"[114.0, 41.0]",0.19230573
+385,3710,Luka Modrić,Croatia,Shot,Off T,Right Foot,Open Play,"[99.0, 20.0]",0.019734947
+386,3711,Roman Zobnin,Russia,Shot,Saved,Right Foot,Open Play,"[94.0, 32.0]",0.021203853
+387,3712,Fyodor Smolov,Russia,Shot,Saved,Right Foot,Penalty,"[109.0, 41.0]",0.76
+388,3713,Marcelo Brozović,Croatia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+389,3714,Alan Dzagoev,Russia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+390,3715,Mateo Kovačić,Croatia,Shot,Saved,Right Foot,Penalty,"[109.0, 41.0]",0.76
+391,3716,Mário Figueira Fernandes,Russia,Shot,Off T,Right Foot,Penalty,"[109.0, 41.0]",0.76
+392,3717,Luka Modrić,Croatia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+393,3718,Sergei Ignashevich,Russia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+394,3719,Domagoj Vida,Croatia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+395,3720,Daler Kuzyaev,Russia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+396,3721,Ivan Rakitić,Croatia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+397,3245,Thomas Delaney,Denmark,Shot,Off T,Head,Open Play,"[114.0, 38.0]",0.11904341
+398,3246,Tom Rogić,Australia,Shot,Blocked,Left Foot,Open Play,"[101.0, 53.0]",0.0301372
+399,3247,Mathew Leckie,Australia,Shot,Off T,Head,Open Play,"[113.0, 42.0]",0.09075201
+400,3248,Christian Dannemann Eriksen,Denmark,Shot,Goal,Left Foot,Open Play,"[104.0, 39.0]",0.20277502
+401,3249,Pione Sisto Ifolo Emirmija,Denmark,Shot,Saved,Left Foot,Open Play,"[88.0, 38.0]",0.02391071
+402,3250,Tom Rogić,Australia,Shot,Off T,Left Foot,Open Play,"[93.0, 33.0]",0.02080183
+403,3251,Nicolai Jørgensen,Denmark,Shot,Off T,Head,Open Play,"[113.0, 42.0]",0.26150653
+404,3252,Robbie Kruse,Australia,Shot,Blocked,Right Foot,Open Play,"[111.0, 44.0]",0.07593266
+405,3253,Aaron Mooy,Australia,Shot,Blocked,Left Foot,Open Play,"[92.0, 40.0]",0.01718571
+406,3254,Mathew Leckie,Australia,Shot,Blocked,Head,Open Play,"[110.0, 41.0]",0.03546757
+407,3255,Mile Jedinak,Australia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+408,3256,Jens Stryger Larsen,Denmark,Shot,Saved,Head,Open Play,"[108.0, 32.0]",0.022287868
+409,3257,Pione Sisto Ifolo Emirmija,Denmark,Shot,Blocked,Right Foot,Open Play,"[107.0, 40.0]",0.12890576
+410,3258,Aaron Mooy,Australia,Shot,Off T,Right Foot,Open Play,"[94.0, 26.0]",0.019794442
+411,3259,Tom Rogić,Australia,Shot,Saved,Left Foot,Open Play,"[94.0, 47.0]",0.026701845
+412,3260,Pione Sisto Ifolo Emirmija,Denmark,Shot,Off T,Right Foot,Open Play,"[96.0, 27.0]",0.021085456
+413,3261,Mathew Leckie,Australia,Shot,Saved,Left Foot,Open Play,"[104.0, 59.0]",0.015538131
+414,3262,Mathew Leckie,Australia,Shot,Wayward,Other,Open Play,"[108.0, 42.0]",0.11678044
+415,3263,Andreas Evald Cornelius,Denmark,Shot,Saved,Other,Open Play,"[106.0, 34.0]",0.061521
+416,3264,Daniel Arzani,Australia,Shot,Saved,Right Foot,Open Play,"[114.0, 24.0]",0.0277683
+417,3265,Mathew Leckie,Australia,Shot,Saved,Left Foot,Open Play,"[107.0, 37.0]",0.07394367
+418,3266,Christian Dannemann Eriksen,Denmark,Shot,Off T,Right Foot,Open Play,"[97.0, 47.0]",0.035272356
+419,3267,Martin Braithwaite Christensen,Denmark,Shot,Saved,Left Foot,Open Play,"[105.0, 29.0]",0.025077866
+420,2783,Aleksandar Mitrović,Serbia,Shot,Blocked,Head,Open Play,"[112.0, 42.0]",0.042957798
+421,2784,Marcos Danilo Ureña Porras,Costa Rica,Shot,Saved,Right Foot,Open Play,"[119.0, 52.0]",0.052444596
+422,2785,Giancarlo González Castro,Costa Rica,Shot,Saved,Head,Open Play,"[112.0, 45.0]",0.09120496
+423,2786,Aleksandar Kolarov,Serbia,Shot,Off T,Left Foot,Open Play,"[93.0, 20.0]",0.01811359
+424,2787,Giancarlo González Castro,Costa Rica,Shot,Off T,Head,Open Play,"[116.0, 48.0]",0.112895004
+425,2788,Aleksandar Mitrović,Serbia,Shot,Blocked,Right Foot,Open Play,"[104.0, 53.0]",0.057528947
+426,2789,Aleksandar Mitrović,Serbia,Shot,Wayward,Head,Open Play,"[116.0, 32.0]",0.07852257
+427,2790,Marcos Danilo Ureña Porras,Costa Rica,Shot,Off T,Left Foot,Open Play,"[96.0, 42.0]",0.03387759
+428,2791,Francisco Javier Calvo Quesada,Costa Rica,Shot,Off T,Right Foot,Open Play,"[101.0, 29.0]",0.041363865
+429,2792,Aleksandar Mitrović,Serbia,Shot,Saved,Right Foot,Open Play,"[109.0, 39.0]",0.32518992
+430,2793,Aleksandar Mitrović,Serbia,Shot,Off T,Head,Open Play,"[114.0, 41.0]",0.11534889
+431,2794,Aleksandar Kolarov,Serbia,Shot,Goal,Left Foot,Free Kick,"[94.0, 59.0]",0.024129113
+432,2795,Sergej Milinković-Savić,Serbia,Shot,Off T,Head,Open Play,"[109.0, 45.0]",0.05712495
+433,2796,Sergej Milinković-Savić,Serbia,Shot,Off T,Right Foot,Open Play,"[94.0, 37.0]",0.028266445
+434,2797,Filip Kostić,Serbia,Shot,Wayward,Right Foot,Open Play,"[118.0, 42.0]",0.9116856
+435,2798,Nemanja Matić,Serbia,Shot,Blocked,Left Foot,Open Play,"[100.0, 36.0]",0.047151152
+436,2799,Joel Nathaniel Campbell Samuels,Costa Rica,Shot,Blocked,Left Foot,Open Play,"[102.0, 57.0]",0.02672405
+437,2800,Celso Borges Mora,Costa Rica,Shot,Blocked,Right Foot,Open Play,"[100.0, 43.0]",0.061757725
+438,2801,Filip Kostić,Serbia,Shot,Off T,Left Foot,Open Play,"[101.0, 30.0]",0.040289335
+439,2802,Cristian Gamboa Luna,Costa Rica,Shot,Saved,Right Foot,Open Play,"[79.0, 33.0]",0.010544344
+440,2803,Óscar Esau Duarte Gaitán,Costa Rica,Shot,Blocked,Head,Open Play,"[112.0, 31.0]",0.025405953
+441,2804,Bryan Ruiz González,Costa Rica,Shot,Blocked,Left Foot,Open Play,"[106.0, 42.0]",0.07177669
+442,3452,Édison Michael Flores Peralta,Peru,Shot,Blocked,Left Foot,Open Play,"[96.0, 43.0]",0.03422855
+443,3453,Víctor Yoshimar Yotún Flores,Peru,Shot,Off T,Left Foot,Open Play,"[62.0, 36.0]",0.015276206
+444,3454,Antoine Griezmann,France,Shot,Off T,Right Foot,Open Play,"[114.0, 54.0]",0.106518276
+445,3455,Paul Pogba,France,Shot,Off T,Right Foot,Open Play,"[88.0, 54.0]",0.018662851
+446,3456,Raphaël Varane,France,Shot,Off T,Head,Open Play,"[115.0, 34.0]",0.07205489
+447,3457,Antoine Griezmann,France,Shot,Saved,Right Foot,Open Play,"[102.0, 51.0]",0.03193608
+448,3458,Édison Michael Flores Peralta,Peru,Shot,Off T,Left Foot,Open Play,"[97.0, 27.0]",0.019665204
+449,3459,José Paolo Guerrero González,Peru,Shot,Saved,Left Foot,Open Play,"[110.0, 33.0]",0.13734727
+450,3460,Kylian Mbappé Lottin,France,Shot,Saved,Right Foot,Open Play,"[112.0, 38.0]",0.27446675
+451,3461,Olivier Giroud,France,Shot,Blocked,Left Foot,Open Play,"[109.0, 29.0]",0.13063751
+452,3462,Kylian Mbappé Lottin,France,Shot,Goal,Right Foot,Open Play,"[119.0, 41.0]",0.8994274
+453,3463,Lucas Hernández Pi,France,Shot,Saved,Left Foot,Open Play,"[109.0, 27.0]",0.07508504
+454,3464,Lucas Hernández Pi,France,Shot,Off T,Left Foot,Open Play,"[112.0, 29.0]",0.12747373
+455,3466,Christian Alberto Cueva Bravo,Peru,Shot,Blocked,Right Foot,Open Play,"[101.0, 30.0]",0.06748881
+456,3467,André Martín Carrillo Díaz,Peru,Shot,Off T,Right Foot,Open Play,"[94.0, 37.0]",0.022335617
+457,3468,José Paolo Guerrero González,Peru,Shot,Wayward,Head,Open Play,"[105.0, 40.0]",0.022788737
+458,3469,Luis Jan Piers Advíncula Castrillón,Peru,Shot,Off T,Left Foot,Open Play,"[98.0, 61.0]",0.013263656
+459,3470,Jefferson Agustín Farfán Guadalupe,Peru,Shot,Off T,Left Foot,Open Play,"[116.0, 29.0]",0.05422472
+460,3471,Ousmane Dembélé,France,Shot,Off T,Left Foot,Open Play,"[105.0, 44.0]",0.060839437
+461,3472,José Paolo Guerrero González,Peru,Shot,Saved,Right Foot,Free Kick,"[87.0, 43.0]",0.040015787
+462,3473,Blaise Matuidi,France,Shot,Off T,Left Foot,Open Play,"[97.0, 40.0]",0.024688834
+463,3474,José Paolo Guerrero González,Peru,Shot,Off T,Head,Open Play,"[107.0, 30.0]",0.014897333
+464,3475,Olivier Giroud,France,Shot,Blocked,Left Foot,Open Play,"[106.0, 32.0]",0.11420754
+465,3348,Shinji Kagawa,Japan,Shot,Off T,Left Foot,Open Play,"[98.0, 47.0]",0.024996893
+466,3349,Gen Shōji,Japan,Shot,Off T,Right Foot,Open Play,"[74.0, 41.0]",0.013225093
+467,3350,Axel Witsel,Belgium,Shot,Blocked,Left Foot,Open Play,"[95.0, 33.0]",0.043376084
+468,3351,Vincent Kompany,Belgium,Shot,Wayward,Head,Open Play,"[111.0, 51.0]",0.010093679
+469,3352,Romelu Lukaku Menama,Belgium,Shot,Blocked,Left Foot,Open Play,"[105.0, 40.0]",0.046488736
+470,3353,Vincent Kompany,Belgium,Shot,Wayward,Other,Open Play,"[111.0, 48.0]",0.029675562
+471,3354,Vincent Kompany,Belgium,Shot,Off T,Right Foot,Open Play,"[112.0, 50.0]",0.0671176
+472,3355,Romelu Lukaku Menama,Belgium,Shot,Blocked,Right Foot,Open Play,"[101.0, 50.0]",0.05464871
+473,3356,Romelu Lukaku Menama,Belgium,Shot,Wayward,Right Foot,Open Play,"[114.0, 41.0]",0.34111065
+474,3357,Kevin De Bruyne,Belgium,Shot,Blocked,Right Foot,Open Play,"[102.0, 46.0]",0.106753215
+475,3358,Eden Hazard,Belgium,Shot,Saved,Left Foot,Open Play,"[102.0, 26.0]",0.04625173
+476,3359,Vincent Kompany,Belgium,Shot,Wayward,Right Foot,Open Play,"[118.0, 45.0]",0.3356448
+477,3360,Takashi Inui,Japan,Shot,Saved,Head,Open Play,"[110.0, 45.0]",0.030698622
+478,3361,Eden Hazard,Belgium,Shot,Blocked,Right Foot,Open Play,"[103.0, 33.0]",0.1187635
+479,3362,Axel Witsel,Belgium,Shot,Off T,Right Foot,Open Play,"[93.0, 49.0]",0.026183542
+480,3363,Yuto Nagatomo,Japan,Shot,Blocked,Right Foot,Open Play,"[109.0, 24.0]",0.030335639
+481,3364,Genki Haraguchi,Japan,Shot,Goal,Right Foot,Open Play,"[109.0, 54.0]",0.16858953
+482,3366,Eden Hazard,Belgium,Shot,Wayward,Right Foot,Open Play,"[110.0, 41.0]",0.24746744
+483,3367,Takashi Inui,Japan,Shot,Goal,Right Foot,Open Play,"[94.0, 33.0]",0.022122927
+484,3368,Yannick Ferreira Carrasco,Belgium,Shot,Off T,Right Foot,Open Play,"[102.0, 26.0]",0.028265981
+485,3369,Gaku Shibasaki,Japan,Shot,Blocked,Head,Open Play,"[107.0, 49.0]",0.01531299
+486,3370,Romelu Lukaku Menama,Belgium,Shot,Off T,Head,Open Play,"[115.0, 46.0]",0.15041663
+487,3371,Genki Haraguchi,Japan,Shot,Off T,Right Foot,Open Play,"[110.0, 48.0]",0.13164166
+488,3372,Thomas Meunier,Belgium,Shot,Off T,Right Foot,Open Play,"[100.0, 54.0]",0.041384257
+489,3373,Romelu Lukaku Menama,Belgium,Shot,Blocked,Right Foot,Open Play,"[112.0, 46.0]",0.10435619
+490,3374,Jan Vertonghen,Belgium,Shot,Goal,Head,Open Play,"[116.0, 23.0]",0.0156067135
+491,3375,Kevin De Bruyne,Belgium,Shot,Blocked,Right Foot,Open Play,"[102.0, 45.0]",0.050079428
+492,3376,Marouane Fellaini-Bakkioui,Belgium,Shot,Goal,Head,Open Play,"[114.0, 42.0]",0.1176203
+493,3377,Takashi Inui,Japan,Shot,Blocked,Right Foot,Open Play,"[109.0, 30.0]",0.095252335
+494,3378,Yuto Nagatomo,Japan,Shot,Wayward,Right Foot,Open Play,"[113.0, 23.0]",0.023308918
+495,3379,Romelu Lukaku Menama,Belgium,Shot,Off T,Head,Open Play,"[114.0, 47.0]",0.08987997
+496,3380,Vincent Kompany,Belgium,Shot,Wayward,Head,Open Play,"[114.0, 57.0]",0.0109053
+497,3381,Keisuke Honda,Japan,Shot,Blocked,Left Foot,Open Play,"[113.0, 30.0]",0.17566422
+498,3382,Nacer Chadli,Belgium,Shot,Saved,Head,Open Play,"[113.0, 35.0]",0.0463404
+499,3383,Romelu Lukaku Menama,Belgium,Shot,Saved,Head,Open Play,"[114.0, 44.0]",0.12913896
+500,3384,Thomas Meunier,Belgium,Shot,Off T,Right Foot,Open Play,"[80.0, 42.0]",0.008897997
+501,3385,Jan Vertonghen,Belgium,Shot,Saved,Left Foot,Open Play,"[96.0, 24.0]",0.01549985
+502,3386,Keisuke Honda,Japan,Shot,Saved,Left Foot,Free Kick,"[79.0, 39.0]",0.019848887
+503,3387,Nacer Chadli,Belgium,Shot,Goal,Left Foot,Open Play,"[111.0, 37.0]",0.39401338
+504,3347,Romelu Lukaku Menama,Belgium,Shot,Off T,Left Foot,Open Play,"[113.0, 34.0]",0.112056084
+505,3348,Edgar Yoel Bárcenas Herrera,Panama,Shot,Wayward,Left Foot,Open Play,"[96.0, 51.0]",0.013044717
+506,3349,Yannick Ferreira Carrasco,Belgium,Shot,Saved,Right Foot,Open Play,"[104.0, 24.0]",0.036519405
+507,3350,Dries Mertens,Belgium,Shot,Saved,Right Foot,Open Play,"[104.0, 54.0]",0.0743451
+508,3351,Eden Hazard,Belgium,Shot,Off T,Left Foot,Open Play,"[118.0, 30.0]",0.07139939
+509,3352,Dries Mertens,Belgium,Shot,Off T,Right Foot,Open Play,"[110.0, 57.0]",0.035623748
+510,3353,Kevin De Bruyne,Belgium,Shot,Off T,Right Foot,Open Play,"[98.0, 22.0]",0.026944142
+511,3354,Eden Hazard,Belgium,Shot,Off T,Right Foot,Open Play,"[103.0, 56.0]",0.027490327
+512,3355,Eden Hazard,Belgium,Shot,Saved,Right Foot,Open Play,"[109.0, 54.0]",0.04854429
+513,3356,Román Aureliano Torres Morcillo,Panama,Shot,Wayward,Right Foot,Open Play,"[104.0, 37.0]",0.03305367
+514,3357,Dries Mertens,Belgium,Shot,Off T,Right Foot,Open Play,"[103.0, 50.0]",0.039647717
+515,3358,Armando Enrique Cooper Whitaker,Panama,Shot,Off T,Right Foot,Open Play,"[92.0, 53.0]",0.033878587
+516,3359,Dries Mertens,Belgium,Shot,Goal,Right Foot,Open Play,"[105.0, 59.0]",0.013670832
+517,3360,Kevin De Bruyne,Belgium,Shot,Off T,Right Foot,Free Kick,"[97.0, 26.0]",0.059370674
+518,3361,Michael Amir Murillo Bermudez,Panama,Shot,Saved,Right Foot,Open Play,"[111.0, 49.0]",0.45156148
+519,3362,Román Aureliano Torres Morcillo,Panama,Shot,Off T,Head,Open Play,"[111.0, 38.0]",0.07633168
+520,3363,Edgar Yoel Bárcenas Herrera,Panama,Shot,Off T,Right Foot,Open Play,"[99.0, 33.0]",0.06960459
+521,3364,Kevin De Bruyne,Belgium,Shot,Blocked,Right Foot,Free Kick,"[94.0, 37.0]",0.09763994
+522,3365,Romelu Lukaku Menama,Belgium,Shot,Goal,Head,Open Play,"[114.0, 43.0]",0.28224698
+523,3366,Romelu Lukaku Menama,Belgium,Shot,Goal,Left Foot,Open Play,"[110.0, 29.0]",0.25408942
+524,3367,Eden Hazard,Belgium,Shot,Blocked,Right Foot,Free Kick,"[95.0, 29.0]",0.051501106
+525,3368,Fidel Escobar Mendieta,Panama,Shot,Saved,Right Foot,Free Kick,"[96.0, 19.0]",0.03567857
+526,3305,Ivan Perišić,Croatia,Shot,Saved,Left Foot,Open Play,"[109.0, 27.0]",0.045951154
+527,3306,Maximiliano Eduardo Meza,Argentina,Shot,Blocked,Right Foot,Open Play,"[104.0, 41.0]",0.062275548
+528,3307,Marcelo Brozović,Croatia,Shot,Blocked,Right Foot,Open Play,"[87.0, 35.0]",0.01941603
+529,3308,Enzo Nicolás Pérez,Argentina,Shot,Off T,Left Foot,Open Play,"[106.0, 33.0]",0.30398282
+530,3309,Mario Mandžukić,Croatia,Shot,Off T,Head,Open Play,"[115.0, 34.0]",0.19995767
+531,3310,Ante Rebić,Croatia,Shot,Off T,Right Foot,Open Play,"[99.0, 34.0]",0.07235942
+532,3311,Marcos Javier Acuña,Argentina,Shot,Blocked,Left Foot,Open Play,"[96.0, 28.0]",0.031634614
+533,3312,Sergio Leonel Agüero del Castillo,Argentina,Shot,Saved,Left Foot,Open Play,"[111.0, 29.0]",0.09077968
+534,3313,Ante Rebić,Croatia,Shot,Goal,Right Foot,Open Play,"[108.0, 30.0]",0.24468073
+535,3314,Maximiliano Eduardo Meza,Argentina,Shot,Saved,Left Foot,Open Play,"[113.0, 34.0]",0.18473433
+536,3315,Lionel Andrés Messi Cuccittini,Argentina,Shot,Blocked,Left Foot,Open Play,"[117.0, 36.0]",0.22701412
+537,3316,Nicolás Hernán Otamendi,Argentina,Shot,Off T,Head,Open Play,"[109.0, 43.0]",0.033097085
+538,3317,Mario Mandžukić,Croatia,Shot,Off T,Right Foot,Open Play,"[115.0, 49.0]",0.11344085
+539,3318,Paulo Bruno Exequiel Dybala,Argentina,Shot,Off T,Left Foot,Open Play,"[107.0, 59.0]",0.018799992
+540,3319,Ivan Rakitić,Croatia,Shot,Blocked,Right Foot,Open Play,"[103.0, 24.0]",0.03292196
+541,3320,Luka Modrić,Croatia,Shot,Goal,Right Foot,Open Play,"[93.0, 45.0]",0.02784503
+542,3321,Gonzalo Gerardo Higuaín,Argentina,Shot,Saved,Right Foot,Open Play,"[100.0, 27.0]",0.04832674
+543,3323,Mateo Kovačić,Croatia,Shot,Off T,Head,Open Play,"[103.0, 34.0]",0.041089132
+544,3324,Mario Mandžukić,Croatia,Shot,Blocked,Left Foot,Open Play,"[99.0, 50.0]",0.03507466
+545,3325,Luka Modrić,Croatia,Shot,Off T,Right Foot,Open Play,"[87.0, 54.0]",0.011457617
+546,3326,Maximiliano Eduardo Meza,Argentina,Shot,Blocked,Left Foot,Open Play,"[108.0, 31.0]",0.07783071
+547,3327,Ivan Rakitić,Croatia,Shot,Saved,Right Foot,Open Play,"[98.0, 38.0]",0.16665307
+548,3328,Ivan Rakitić,Croatia,Shot,Goal,Right Foot,Open Play,"[112.0, 40.0]",0.64075035
+549,3473,Antoine Griezmann,France,Shot,Goal,Left Foot,Penalty,"[108.0, 40.0]",0.76
+550,3474,Paul Pogba,France,Shot,Off T,Right Foot,Free Kick,"[102.0, 33.0]",0.07868333
+551,3475,Éver Maximiliano David Banega,Argentina,Shot,Blocked,Right Foot,Open Play,"[96.0, 27.0]",0.017642729
+552,3476,Ángel Fabián Di María Hernández,Argentina,Shot,Goal,Left Foot,Open Play,"[90.0, 38.0]",0.016100956
+553,3477,Lionel Andrés Messi Cuccittini,Argentina,Shot,Blocked,Left Foot,Open Play,"[104.0, 56.0]",0.013592267
+554,3478,Gabriel Iván Mercado,Argentina,Shot,Goal,Left Foot,Open Play,"[111.0, 42.0]",0.30808258
+555,3479,Antoine Griezmann,France,Shot,Off T,Right Foot,Open Play,"[116.0, 45.0]",0.19090676
+556,3480,Benjamin Pavard,France,Shot,Goal,Right Foot,Open Play,"[100.0, 56.0]",0.027012315
+557,3481,Blaise Matuidi,France,Shot,Blocked,Left Foot,Open Play,"[108.0, 35.0]",0.1068089
+558,3482,Kylian Mbappé Lottin,France,Shot,Goal,Left Foot,Open Play,"[112.0, 30.0]",0.0887856
+559,3483,Lionel Andrés Messi Cuccittini,Argentina,Shot,Blocked,Left Foot,Free Kick,"[95.0, 24.0]",0.029953266
+560,3484,Lionel Andrés Messi Cuccittini,Argentina,Shot,Blocked,Left Foot,Open Play,"[96.0, 22.0]",0.012178314
+561,3485,Kylian Mbappé Lottin,France,Shot,Goal,Right Foot,Open Play,"[107.0, 51.0]",0.27453396
+562,3486,Olivier Giroud,France,Shot,Off T,Left Foot,Open Play,"[108.0, 27.0]",0.093324415
+563,3487,Nicolás Hernán Otamendi,Argentina,Shot,Wayward,Right Foot,Open Play,"[114.0, 36.0]",0.09816829
+564,3488,Lionel Andrés Messi Cuccittini,Argentina,Shot,Saved,Right Foot,Open Play,"[107.0, 49.0]",0.11678907
+565,3489,Sergio Leonel Agüero del Castillo,Argentina,Shot,Blocked,Right Foot,Open Play,"[106.0, 48.0]",0.09862432
+566,3490,Ángel Fabián Di María Hernández,Argentina,Shot,Blocked,Left Foot,Open Play,"[114.0, 55.0]",0.02406148
+567,3491,Sergio Leonel Agüero del Castillo,Argentina,Shot,Goal,Head,Open Play,"[112.0, 37.0]",0.14020057
+568,3492,Ángel Fabián Di María Hernández,Argentina,Shot,Wayward,Right Foot,Open Play,"[113.0, 38.0]",0.26005843
+569,3244,Kevin De Bruyne,Belgium,Shot,Off T,Right Foot,Open Play,"[91.0, 51.0]",0.014494464
+570,3246,Eden Hazard,Belgium,Shot,Blocked,Right Foot,Open Play,"[106.0, 31.0]",0.069559745
+571,3247,Nacer Chadli,Belgium,Shot,Off T,Right Foot,Open Play,"[92.0, 29.0]",0.012855073
+572,3248,José Paulo Bezzera Maciel Júnior,Brazil,Shot,Blocked,Right Foot,Open Play,"[109.0, 46.0]",0.13588713
+573,3249,José Paulo Bezzera Maciel Júnior,Brazil,Shot,Wayward,Right Foot,Open Play,"[111.0, 37.0]",0.19304001
+574,3250,Marouane Fellaini-Bakkioui,Belgium,Shot,Blocked,Right Foot,Open Play,"[98.0, 38.0]",0.06118409
+575,3251,Gabriel Fernando de Jesus,Brazil,Shot,Blocked,Left Foot,Open Play,"[115.0, 37.0]",0.23026557
+576,3252,Philippe Coutinho Correia,Brazil,Shot,Saved,Right Foot,Open Play,"[96.0, 33.0]",0.049995597
+577,3253,Marcelo Vieira da Silva Júnior,Brazil,Shot,Saved,Left Foot,Open Play,"[99.0, 18.0]",0.013631129
+578,3254,Fernando Luiz Rosa,Brazil,Shot,Blocked,Right Foot,Open Play,"[103.0, 42.0]",0.062281348
+579,3255,Neymar da Silva Santos Junior,Brazil,Shot,Blocked,Right Foot,Open Play,"[96.0, 20.0]",0.014483569
+580,3256,Kevin De Bruyne,Belgium,Shot,Goal,Right Foot,Open Play,"[102.0, 54.0]",0.029206576
+581,3257,Gabriel Fernando de Jesus,Brazil,Shot,Off T,Head,Open Play,"[110.0, 45.0]",0.122674584
+582,3258,Philippe Coutinho Correia,Brazil,Shot,Saved,Right Foot,Open Play,"[98.0, 21.0]",0.016153093
+583,3259,Kevin De Bruyne,Belgium,Shot,Saved,Right Foot,Free Kick,"[99.0, 20.0]",0.038126137
+584,3260,Vincent Kompany,Belgium,Shot,Saved,Right Foot,Open Play,"[115.0, 32.0]",0.026050871
+585,3261,Philippe Coutinho Correia,Brazil,Shot,Blocked,Right Foot,Open Play,"[97.0, 27.0]",0.028738566
+586,3262,José Paulo Bezzera Maciel Júnior,Brazil,Shot,Saved,Right Foot,Open Play,"[117.0, 51.0]",0.08939978
+587,3263,Eden Hazard,Belgium,Shot,Off T,Left Foot,Open Play,"[108.0, 27.0]",0.12373057
+588,3264,Douglas Costa de Souza,Brazil,Shot,Saved,Right Foot,Open Play,"[112.0, 58.0]",0.020545688
+589,3265,Philippe Coutinho Correia,Brazil,Shot,Blocked,Right Foot,Open Play,"[98.0, 36.0]",0.032717794
+590,3266,Douglas Costa de Souza,Brazil,Shot,Blocked,Left Foot,Open Play,"[91.0, 58.0]",0.015129961
+591,3267,Douglas Costa de Souza,Brazil,Shot,Saved,Left Foot,Open Play,"[96.0, 56.0]",0.020284714
+592,3268,Douglas Costa de Souza,Brazil,Shot,Saved,Right Foot,Open Play,"[110.0, 58.0]",0.029056756
+593,3269,Neymar da Silva Santos Junior,Brazil,Shot,Blocked,Right Foot,Open Play,"[109.0, 45.0]",0.278938
+594,3270,Renato Soares de Oliveira Augusto,Brazil,Shot,Goal,Head,Open Play,"[111.0, 42.0]",0.1786923
+595,3271,Roberto Firmino Barbosa de Oliveira,Brazil,Shot,Off T,Left Foot,Open Play,"[111.0, 30.0]",0.084747374
+596,3272,Renato Soares de Oliveira Augusto,Brazil,Shot,Off T,Right Foot,Open Play,"[102.0, 42.0]",0.12754485
+597,3273,Philippe Coutinho Correia,Brazil,Shot,Off T,Right Foot,Open Play,"[107.0, 33.0]",0.115953155
+598,3274,Philippe Coutinho Correia,Brazil,Shot,Blocked,Right Foot,Open Play,"[96.0, 37.0]",0.03488397
+599,3275,Neymar da Silva Santos Junior,Brazil,Shot,Saved,Right Foot,Open Play,"[98.0, 39.0]",0.04967877
+600,3276,Roberto Firmino Barbosa de Oliveira,Brazil,Shot,Off T,Head,Open Play,"[115.0, 42.0]",0.14248769
+601,3298,Cristhian Ricardo Stuani Curbelo,Uruguay,Shot,Wayward,Right Foot,Open Play,"[112.0, 56.0]",0.02005466
+602,3299,Lucas Hernández Pi,France,Shot,Blocked,Left Foot,Open Play,"[91.0, 22.0]",0.017589806
+603,3300,Raphaël Varane,France,Shot,Off T,Head,Open Play,"[112.0, 48.0]",0.031468455
+604,3301,"N""Golo Kanté",France,Shot,Blocked,Right Foot,Open Play,"[96.0, 45.0]",0.031882204
+605,3302,José María Giménez de Vargas,Uruguay,Shot,Saved,Head,Open Play,"[109.0, 32.0]",0.0133319395
+606,3303,Kylian Mbappé Lottin,France,Shot,Off T,Head,Open Play,"[115.0, 48.0]",0.11800958
+607,3304,Paul Pogba,France,Shot,Off T,Right Foot,Open Play,"[84.0, 45.0]",0.0132812215
+608,3305,Matías Vecino Falero,Uruguay,Shot,Saved,Right Foot,Open Play,"[108.0, 50.0]",0.055447184
+609,3306,Raphaël Varane,France,Shot,Goal,Head,Open Play,"[109.0, 44.0]",0.05804482
+610,3307,Nahitan Michel Nández Acosta,Uruguay,Shot,Saved,Left Foot,Open Play,"[89.0, 30.0]",0.008605404
+611,3308,José Martín Cáceres Silva,Uruguay,Shot,Saved,Head,Open Play,"[108.0, 38.0]",0.03431653
+612,3309,Diego Roberto Godín Leal,Uruguay,Shot,Off T,Left Foot,Open Play,"[118.0, 34.0]",0.29572147
+613,3310,Benjamin Pavard,France,Shot,Off T,Right Foot,Open Play,"[86.0, 51.0]",0.008928954
+614,3311,Rodrigo Bentancur Colmán,Uruguay,Shot,Off T,Left Foot,Open Play,"[101.0, 54.0]",0.04735546
+615,3312,José Martín Cáceres Silva,Uruguay,Shot,Off T,Right Foot,Open Play,"[104.0, 62.0]",0.022134613
+616,3313,Antoine Griezmann,France,Shot,Goal,Left Foot,Open Play,"[97.0, 21.0]",0.019057512
+617,3314,Cristian Gabriel Rodríguez Barrotti,Uruguay,Shot,Blocked,Left Foot,Open Play,"[96.0, 34.0]",0.012615478
+618,3315,Cristian Gabriel Rodríguez Barrotti,Uruguay,Shot,Off T,Left Foot,Open Play,"[99.0, 35.0]",0.025549656
+619,3316,Corentin Tolisso,France,Shot,Off T,Right Foot,Open Play,"[99.0, 32.0]",0.07365634
+620,3317,Olivier Giroud,France,Shot,Off T,Left Foot,Open Play,"[102.0, 52.0]",0.022285676
+621,3318,Antoine Griezmann,France,Shot,Off T,Left Foot,Free Kick,"[90.0, 44.0]",0.038856577
+622,2906,Domagoj Vida,Croatia,Shot,Off T,Head,Open Play,"[112.0, 49.0]",0.041080866
+623,2907,Ivan Rakitić,Croatia,Shot,Off T,Left Foot,Open Play,"[108.0, 29.0]",0.066235095
+624,2908,Ivan Perišić,Croatia,Shot,Goal,Left Foot,Open Play,"[105.0, 32.0]",0.0638289
+625,2909,Antoine Griezmann,France,Shot,Goal,Left Foot,Penalty,"[108.0, 40.0]",0.76
+626,2910,Ante Rebić,Croatia,Shot,Wayward,Left Foot,Open Play,"[108.0, 41.0]",0.096983835
+627,2911,Ivan Perišić,Croatia,Shot,Blocked,Head,Open Play,"[117.0, 34.0]",0.08307878
+628,2912,Dejan Lovren,Croatia,Shot,Blocked,Right Foot,Open Play,"[113.0, 26.0]",0.019115372
+629,2913,Domagoj Vida,Croatia,Shot,Off T,Head,Open Play,"[115.0, 40.0]",0.12251567
+630,2914,Antoine Griezmann,France,Shot,Saved,Left Foot,Open Play,"[95.0, 45.0]",0.028644508
+631,2915,Ante Rebić,Croatia,Shot,Saved,Left Foot,Open Play,"[108.0, 26.0]",0.06694556
+632,2916,Dejan Lovren,Croatia,Shot,Wayward,Head,Open Play,"[110.0, 33.0]",0.015374918
+633,2917,Šime Vrsaljko,Croatia,Shot,Off T,Right Foot,Open Play,"[91.0, 48.0]",0.009769128
+634,2918,Kylian Mbappé Lottin,France,Shot,Saved,Right Foot,Open Play,"[115.0, 55.0]",0.09879184
+635,2919,Paul Pogba,France,Shot,Blocked,Right Foot,Open Play,"[99.0, 41.0]",0.028212855
+636,2920,Paul Pogba,France,Shot,Goal,Left Foot,Open Play,"[102.0, 39.0]",0.06137098
+637,2921,Olivier Giroud,France,Shot,Wayward,Left Foot,Open Play,"[112.0, 29.0]",0.04245391
+638,2922,Ante Rebić,Croatia,Shot,Blocked,Right Foot,Open Play,"[96.0, 29.0]",0.046455897
+639,2923,Kylian Mbappé Lottin,France,Shot,Goal,Right Foot,Open Play,"[94.0, 40.0]",0.032754462
+640,2924,Mario Mandžukić,Croatia,Shot,Goal,Right Foot,Open Play,"[114.0, 43.0]",0.55741626
+641,2925,Šime Vrsaljko,Croatia,Shot,Off T,Right Foot,Open Play,"[78.0, 40.0]",0.011603945
+642,2926,Ivan Rakitić,Croatia,Shot,Blocked,Left Foot,Open Play,"[101.0, 30.0]",0.041524105
+643,2927,Nabil Fekir,France,Shot,Saved,Left Foot,Open Play,"[98.0, 61.0]",0.010757457
+644,2928,Ivan Rakitić,Croatia,Shot,Off T,Right Foot,Open Play,"[90.0, 24.0]",0.011770719
+645,3282,Mateo Kovačić,Croatia,Shot,Blocked,Right Foot,Open Play,"[101.0, 46.0]",0.022321746
+646,3283,Hörður Björgvin Magnússon,Iceland,Shot,Off T,Head,Open Play,"[112.0, 34.0]",0.034039836
+647,3284,Gylfi Þór Sigurðsson,Iceland,Shot,Saved,Right Foot,Free Kick,"[94.0, 19.0]",0.05013201
+648,3285,Birkir Bjarnason,Iceland,Shot,Blocked,Right Foot,Open Play,"[104.0, 36.0]",0.02221207
+649,3286,Birkir Bjarnason,Iceland,Shot,Blocked,Right Foot,Open Play,"[105.0, 41.0]",0.07076972
+650,3287,Ivan Perišić,Croatia,Shot,Off T,Left Foot,Open Play,"[95.0, 41.0]",0.030166421
+651,3288,Marko Pjaca,Croatia,Shot,Blocked,Right Foot,Open Play,"[91.0, 40.0]",0.019465046
+652,3289,Alfreð Finnbogason,Iceland,Shot,Off T,Right Foot,Open Play,"[103.0, 45.0]",0.2036979
+653,3290,Luka Modrić,Croatia,Shot,Off T,Right Foot,Open Play,"[87.0, 46.0]",0.012671134
+654,3291,Emil Hallfreðsson,Iceland,Shot,Off T,Left Foot,Open Play,"[85.0, 35.0]",0.016305828
+655,3292,Birkir Bjarnason,Iceland,Shot,Saved,Right Foot,Open Play,"[108.0, 42.0]",0.09515749
+656,3293,Aron Einar Gunnarsson,Iceland,Shot,Saved,Right Foot,Open Play,"[104.0, 56.0]",0.038554348
+657,3295,Milan Badelj,Croatia,Shot,Goal,Right Foot,Open Play,"[106.0, 40.0]",0.18804236
+658,3296,Hörður Björgvin Magnússon,Iceland,Shot,Wayward,Head,Open Play,"[117.0, 48.0]",0.06607084
+659,3297,Sverrir Ingi Ingason,Iceland,Shot,Saved,Head,Open Play,"[113.0, 39.0]",0.068030484
+660,3299,Johann Berg Guðmunds­son,Iceland,Shot,Blocked,Left Foot,Open Play,"[101.0, 61.0]",0.019331634
+661,3300,Gylfi Þór Sigurðsson,Iceland,Shot,Off T,Right Foot,Open Play,"[108.0, 60.0]",0.021627054
+662,3301,Andrej Kramarić,Croatia,Shot,Blocked,Left Foot,Open Play,"[91.0, 34.0]",0.02078887
+663,3302,Birkir Bjarnason,Iceland,Shot,Off T,Left Foot,Open Play,"[112.0, 33.0]",0.2361464
+664,3303,Josip Pivarić,Croatia,Shot,Off T,Left Foot,Open Play,"[100.0, 19.0]",0.01577466
+665,3304,Gylfi Þór Sigurðsson,Iceland,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+666,3305,Johann Berg Guðmunds­son,Iceland,Shot,Saved,Left Foot,Open Play,"[98.0, 60.0]",0.015518699
+667,3306,Ivan Perišić,Croatia,Shot,Off T,Left Foot,Free Kick,"[95.0, 55.0]",0.044736
+668,3307,Ivan Rakitić,Croatia,Shot,Off T,Right Foot,Free Kick,"[104.0, 16.0]",0.07423121
+669,3308,Andrej Kramarić,Croatia,Shot,Off T,Right Foot,Open Play,"[104.0, 33.0]",0.06328202
+670,3309,Ivan Perišić,Croatia,Shot,Goal,Left Foot,Open Play,"[111.0, 28.0]",0.09747661
+671,3310,Ivan Rakitić,Croatia,Shot,Off T,Right Foot,Open Play,"[101.0, 41.0]",0.061914966
+672,3311,Aron Einar Gunnarsson,Iceland,Shot,Blocked,Head,Open Play,"[114.0, 38.0]",0.122197814
+673,3418,Salif Sané,Senegal,Shot,Off T,Right Foot,Free Kick,"[84.0, 34.0]",0.025829028
+674,3419,Piotr Zieliński,Poland,Shot,Blocked,Left Foot,Open Play,"[95.0, 35.0]",0.03750245
+675,3420,Kamil Grosicki,Poland,Shot,Off T,Head,Open Play,"[111.0, 49.0]",0.22676115
+676,3421,Robert Lewandowski,Poland,Shot,Off T,Left Foot,Open Play,"[101.0, 46.0]",0.023280732
+677,3422,Idrissa Gana Gueye,Senegal,Shot,Blocked,Right Foot,Open Play,"[99.0, 48.0]",0.04369716
+678,3423,Salif Sané,Senegal,Shot,Off T,Head,Open Play,"[114.0, 43.0]",0.08856388
+679,3424,Idrissa Gana Gueye,Senegal,Shot,Blocked,Right Foot,Open Play,"[98.0, 62.0]",0.013834369
+680,3425,Robert Lewandowski,Poland,Shot,Saved,Right Foot,Free Kick,"[96.0, 47.0]",0.089643575
+681,3426,Sadio Mané,Senegal,Shot,Blocked,Left Foot,Open Play,"[109.0, 35.0]",0.074557915
+682,3427,Mame Biram Diouf,Senegal,Shot,Wayward,Right Foot,Open Play,"[108.0, 40.0]",0.090500705
+683,3428,Łukasz Piszczek,Poland,Shot,Off T,Right Foot,Open Play,"[113.0, 53.0]",0.047933094
+684,3429,"M""Baye Babacar Niang",Senegal,Shot,Goal,Right Foot,Open Play,"[113.0, 40.0]",0.8692258
+685,3430,Kamil Grosicki,Poland,Shot,Blocked,Right Foot,Open Play,"[92.0, 46.0]",0.016474618
+686,3431,Arkadiusz Milik,Poland,Shot,Off T,Left Foot,Open Play,"[116.0, 46.0]",0.13678512
+687,3432,Dawid Kownacki,Poland,Shot,Saved,Head,Open Play,"[111.0, 45.0]",0.04070321
+688,3433,Grzegorz Krychowiak,Poland,Shot,Goal,Head,Open Play,"[114.0, 39.0]",0.20697004
+689,3434,Kamil Grosicki,Poland,Shot,Wayward,Left Foot,Open Play,"[88.0, 38.0]",0.011390556
+690,3562,Olivier Giroud,France,Shot,Saved,Left Foot,Open Play,"[106.0, 28.0]",0.07934398
+691,3563,Raphaël Varane,France,Shot,Off T,Head,Open Play,"[112.0, 42.0]",0.068304926
+692,3564,Ousmane Dembélé,France,Shot,Off T,Right Foot,Open Play,"[99.0, 60.0]",0.01930463
+693,3565,Antoine Griezmann,France,Shot,Saved,Left Foot,Open Play,"[101.0, 60.0]",0.022061318
+694,3566,Ousmane Dembélé,France,Shot,Off T,Left Foot,Open Play,"[96.0, 59.0]",0.017132025
+695,3567,Christian Dannemann Eriksen,Denmark,Shot,Blocked,Right Foot,Open Play,"[95.0, 51.0]",0.021827467
+696,3568,Antoine Griezmann,France,Shot,Saved,Left Foot,Open Play,"[92.0, 53.0]",0.019036772
+697,3569,Christian Dannemann Eriksen,Denmark,Shot,Saved,Right Foot,Free Kick,"[81.0, 44.0]",0.013570355
+698,3570,Thomas Lemar,France,Shot,Blocked,Left Foot,Open Play,"[92.0, 40.0]",0.019419203
+699,3571,Christian Dannemann Eriksen,Denmark,Shot,Off T,Right Foot,Open Play,"[101.0, 37.0]",0.055120472
+700,3572,Viktor Fischer,Denmark,Shot,Blocked,Left Foot,Open Play,"[91.0, 33.0]",0.011638669
+701,3573,Henrik Dalsgaard,Denmark,Shot,Blocked,Left Foot,Open Play,"[104.0, 66.0]",0.049732562
+702,3574,Nabil Fekir,France,Shot,Off T,Left Foot,Open Play,"[101.0, 19.0]",0.021375544
+703,3575,Olivier Giroud,France,Shot,Off T,Head,Open Play,"[108.0, 33.0]",0.029429538
+704,3576,Olivier Giroud,France,Shot,Off T,Left Foot,Open Play,"[102.0, 54.0]",0.020864442
+705,3577,Nabil Fekir,France,Shot,Saved,Left Foot,Open Play,"[96.0, 49.0]",0.03509047
+706,3619,Edinson Roberto Cavani Gómez,Uruguay,Shot,Saved,Right Foot,Open Play,"[97.0, 32.0]",0.04182366
+707,3620,Mahmoud Ibrahim Hassan,Egypt,Shot,Saved,Right Foot,Open Play,"[108.0, 51.0]",0.046797737
+708,3621,Luis Alberto Suárez Díaz,Uruguay,Shot,Off T,Right Foot,Open Play,"[109.0, 55.0]",0.036742505
+709,3622,Edinson Roberto Cavani Gómez,Uruguay,Shot,Blocked,Left Foot,Open Play,"[102.0, 23.0]",0.030806087
+710,3623,José Martín Cáceres Silva,Uruguay,Shot,Wayward,Head,Open Play,"[114.0, 48.0]",0.043546356
+711,3624,Luis Alberto Suárez Díaz,Uruguay,Shot,Off T,Right Foot,Open Play,"[116.0, 35.0]",0.22964665
+712,3625,Marwan Mohsen,Egypt,Shot,Saved,Right Foot,Open Play,"[100.0, 51.0]",0.032293756
+713,3626,Matías Vecino Falero,Uruguay,Shot,Off T,Right Foot,Open Play,"[83.0, 53.0]",0.00846865
+714,3627,Luis Alberto Suárez Díaz,Uruguay,Shot,Blocked,Right Foot,Free Kick,"[88.0, 38.0]",0.040235694
+715,3628,Abdalla Mahmoud El Said Bekhit,Egypt,Shot,Wayward,Right Foot,Open Play,"[105.0, 48.0]",0.07167304
+716,3629,Tarek Hamed,Egypt,Shot,Blocked,Right Foot,Open Play,"[88.0, 37.0]",0.014404537
+717,3630,Luis Alberto Suárez Díaz,Uruguay,Shot,Saved,Right Foot,Open Play,"[114.0, 48.0]",0.19446543
+718,3631,Mahmoud Ibrahim Hassan,Egypt,Shot,Off T,Right Foot,Open Play,"[92.0, 19.0]",0.009394831
+719,3632,Carlos Andrés Sánchez Arcosa,Uruguay,Shot,Blocked,Right Foot,Open Play,"[94.0, 50.0]",0.027889334
+720,3633,Edinson Roberto Cavani Gómez,Uruguay,Shot,Blocked,Left Foot,Open Play,"[108.0, 49.0]",0.031184042
+721,3634,Ahmed Fathy Abdel Meneim Ibrahim,Egypt,Shot,Saved,Right Foot,Open Play,"[98.0, 62.0]",0.014327607
+722,3635,Mohamed Naser Elsayed Elneny,Egypt,Shot,Blocked,Right Foot,Open Play,"[105.0, 52.0]",0.08690245
+723,3636,Edinson Roberto Cavani Gómez,Uruguay,Shot,Saved,Right Foot,Open Play,"[99.0, 34.0]",0.04720993
+724,3637,José María Giménez de Vargas,Uruguay,Shot,Off T,Head,Open Play,"[112.0, 44.0]",0.04223481
+725,3638,José María Giménez de Vargas,Uruguay,Shot,Blocked,Head,Open Play,"[112.0, 36.0]",0.09001233
+726,3640,José Martín Cáceres Silva,Uruguay,Shot,Blocked,Right Foot,Open Play,"[110.0, 38.0]",0.21145166
+727,3641,José María Giménez de Vargas,Uruguay,Shot,Goal,Head,Open Play,"[113.0, 37.0]",0.09082896
+728,3642,Mohamed Naser Elsayed Elneny,Egypt,Shot,Blocked,Right Foot,Open Play,"[104.0, 56.0]",0.024087483
+729,3296,Gylfi Þór Sigurðsson,Iceland,Shot,Off T,Left Foot,Open Play,"[96.0, 53.0]",0.01601957
+730,3297,Nicolás Hernán Otamendi,Argentina,Shot,Off T,Left Foot,Open Play,"[111.0, 43.0]",0.12949876
+731,3298,Nicolás Alejandro Tagliafico,Argentina,Shot,Off T,Head,Open Play,"[105.0, 45.0]",0.021005532
+732,3299,Alfreð Finnbogason,Iceland,Shot,Off T,Right Foot,Open Play,"[115.0, 57.0]",0.049077753
+733,3300,Johann Berg Guðmunds­son,Iceland,Shot,Blocked,Left Foot,Open Play,"[100.0, 54.0]",0.039541468
+734,3301,Birkir Bjarnason,Iceland,Shot,Off T,Right Foot,Open Play,"[107.0, 32.0]",0.1407982
+735,3302,Nicolás Hernán Otamendi,Argentina,Shot,Off T,Right Foot,Open Play,"[86.0, 50.0]",0.01826074
+736,3303,Lionel Andrés Messi Cuccittini,Argentina,Shot,Saved,Left Foot,Open Play,"[97.0, 49.0]",0.038232766
+737,3304,Faustino Marcos Alberto Rojo,Argentina,Shot,Blocked,Left Foot,Open Play,"[90.0, 23.0]",0.016512085
+738,3305,Sergio Leonel Agüero del Castillo,Argentina,Shot,Goal,Left Foot,Open Play,"[106.0, 37.0]",0.10734366
+739,3306,Lionel Andrés Messi Cuccittini,Argentina,Shot,Saved,Left Foot,Open Play,"[96.0, 26.0]",0.0138822915
+740,3307,Alfreð Finnbogason,Iceland,Shot,Wayward,Other,Open Play,"[114.0, 40.0]",0.29489112
+741,3308,Alfreð Finnbogason,Iceland,Shot,Goal,Right Foot,Open Play,"[113.0, 39.0]",0.3489753
+742,3309,Nicolás Alejandro Tagliafico,Argentina,Shot,Blocked,Head,Open Play,"[111.0, 34.0]",0.0339513
+743,3310,Nicolás Hernán Otamendi,Argentina,Shot,Saved,Head,Open Play,"[109.0, 35.0]",0.022110928
+744,3311,Lucas Rodrigo Biglia,Argentina,Shot,Off T,Right Foot,Open Play,"[95.0, 31.0]",0.03413814
+745,3312,Lionel Andrés Messi Cuccittini,Argentina,Shot,Blocked,Left Foot,Open Play,"[111.0, 22.0]",0.019061089
+746,3313,Lucas Rodrigo Biglia,Argentina,Shot,Off T,Head,Open Play,"[116.0, 48.0]",0.05296468
+747,3314,Gylfi Þór Sigurðsson,Iceland,Shot,Saved,Right Foot,Open Play,"[111.0, 26.0]",0.031305786
+748,3315,Gylfi Þór Sigurðsson,Iceland,Shot,Off T,Right Foot,Open Play,"[102.0, 29.0]",0.03900825
+749,3316,Nicolás Hernán Otamendi,Argentina,Shot,Off T,Head,Open Play,"[113.0, 44.0]",0.056224994
+750,3317,Gylfi Þór Sigurðsson,Iceland,Shot,Blocked,Right Foot,Open Play,"[118.0, 24.0]",0.025932232
+751,3318,Sergio Leonel Agüero del Castillo,Argentina,Shot,Blocked,Right Foot,Open Play,"[111.0, 49.0]",0.079980224
+752,3319,Sergio Leonel Agüero del Castillo,Argentina,Shot,Blocked,Right Foot,Open Play,"[107.0, 55.0]",0.02577623
+753,3320,Éver Maximiliano David Banega,Argentina,Shot,Blocked,Left Foot,Open Play,"[101.0, 37.0]",0.043737683
+754,3321,Lionel Andrés Messi Cuccittini,Argentina,Shot,Saved,Left Foot,Penalty,"[109.0, 41.0]",0.76
+755,3322,Lionel Andrés Messi Cuccittini,Argentina,Shot,Blocked,Left Foot,Open Play,"[105.0, 58.0]",0.012402781
+756,3323,Lionel Andrés Messi Cuccittini,Argentina,Shot,Off T,Left Foot,Free Kick,"[92.0, 58.0]",0.02566701
+757,3324,Eduardo Antonio Salvio,Argentina,Shot,Blocked,Left Foot,Open Play,"[100.0, 53.0]",0.032266922
+758,3325,Éver Maximiliano David Banega,Argentina,Shot,Saved,Right Foot,Open Play,"[97.0, 20.0]",0.013225068
+759,3326,Lionel Andrés Messi Cuccittini,Argentina,Shot,Blocked,Left Foot,Free Kick,"[92.0, 61.0]",0.027346984
+760,3327,Lionel Andrés Messi Cuccittini,Argentina,Shot,Off T,Left Foot,Open Play,"[97.0, 44.0]",0.04186173
+761,3328,Cristian David Pavón,Argentina,Shot,Blocked,Right Foot,Open Play,"[100.0, 27.0]",0.030620873
+762,3329,Lionel Andrés Messi Cuccittini,Argentina,Shot,Blocked,Left Foot,Open Play,"[98.0, 44.0]",0.040901918
+763,3330,Javier Alejandro Mascherano,Argentina,Shot,Saved,Right Foot,Open Play,"[95.0, 55.0]",0.015573943
+764,3331,Lionel Andrés Messi Cuccittini,Argentina,Shot,Off T,Right Foot,Open Play,"[105.0, 52.0]",0.032571137
+765,3332,Lionel Andrés Messi Cuccittini,Argentina,Shot,Blocked,Left Foot,Free Kick,"[90.0, 36.0]",0.057363074
+766,4859,Yuri Zhirkov,Russia,Shot,Blocked,Left Foot,Open Play,"[91.0, 21.0]",0.011975838
+767,4860,Roman Zobnin,Russia,Shot,Off T,Right Foot,Open Play,"[96.0, 52.0]",0.026616063
+768,4861,Aleksandr Golovin,Russia,Shot,Off T,Right Foot,Open Play,"[104.0, 31.0]",0.100031435
+769,4862,Artem Dzyuba,Russia,Shot,Blocked,Head,Open Play,"[110.0, 33.0]",0.04631503
+770,4863,Artem Dzyuba,Russia,Shot,Goal,Right Foot,Penalty,"[108.0, 40.0]",0.76
+771,4864,Francisco Román Alarcón Suárez,Spain,Shot,Blocked,Right Foot,Open Play,"[100.0, 27.0]",0.032987177
+772,4865,Diego da Silva Costa,Spain,Shot,Saved,Right Foot,Open Play,"[117.0, 51.0]",0.109059714
+773,4866,Diego da Silva Costa,Spain,Shot,Saved,Head,Open Play,"[113.0, 47.0]",0.058154747
+774,4867,Marco Asensio Willemsen,Spain,Shot,Wayward,Right Foot,Open Play,"[111.0, 47.0]",0.10658861
+775,4868,Jordi Alba Ramos,Spain,Shot,Saved,Other,Open Play,"[110.0, 34.0]",0.12469785
+776,4869,Diego da Silva Costa,Spain,Shot,Off T,Head,Open Play,"[109.0, 34.0]",0.02583438
+777,4870,Sergio Busquets i Burgos,Spain,Shot,Wayward,Left Foot,Open Play,"[97.0, 33.0]",0.035293642
+778,4871,David Josué Jiménez Silva,Spain,Shot,Off T,Head,Open Play,"[111.0, 46.0]",0.05723268
+779,4872,Sergio Busquets i Burgos,Spain,Shot,Blocked,Right Foot,Open Play,"[109.0, 41.0]",0.056402013
+780,4873,Andrés Iniesta Luján,Spain,Shot,Saved,Right Foot,Open Play,"[99.0, 34.0]",0.04516173
+781,4874,Iago Aspas Juncal,Spain,Shot,Saved,Left Foot,Open Play,"[115.0, 26.0]",0.05273649
+782,4875,Gerard Piqué Bernabéu,Spain,Shot,Off T,Head,Open Play,"[112.0, 35.0]",0.026559493
+783,4876,Sergio Ramos García,Spain,Shot,Off T,Head,Open Play,"[112.0, 42.0]",0.060633704
+784,4877,Fyodor Smolov,Russia,Shot,Blocked,Right Foot,Open Play,"[104.0, 24.0]",0.033167183
+785,4878,Denis Cheryshev,Russia,Shot,Off T,Head,Open Play,"[112.0, 39.0]",0.1822118
+786,4879,Jordi Alba Ramos,Spain,Shot,Blocked,Left Foot,Open Play,"[95.0, 26.0]",0.020759596
+787,4880,Jorge Resurrección Merodio,Spain,Shot,Off T,Right Foot,Open Play,"[84.0, 40.0]",0.008991639
+788,4881,Marco Asensio Willemsen,Spain,Shot,Saved,Left Foot,Open Play,"[97.0, 32.0]",0.028827675
+789,4882,Iago Aspas Juncal,Spain,Shot,Blocked,Left Foot,Open Play,"[106.0, 27.0]",0.051986877
+790,4883,Gerard Piqué Bernabéu,Spain,Shot,Saved,Head,Open Play,"[108.0, 40.0]",0.052524343
+791,4884,Andrés Iniesta Luján,Spain,Shot,Blocked,Left Foot,Open Play,"[99.0, 33.0]",0.04410862
+792,4885,Rodrigo Moreno Machado,Spain,Shot,Saved,Right Foot,Open Play,"[114.0, 54.0]",0.065044984
+793,4886,Daniel Carvajal Ramos,Spain,Shot,Blocked,Left Foot,Open Play,"[108.0, 42.0]",0.122587204
+794,4887,Rodrigo Moreno Machado,Spain,Shot,Off T,Left Foot,Open Play,"[101.0, 44.0]",0.076937445
+795,4888,Gerard Piqué Bernabéu,Spain,Shot,Blocked,Left Foot,Open Play,"[108.0, 59.0]",0.019856269
+796,4889,Aleksandr Erokhin,Russia,Shot,Blocked,Head,Open Play,"[113.0, 45.0]",0.081559144
+797,4890,Rodrigo Moreno Machado,Spain,Shot,Saved,Left Foot,Open Play,"[99.0, 35.0]",0.09485871
+798,4891,Andrés Iniesta Luján,Spain,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+799,4892,Fyodor Smolov,Russia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+800,4893,Gerard Piqué Bernabéu,Spain,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+801,4894,Sergei Ignashevich,Russia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+802,4895,Jorge Resurrección Merodio,Spain,Shot,Saved,Right Foot,Penalty,"[109.0, 41.0]",0.76
+803,4896,Aleksandr Golovin,Russia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+804,4897,Sergio Ramos García,Spain,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+805,4898,Denis Cheryshev,Russia,Shot,Goal,Left Foot,Penalty,"[109.0, 41.0]",0.76
+806,4899,Iago Aspas Juncal,Spain,Shot,Saved,Left Foot,Penalty,"[109.0, 41.0]",0.76
+807,3297,Thomas Meunier,Belgium,Shot,Saved,Left Foot,Open Play,"[100.0, 51.0]",0.030079601
+808,3298,Eden Hazard,Belgium,Shot,Goal,Right Foot,Penalty,"[108.0, 40.0]",0.76
+809,3299,Axel Witsel,Belgium,Shot,Blocked,Right Foot,Open Play,"[109.0, 24.0]",0.049662188
+810,3300,Eden Hazard,Belgium,Shot,Saved,Right Foot,Open Play,"[110.0, 44.0]",0.24408586
+811,3301,Yannick Ferreira Carrasco,Belgium,Shot,Saved,Right Foot,Open Play,"[101.0, 21.0]",0.018060315
+812,3302,Romelu Lukaku Menama,Belgium,Shot,Goal,Left Foot,Open Play,"[104.0, 33.0]",0.23132385
+813,3303,Dylan Bronn,Tunisia,Shot,Goal,Head,Open Play,"[112.0, 41.0]",0.1351952
+814,3304,Yannick Ferreira Carrasco,Belgium,Shot,Saved,Right Foot,Open Play,"[107.0, 33.0]",0.09233936
+815,3305,Toby Alderweireld,Belgium,Shot,Off T,Right Foot,Open Play,"[102.0, 56.0]",0.02820845
+816,3306,Axel Witsel,Belgium,Shot,Blocked,Left Foot,Open Play,"[100.0, 34.0]",0.091529965
+817,3307,Wahbi Khazri,Tunisia,Shot,Off T,Right Foot,Open Play,"[106.0, 69.0]",0.06366108
+818,3308,Ferjani Sassi,Tunisia,Shot,Off T,Left Foot,Open Play,"[101.0, 45.0]",0.09220893
+819,3309,Wahbi Khazri,Tunisia,Shot,Saved,Right Foot,Open Play,"[88.0, 26.0]",0.017847752
+820,3310,Fakhreddine Ben Youssef,Tunisia,Shot,Off T,Right Foot,Open Play,"[96.0, 37.0]",0.034719113
+821,3311,Saîf-Eddine Khaoui,Tunisia,Shot,Blocked,Left Foot,Open Play,"[117.0, 27.0]",0.027620574
+822,3312,Romelu Lukaku Menama,Belgium,Shot,Goal,Right Foot,Open Play,"[112.0, 45.0]",0.5764766
+823,3313,Toby Alderweireld,Belgium,Shot,Off T,Right Foot,Open Play,"[115.0, 48.0]",0.06055075
+824,3314,Wahbi Khazri,Tunisia,Shot,Wayward,Right Foot,Open Play,"[113.0, 44.0]",0.2933327
+825,3315,Anice Badri,Tunisia,Shot,Saved,Left Foot,Open Play,"[99.0, 24.0]",0.03409846
+826,3316,Eden Hazard,Belgium,Shot,Goal,Left Foot,Open Play,"[109.0, 38.0]",0.78923815
+827,3317,Fakhreddine Ben Youssef,Tunisia,Shot,Wayward,Head,Open Play,"[112.0, 37.0]",0.13028686
+828,3318,Ferjani Sassi,Tunisia,Shot,Off T,Right Foot,Open Play,"[94.0, 55.0]",0.022455232
+829,3319,Anice Badri,Tunisia,Shot,Wayward,Right Foot,Open Play,"[109.0, 42.0]",0.117948756
+830,3320,Yannick Ferreira Carrasco,Belgium,Shot,Off T,Right Foot,Open Play,"[102.0, 29.0]",0.041763276
+831,3321,Eden Hazard,Belgium,Shot,Off T,Right Foot,Open Play,"[97.0, 30.0]",0.037141927
+832,3322,Wahbi Khazri,Tunisia,Shot,Blocked,Right Foot,Open Play,"[101.0, 16.0]",0.036777098
+833,3323,Naïm Sliti,Tunisia,Shot,Blocked,Right Foot,Open Play,"[101.0, 45.0]",0.08310661
+834,3324,Anice Badri,Tunisia,Shot,Saved,Left Foot,Open Play,"[100.0, 30.0]",0.1010899
+835,3325,Saîf-Eddine Khaoui,Tunisia,Shot,Wayward,Left Foot,Open Play,"[93.0, 41.0]",0.013837011
+836,3326,Michy Batshuayi Tunga,Belgium,Shot,Blocked,Left Foot,Open Play,"[114.0, 29.0]",0.7316597
+837,3327,Yannick Ferreira Carrasco,Belgium,Shot,Saved,Right Foot,Open Play,"[104.0, 23.0]",0.028426154
+838,3329,Thomas Meunier,Belgium,Shot,Off T,Right Foot,Open Play,"[108.0, 58.0]",0.02469672
+839,3330,Michy Batshuayi Tunga,Belgium,Shot,Saved,Left Foot,Open Play,"[113.0, 39.0]",0.3214559
+840,3331,Michy Batshuayi Tunga,Belgium,Shot,Blocked,Left Foot,Open Play,"[113.0, 54.0]",0.087478675
+841,3332,Axel Witsel,Belgium,Shot,Off T,Right Foot,Open Play,"[94.0, 56.0]",0.010292118
+842,3333,Michy Batshuayi Tunga,Belgium,Shot,Goal,Left Foot,Open Play,"[113.0, 35.0]",0.16502693
+843,3334,Wahbi Khazri,Tunisia,Shot,Off T,Right Foot,Open Play,"[63.0, 42.0]",0.011951736
+844,3335,Michy Batshuayi Tunga,Belgium,Shot,Off T,Left Foot,Open Play,"[103.0, 37.0]",0.21442711
+845,3336,Wahbi Khazri,Tunisia,Shot,Goal,Right Foot,Open Play,"[111.0, 44.0]",0.27132893
+846,2992,Luis Jan Piers Advíncula Castrillón,Peru,Shot,Off T,Right Foot,Open Play,"[87.0, 57.0]",0.010184587
+847,2993,Víctor Yoshimar Yotún Flores,Peru,Shot,Saved,Left Foot,Open Play,"[84.0, 24.0]",0.009402218
+848,2994,Édison Michael Flores Peralta,Peru,Shot,Off T,Left Foot,Open Play,"[87.0, 41.0]",0.01631135
+849,2995,André Martín Carrillo Díaz,Peru,Shot,Saved,Left Foot,Open Play,"[103.0, 58.0]",0.024568832
+850,2996,Renato Fabrizio Tapia Cortijo,Peru,Shot,Blocked,Right Foot,Open Play,"[86.0, 43.0]",0.011179907
+851,2997,Alberto Junior Rodríguez Valdelomar,Peru,Shot,Wayward,Head,Open Play,"[107.0, 37.0]",0.014436409
+852,2998,Pione Sisto Ifolo Emirmija,Denmark,Shot,Blocked,Left Foot,Open Play,"[113.0, 26.0]",0.03826663
+853,2999,Thomas Delaney,Denmark,Shot,Off T,Left Foot,Open Play,"[88.0, 36.0]",0.019103376
+854,3000,Jefferson Agustín Farfán Guadalupe,Peru,Shot,Blocked,Right Foot,Open Play,"[108.0, 51.0]",0.103540614
+855,3001,Christian Dannemann Eriksen,Denmark,Shot,Blocked,Right Foot,Free Kick,"[100.0, 52.0]",0.08701279
+856,3002,Lasse Schöne,Denmark,Shot,Saved,Right Foot,Open Play,"[94.0, 43.0]",0.016224092
+857,3003,Thomas Delaney,Denmark,Shot,Off T,Left Foot,Open Play,"[102.0, 24.0]",0.028146343
+858,3004,Christian Alberto Cueva Bravo,Peru,Shot,Off T,Right Foot,Penalty,"[108.0, 40.0]",0.76
+859,3005,Yussuf Yurary Poulsen,Denmark,Shot,Off T,Head,Open Play,"[115.0, 45.0]",0.091306984
+860,3006,Jefferson Agustín Farfán Guadalupe,Peru,Shot,Blocked,Right Foot,Open Play,"[110.0, 60.0]",0.015112563
+861,3007,Jens Stryger Larsen,Denmark,Shot,Off T,Right Foot,Open Play,"[90.0, 36.0]",0.008607886
+862,3008,Christian Dannemann Eriksen,Denmark,Shot,Off T,Left Foot,Open Play,"[103.0, 59.0]",0.011762356
+863,3009,Édison Michael Flores Peralta,Peru,Shot,Off T,Left Foot,Open Play,"[114.0, 50.0]",0.1934625
+864,3010,Yussuf Yurary Poulsen,Denmark,Shot,Goal,Left Foot,Open Play,"[108.0, 28.0]",0.2005442
+865,3011,Édison Michael Flores Peralta,Peru,Shot,Saved,Left Foot,Open Play,"[108.0, 29.0]",0.12927915
+866,3012,José Paolo Guerrero González,Peru,Shot,Saved,Head,Open Play,"[113.0, 41.0]",0.12837866
+867,3013,Alberto Junior Rodríguez Valdelomar,Peru,Shot,Off T,Head,Open Play,"[113.0, 50.0]",0.03474779
+868,3014,Luis Jan Piers Advíncula Castrillón,Peru,Shot,Saved,Left Foot,Open Play,"[109.0, 59.0]",0.0214674
+869,3015,José Paolo Guerrero González,Peru,Shot,Off T,Right Foot,Open Play,"[112.0, 40.0]",0.089640394
+870,3016,Nicolai Jørgensen,Denmark,Shot,Blocked,Left Foot,Open Play,"[104.0, 49.0]",0.1351464
+871,3017,Jefferson Agustín Farfán Guadalupe,Peru,Shot,Saved,Right Foot,Open Play,"[108.0, 43.0]",0.18401816
+872,3018,Christian Dannemann Eriksen,Denmark,Shot,Saved,Left Foot,Open Play,"[105.0, 32.0]",0.28883302
+873,3019,José Paolo Guerrero González,Peru,Shot,Wayward,Head,Open Play,"[112.0, 41.0]",0.08511509
+874,3498,Luis Alberto Suárez Díaz,Uruguay,Shot,Blocked,Left Foot,Open Play,"[101.0, 30.0]",0.056073762
+875,3499,Mohammed Al Burayk,Saudi Arabia,Shot,Blocked,Right Foot,Free Kick,"[93.0, 31.0]",0.059942707
+876,3500,Edinson Roberto Cavani Gómez,Uruguay,Shot,Off T,Left Foot,Open Play,"[110.0, 34.0]",0.09240133
+877,3501,Luis Alberto Suárez Díaz,Uruguay,Shot,Off T,Right Foot,Open Play,"[119.0, 53.0]",0.033094108
+878,3502,Fahad Mosaed Al Muwallad Al Harbi,Saudi Arabia,Shot,Off T,Right Foot,Open Play,"[111.0, 57.0]",0.023366477
+879,3503,Luis Alberto Suárez Díaz,Uruguay,Shot,Goal,Left Foot,Open Play,"[114.0, 43.0]",0.34651524
+880,3504,Edinson Roberto Cavani Gómez,Uruguay,Shot,Blocked,Right Foot,Open Play,"[110.0, 52.0]",0.14339069
+881,3505,Hattan Babhir,Saudi Arabia,Shot,Saved,Left Foot,Open Play,"[96.0, 58.0]",0.019066188
+882,3506,Hattan Babhir,Saudi Arabia,Shot,Off T,Right Foot,Open Play,"[112.0, 49.0]",0.059631865
+883,3507,Salem Mohammed Al Dawsari,Saudi Arabia,Shot,Off T,Right Foot,Open Play,"[83.0, 40.0]",0.01168076
+884,3508,Luis Alberto Suárez Díaz,Uruguay,Shot,Saved,Right Foot,Free Kick,"[87.0, 42.0]",0.023609823
+885,3509,Carlos Andrés Sánchez Arcosa,Uruguay,Shot,Off T,Head,Open Play,"[112.0, 47.0]",0.18843523
+886,3510,Luis Alberto Suárez Díaz,Uruguay,Shot,Blocked,Left Foot,Open Play,"[105.0, 59.0]",0.012183662
+887,3511,José Martín Cáceres Silva,Uruguay,Shot,Off T,Head,Open Play,"[114.0, 43.0]",0.110546805
+888,3512,José Martín Cáceres Silva,Uruguay,Shot,Blocked,Right Foot,Open Play,"[112.0, 34.0]",0.07497856
+889,3513,Lucas Torreira Di Pascua,Uruguay,Shot,Blocked,Right Foot,Open Play,"[92.0, 40.0]",0.018949896
+890,3514,Edinson Roberto Cavani Gómez,Uruguay,Shot,Off T,Head,Open Play,"[105.0, 45.0]",0.04168759
+891,3515,Edinson Roberto Cavani Gómez,Uruguay,Shot,Saved,Right Foot,Open Play,"[104.0, 41.0]",0.33663368
+892,3516,Luis Alberto Suárez Díaz,Uruguay,Shot,Wayward,Other,Open Play,"[102.0, 40.0]",0.062890865
+893,3517,Yasir Gharsan Al Shahrani,Saudi Arabia,Shot,Blocked,Left Foot,Open Play,"[94.0, 21.0]",0.014587843
+894,3518,Mohammed Kanoo,Saudi Arabia,Shot,Saved,Head,Open Play,"[111.0, 47.0]",0.036899474
+895,3519,Yasir Gharsan Al Shahrani,Saudi Arabia,Shot,Blocked,Right Foot,Open Play,"[98.0, 24.0]",0.03362304
+896,3185,Edson Omar Álvarez Velázquez,Mexico,Shot,Wayward,Head,Open Play,"[112.0, 41.0]",0.08131194
+897,3186,Javier Hernández Balcázar,Mexico,Shot,Off T,Head,Open Play,"[107.0, 45.0]",0.022343852
+898,3187,Carlos Joel Salcedo Hernández,Mexico,Shot,Saved,Head,Open Play,"[111.0, 49.0]",0.016294168
+899,3188,Heung-Min Son,South Korea,Shot,Blocked,Left Foot,Open Play,"[109.0, 51.0]",0.076773115
+900,3189,Heung-Min Son,South Korea,Shot,Blocked,Right Foot,Open Play,"[111.0, 49.0]",0.15338257
+901,3190,Heung-Min Son,South Korea,Shot,Blocked,Left Foot,Open Play,"[98.0, 49.0]",0.036926463
+902,3191,Sung-Yeung Ki,South Korea,Shot,Saved,Head,Open Play,"[109.0, 44.0]",0.03297988
+903,3192,Carlos Alberto Vela Garrido,Mexico,Shot,Goal,Left Foot,Penalty,"[109.0, 41.0]",0.76
+904,3193,Miguel Arturo Layún Prado,Mexico,Shot,Saved,Right Foot,Open Play,"[105.0, 42.0]",0.12131017
+905,3194,Heung-Min Son,South Korea,Shot,Off T,Right Foot,Free Kick,"[87.0, 41.0]",0.046977233
+906,3195,Heung-Min Son,South Korea,Shot,Saved,Right Foot,Open Play,"[118.0, 30.0]",0.05557566
+907,3196,Hirving Rodrigo Lozano Bahena,Mexico,Shot,Off T,Right Foot,Open Play,"[108.0, 26.0]",0.058653574
+908,3197,Seon-Min Moon,South Korea,Shot,Blocked,Left Foot,Open Play,"[94.0, 48.0]",0.018871136
+909,3198,Heung-Min Son,South Korea,Shot,Blocked,Left Foot,Open Play,"[99.0, 32.0]",0.04888812
+910,3199,Hirving Rodrigo Lozano Bahena,Mexico,Shot,Off T,Right Foot,Open Play,"[100.0, 28.0]",0.047700748
+911,3200,Javier Hernández Balcázar,Mexico,Shot,Off T,Right Foot,Open Play,"[90.0, 46.0]",0.044901174
+912,3201,Seon-Min Moon,South Korea,Shot,Blocked,Right Foot,Open Play,"[110.0, 47.0]",0.109867536
+913,3202,Jae-Sung Lee,South Korea,Shot,Saved,Left Foot,Open Play,"[105.0, 68.0]",0.039947994
+914,3203,Sung-Yeung Ki,South Korea,Shot,Saved,Right Foot,Open Play,"[103.0, 18.0]",0.015464206
+915,3204,José Andrés Guardado Hernández,Mexico,Shot,Blocked,Right Foot,Open Play,"[96.0, 46.0]",0.04579644
+916,3205,José Andrés Guardado Hernández,Mexico,Shot,Saved,Left Foot,Open Play,"[104.0, 36.0]",0.088599935
+917,3206,Hirving Rodrigo Lozano Bahena,Mexico,Shot,Blocked,Left Foot,Open Play,"[100.0, 39.0]",0.28260243
+918,3207,Jae-Sung Lee,South Korea,Shot,Blocked,Left Foot,Open Play,"[104.0, 38.0]",0.073453434
+919,3208,Carlos Alberto Vela Garrido,Mexico,Shot,Off T,Left Foot,Open Play,"[101.0, 58.0]",0.015128958
+920,3209,Javier Hernández Balcázar,Mexico,Shot,Goal,Right Foot,Open Play,"[111.0, 32.0]",0.2427933
+921,3210,Hee-Chan Hwang,South Korea,Shot,Saved,Right Foot,Open Play,"[99.0, 40.0]",0.034576014
+922,3211,Sung-Yeung Ki,South Korea,Shot,Blocked,Right Foot,Open Play,"[88.0, 52.0]",0.013170066
+923,3212,Jae-Sung Lee,South Korea,Shot,Blocked,Left Foot,Open Play,"[95.0, 49.0]",0.01985081
+924,3213,Heung-Min Son,South Korea,Shot,Off T,Right Foot,Open Play,"[94.0, 40.0]",0.028156519
+925,3214,Héctor Miguel Herrera López,Mexico,Shot,Off T,Right Foot,Open Play,"[96.0, 47.0]",0.013422709
+926,3215,Heung-Min Son,South Korea,Shot,Goal,Left Foot,Open Play,"[97.0, 54.0]",0.02432912
+927,3554,Khalid Boutaïb,Morocco,Shot,Goal,Left Foot,Open Play,"[107.0, 45.0]",0.5165252
+928,3555,Andrés Iniesta Luján,Spain,Shot,Off T,Left Foot,Open Play,"[97.0, 27.0]",0.023178833
+929,3556,Francisco Román Alarcón Suárez,Spain,Shot,Goal,Right Foot,Open Play,"[114.0, 38.0]",0.43235505
+930,3557,Gerard Piqué Bernabéu,Spain,Shot,Saved,Head,Open Play,"[112.0, 45.0]",0.021008661
+931,3558,Andrés Iniesta Luján,Spain,Shot,Blocked,Right Foot,Open Play,"[102.0, 34.0]",0.074768975
+932,3559,Khalid Boutaïb,Morocco,Shot,Saved,Left Foot,Open Play,"[114.0, 34.0]",0.27674928
+933,3560,Diego da Silva Costa,Spain,Shot,Wayward,Left Foot,Open Play,"[106.0, 31.0]",0.18203473
+934,3561,Sergio Busquets i Burgos,Spain,Shot,Off T,Head,Open Play,"[112.0, 38.0]",0.11132133
+935,3562,Hakim Ziyech,Morocco,Shot,Off T,Left Foot,Open Play,"[94.0, 30.0]",0.026024703
+936,3563,Diego da Silva Costa,Spain,Shot,Wayward,Right Foot,Open Play,"[116.0, 37.0]",0.4616971
+937,3564,Mbark Boussoufa,Morocco,Shot,Off T,Head,Open Play,"[117.0, 50.0]",0.046095222
+938,3565,Francisco Román Alarcón Suárez,Spain,Shot,Wayward,Right Foot,Open Play,"[99.0, 43.0]",0.04058046
+939,3567,Gerard Piqué Bernabéu,Spain,Shot,Off T,Right Foot,Open Play,"[87.0, 53.0]",0.015974728
+940,3568,Nabil Dirar,Morocco,Shot,Wayward,Right Foot,Open Play,"[110.0, 52.0]",0.058924574
+941,3569,Thiago Alcântara do Nascimento,Spain,Shot,Wayward,Left Foot,Open Play,"[106.0, 51.0]",0.097458236
+942,3570,Francisco Román Alarcón Suárez,Spain,Shot,Blocked,Head,Open Play,"[115.0, 37.0]",0.095473155
+943,3571,Gerard Piqué Bernabéu,Spain,Shot,Off T,Head,Open Play,"[111.0, 40.0]",0.029763825
+944,3572,David Josué Jiménez Silva,Spain,Shot,Wayward,Left Foot,Open Play,"[110.0, 52.0]",0.0920217
+945,3573,Thiago Alcântara do Nascimento,Spain,Shot,Off T,Right Foot,Open Play,"[101.0, 31.0]",0.03558211
+946,3574,Sergio Ramos García,Spain,Shot,Off T,Right Foot,Open Play,"[88.0, 27.0]",0.011122805
+947,3575,Hakim Ziyech,Morocco,Shot,Blocked,Left Foot,Open Play,"[112.0, 50.0]",0.0762503
+948,3576,Youssef En-Nesyri,Morocco,Shot,Goal,Head,Open Play,"[110.0, 40.0]",0.041208725
+949,3577,Rodrigo Moreno Machado,Spain,Shot,Wayward,Head,Open Play,"[113.0, 41.0]",0.13499251
+950,3578,Marco Asensio Willemsen,Spain,Shot,Off T,Head,Open Play,"[114.0, 34.0]",0.10094765
+951,3579,Iago Aspas Juncal,Spain,Shot,Goal,Right Foot,Open Play,"[116.0, 44.0]",0.33850184
+952,3790,Blerim Džemaili,Switzerland,Shot,Off T,Right Foot,Open Play,"[109.0, 44.0]",0.22356124
+953,3791,José Paulo Bezzera Maciel Júnior,Brazil,Shot,Off T,Left Foot,Open Play,"[115.0, 36.0]",0.48552924
+954,3792,Neymar da Silva Santos Junior,Brazil,Shot,Blocked,Right Foot,Free Kick,"[91.0, 35.0]",0.037217073
+955,3793,Philippe Coutinho Correia,Brazil,Shot,Goal,Right Foot,Open Play,"[99.0, 21.0]",0.016841125
+956,3794,Stephan Lichtsteiner,Switzerland,Shot,Wayward,Head,Open Play,"[115.0, 57.0]",0.009949872
+957,3795,Gabriel Fernando de Jesus,Brazil,Shot,Wayward,Head,Open Play,"[116.0, 44.0]",0.31536713
+958,3796,Steven Zuber,Switzerland,Shot,Blocked,Right Foot,Open Play,"[105.0, 26.0]",0.056690484
+959,3797,Thiago Emiliano da Silva,Brazil,Shot,Off T,Head,Open Play,"[116.0, 32.0]",0.06602788
+960,3798,Blerim Džemaili,Switzerland,Shot,Off T,Right Foot,Open Play,"[88.0, 23.0]",0.014396477
+961,3799,Steven Zuber,Switzerland,Shot,Goal,Head,Open Play,"[116.0, 41.0]",0.18957695
+962,3800,Philippe Coutinho Correia,Brazil,Shot,Blocked,Right Foot,Open Play,"[97.0, 33.0]",0.030247035
+963,3801,Philippe Coutinho Correia,Brazil,Shot,Blocked,Right Foot,Open Play,"[104.0, 36.0]",0.04241197
+964,3802,Neymar da Silva Santos Junior,Brazil,Shot,Blocked,Right Foot,Open Play,"[116.0, 30.0]",0.06680265
+965,3803,Thiago Emiliano da Silva,Brazil,Shot,Wayward,Head,Open Play,"[110.0, 43.0]",0.03988827
+966,3804,Carlos Henrique Casimiro,Brazil,Shot,Off T,Right Foot,Open Play,"[89.0, 36.0]",0.020881243
+967,3805,Fernando Luiz Rosa,Brazil,Shot,Blocked,Right Foot,Open Play,"[94.0, 41.0]",0.022049388
+968,3806,Willian Borges da Silva,Brazil,Shot,Blocked,Right Foot,Open Play,"[101.0, 51.0]",0.02408877
+969,3807,Willian Borges da Silva,Brazil,Shot,Off T,Left Foot,Open Play,"[100.0, 57.0]",0.029247304
+970,3808,Philippe Coutinho Correia,Brazil,Shot,Off T,Right Foot,Open Play,"[108.0, 32.0]",0.08430531
+971,3809,Blerim Džemaili,Switzerland,Shot,Saved,Left Foot,Open Play,"[100.0, 42.0]",0.042691715
+972,3810,Fernando Luiz Rosa,Brazil,Shot,Off T,Right Foot,Open Play,"[92.0, 52.0]",0.021299455
+973,3811,Neymar da Silva Santos Junior,Brazil,Shot,Saved,Right Foot,Open Play,"[96.0, 21.0]",0.011018849
+974,3812,Roberto Firmino Barbosa de Oliveira,Brazil,Shot,Off T,Right Foot,Open Play,"[114.0, 54.0]",0.047524527
+975,3813,Neymar da Silva Santos Junior,Brazil,Shot,Saved,Head,Open Play,"[109.0, 38.0]",0.041996527
+976,3814,Xherdan Shaqiri,Switzerland,Shot,Off T,Left Foot,Open Play,"[99.0, 51.0]",0.028034005
+977,3815,Roberto Firmino Barbosa de Oliveira,Brazil,Shot,Saved,Head,Open Play,"[112.0, 40.0]",0.16043134
+978,3816,João Miranda de Souza Filho,Brazil,Shot,Off T,Right Foot,Open Play,"[105.0, 40.0]",0.03471637
+979,3817,Renato Soares de Oliveira Augusto,Brazil,Shot,Blocked,Left Foot,Open Play,"[115.0, 32.0]",0.092274606
+980,3409,Oghenekaro Etebo,Nigeria,Shot,Blocked,Right Foot,Open Play,"[98.0, 38.0]",0.07800732
+981,3410,Nicolás Alejandro Tagliafico,Argentina,Shot,Off T,Left Foot,Open Play,"[105.0, 28.0]",0.06816482
+982,3411,Ahmed Musa,Nigeria,Shot,Off T,Right Foot,Open Play,"[97.0, 24.0]",0.01904901
+983,3412,Lionel Andrés Messi Cuccittini,Argentina,Shot,Goal,Right Foot,Open Play,"[112.0, 50.0]",0.14291523
+984,3413,Gonzalo Gerardo Higuaín,Argentina,Shot,Saved,Right Foot,Open Play,"[112.0, 52.0]",0.21640046
+985,3415,Ángel Fabián Di María Hernández,Argentina,Shot,Blocked,Left Foot,Open Play,"[111.0, 26.0]",0.062985204
+986,3416,Oghenekaro Etebo,Nigeria,Shot,Wayward,Right Foot,Open Play,"[93.0, 49.0]",0.01164915
+987,3417,Leon-Aderemi Balogun,Nigeria,Shot,Saved,Head,Open Play,"[103.0, 48.0]",0.03359282
+988,3418,Victor Moses,Nigeria,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+989,3419,Onyinye Wilfred Ndidi,Nigeria,Shot,Off T,Right Foot,Open Play,"[93.0, 40.0]",0.03046361
+990,3420,Odion Jude Ighalo,Nigeria,Shot,Off T,Right Foot,Open Play,"[108.0, 47.0]",0.13359922
+991,3421,Nicolás Alejandro Tagliafico,Argentina,Shot,Wayward,Left Foot,Open Play,"[105.0, 23.0]",0.03482389
+992,3422,Gonzalo Gerardo Higuaín,Argentina,Shot,Off T,Left Foot,Open Play,"[108.0, 36.0]",0.19381213
+993,3423,Odion Jude Ighalo,Nigeria,Shot,Saved,Right Foot,Open Play,"[116.0, 29.0]",0.12531586
+994,3424,Oghenekaro Etebo,Nigeria,Shot,Off T,Right Foot,Free Kick,"[94.0, 53.0]",0.045103274
+995,3425,Faustino Marcos Alberto Rojo,Argentina,Shot,Goal,Right Foot,Open Play,"[107.0, 37.0]",0.09684325
+996,2945,Youssouf Sabaly,Senegal,Shot,Off T,Right Foot,Open Play,"[87.0, 40.0]",0.011127773
+997,2946,Youssouf Sabaly,Senegal,Shot,Saved,Right Foot,Open Play,"[110.0, 23.0]",0.04476317
+998,2947,Sadio Mané,Senegal,Shot,Goal,Other,Open Play,"[116.0, 38.0]",0.5315898
+999,2948,"M""Baye Babacar Niang",Senegal,Shot,Saved,Right Foot,Open Play,"[116.0, 63.0]",0.019451419
+1000,2949,Makoto Hasebe,Japan,Shot,Blocked,Right Foot,Open Play,"[95.0, 34.0]",0.0336985
+1001,2950,Ismaïla Sarr,Senegal,Shot,Saved,Right Foot,Open Play,"[108.0, 43.0]",0.16919832
+1002,2951,"Alfred John Momar N""Diaye",Senegal,Shot,Wayward,Head,Open Play,"[112.0, 42.0]",0.07128052
+1003,2952,Takashi Inui,Japan,Shot,Goal,Right Foot,Open Play,"[108.0, 29.0]",0.08164321
+1004,2953,"M""Baye Babacar Niang",Senegal,Shot,Saved,Left Foot,Open Play,"[102.0, 53.0]",0.2267285
+1005,2954,Genki Haraguchi,Japan,Shot,Off T,Left Foot,Open Play,"[101.0, 57.0]",0.024019368
+1006,2955,Yūya Ōsako,Japan,Shot,Saved,Head,Open Play,"[112.0, 37.0]",0.1265364
+1007,2956,"M""Baye Babacar Niang",Senegal,Shot,Off T,Right Foot,Open Play,"[104.0, 54.0]",0.036138117
+1008,2957,"Papa Alioune N""Diaye",Senegal,Shot,Off T,Right Foot,Open Play,"[99.0, 37.0]",0.08038966
+1009,2958,"M""Baye Babacar Niang",Senegal,Shot,Saved,Left Foot,Open Play,"[96.0, 50.0]",0.02888789
+1010,2960,"M""Baye Babacar Niang",Senegal,Shot,Wayward,Left Foot,Open Play,"[115.0, 36.0]",0.21533303
+1011,2961,Moussa Wagué,Senegal,Shot,Goal,Right Foot,Open Play,"[114.0, 52.0]",0.13947384
+1012,2962,Yūya Ōsako,Japan,Shot,Blocked,Left Foot,Open Play,"[111.0, 43.0]",0.114460096
+1013,2963,Keisuke Honda,Japan,Shot,Goal,Left Foot,Open Play,"[113.0, 43.0]",0.57023984
+1014,2964,"Cheikh N""Doye",Senegal,Shot,Off T,Head,Open Play,"[115.0, 43.0]",0.12766463
+1015,2965,Salif Sané,Senegal,Shot,Blocked,Head,Open Play,"[102.0, 41.0]",0.016796464
+1016,2966,Mame Biram Diouf,Senegal,Shot,Off T,Left Foot,Open Play,"[112.0, 45.0]",0.045358773
+1017,3614,Hussain Al Mogahwi,Saudi Arabia,Shot,Off T,Right Foot,Open Play,"[98.0, 56.0]",0.021766983
+1018,3615,Salem Mohammed Al Dawsari,Saudi Arabia,Shot,Off T,Right Foot,Open Play,"[94.0, 26.0]",0.010946807
+1019,3616,Marwan Mohsen,Egypt,Shot,Wayward,Left Foot,Open Play,"[102.0, 23.0]",0.023111586
+1020,3617,Salem Mohammed Al Dawsari,Saudi Arabia,Shot,Off T,Right Foot,Open Play,"[99.0, 44.0]",0.043466143
+1021,3618,Mohamed Salah,Egypt,Shot,Goal,Left Foot,Open Play,"[101.0, 48.0]",0.1427615
+1022,3619,Mohamed Salah,Egypt,Shot,Off T,Left Foot,Open Play,"[107.0, 38.0]",0.38922426
+1023,3620,Hattan Babhir,Saudi Arabia,Shot,Saved,Left Foot,Open Play,"[86.0, 36.0]",0.017620016
+1024,3621,Yasir Gharsan Al Shahrani,Saudi Arabia,Shot,Off T,Right Foot,Open Play,"[100.0, 22.0]",0.01758447
+1025,3622,Mohammed Al Burayk,Saudi Arabia,Shot,Off T,Right Foot,Open Play,"[95.0, 60.0]",0.013078686
+1026,3623,Mahmoud Ibrahim Hassan,Egypt,Shot,Off T,Right Foot,Open Play,"[105.0, 30.0]",0.071416765
+1027,3624,Mahmoud Ibrahim Hassan,Egypt,Shot,Off T,Right Foot,Open Play,"[101.0, 29.0]",0.061722156
+1028,3625,Salman Mohammed Al Faraj,Saudi Arabia,Shot,Blocked,Left Foot,Open Play,"[103.0, 45.0]",0.1384784
+1029,3626,Fahad Mosaed Al Muwallad Al Harbi,Saudi Arabia,Shot,Saved,Right Foot,Penalty,"[108.0, 40.0]",0.76
+1030,3627,Abdullah Ibrahim Otayf,Saudi Arabia,Shot,Blocked,Right Foot,Open Play,"[104.0, 45.0]",0.055744126
+1031,3628,Salman Mohammed Al Faraj,Saudi Arabia,Shot,Goal,Left Foot,Penalty,"[108.0, 40.0]",0.76
+1032,3629,Hattan Babhir,Saudi Arabia,Shot,Off T,Right Foot,Open Play,"[112.0, 54.0]",0.0775831
+1033,3630,Mahmoud Ibrahim Hassan,Egypt,Shot,Off T,Head,Open Play,"[108.0, 40.0]",0.029905058
+1034,3631,Hussain Al Mogahwi,Saudi Arabia,Shot,Blocked,Right Foot,Open Play,"[100.0, 61.0]",0.014220548
+1035,3632,Hattan Babhir,Saudi Arabia,Shot,Off T,Right Foot,Open Play,"[90.0, 49.0]",0.026680736
+1036,3633,Hussain Al Mogahwi,Saudi Arabia,Shot,Off T,Right Foot,Open Play,"[96.0, 41.0]",0.0305299
+1037,3634,Hussain Al Mogahwi,Saudi Arabia,Shot,Saved,Head,Open Play,"[110.0, 49.0]",0.037764445
+1038,3635,Mohanad Aseri Abu Radiah,Saudi Arabia,Shot,Saved,Head,Open Play,"[115.0, 49.0]",0.07594524
+1039,3636,Mohamed Naser Elsayed Elneny,Egypt,Shot,Off T,Right Foot,Open Play,"[98.0, 51.0]",0.051683385
+1040,3637,Salman Mohammed Al Faraj,Saudi Arabia,Shot,Off T,Left Foot,Free Kick,"[88.0, 43.0]",0.0451006
+1041,3638,Amr Medhat Warda,Egypt,Shot,Blocked,Right Foot,Open Play,"[102.0, 22.0]",0.048505258
+1042,3639,Mohammed Al Burayk,Saudi Arabia,Shot,Blocked,Right Foot,Free Kick,"[95.0, 30.0]",0.08157286
+1043,3640,Salem Mohammed Al Dawsari,Saudi Arabia,Shot,Saved,Right Foot,Open Play,"[116.0, 30.0]",0.060031943
+1044,3641,Abdullah Ibrahim Otayf,Saudi Arabia,Shot,Blocked,Right Foot,Open Play,"[101.0, 58.0]",0.01694758
+1045,3642,Salem Mohammed Al Dawsari,Saudi Arabia,Shot,Goal,Right Foot,Open Play,"[116.0, 53.0]",0.03722506
+1046,2957,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Shot,Off T,Head,Open Play,"[115.0, 50.0]",0.099938154
+1047,2958,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Saved,Right Foot,Open Play,"[97.0, 50.0]",0.040302232
+1048,2959,Edinson Roberto Cavani Gómez,Uruguay,Shot,Goal,Head,Open Play,"[114.0, 46.0]",0.15044495
+1049,2960,José Miguel da Rocha Fonte,Portugal,Shot,Off T,Head,Open Play,"[115.0, 34.0]",0.044974428
+1050,2961,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Blocked,Right Foot,Open Play,"[95.0, 20.0]",0.009861075
+1051,2962,Luis Alberto Suárez Díaz,Uruguay,Shot,Blocked,Right Foot,Open Play,"[110.0, 57.0]",0.022444725
+1052,2963,Gonçalo Manuel Ganchinho Guedes,Portugal,Shot,Blocked,Left Foot,Open Play,"[97.0, 47.0]",0.023420556
+1053,2964,William Silva de Carvalho,Portugal,Shot,Blocked,Right Foot,Open Play,"[92.0, 38.0]",0.0183404
+1054,2965,Luis Alberto Suárez Díaz,Uruguay,Shot,Saved,Right Foot,Free Kick,"[91.0, 41.0]",0.07841941
+1055,2966,Luis Alberto Suárez Díaz,Uruguay,Shot,Off T,Right Foot,Open Play,"[101.0, 62.0]",0.029802501
+1056,2967,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Blocked,Right Foot,Free Kick,"[95.0, 33.0]",0.06181234
+1057,2968,Matías Vecino Falero,Uruguay,Shot,Wayward,Head,Open Play,"[111.0, 37.0]",0.070741795
+1058,2969,Gonçalo Manuel Ganchinho Guedes,Portugal,Shot,Wayward,Head,Open Play,"[110.0, 46.0]",0.035039607
+1059,2970,Edinson Roberto Cavani Gómez,Uruguay,Shot,Off T,Right Foot,Open Play,"[113.0, 25.0]",0.022646723
+1060,2971,Raphaël Adelino José Guerreiro,Portugal,Shot,Off T,Left Foot,Open Play,"[96.0, 27.0]",0.014178104
+1061,2972,Adrien Sebastian Perruchet Silva,Portugal,Shot,Blocked,Right Foot,Open Play,"[100.0, 44.0]",0.10340188
+1062,2973,Kléper Laveran Lima Ferreira,Portugal,Shot,Goal,Head,Open Play,"[112.0, 43.0]",0.117123626
+1063,2974,Gonçalo Manuel Ganchinho Guedes,Portugal,Shot,Blocked,Right Foot,Open Play,"[96.0, 26.0]",0.0209714
+1064,2975,Edinson Roberto Cavani Gómez,Uruguay,Shot,Goal,Right Foot,Open Play,"[103.0, 26.0]",0.065682195
+1065,2976,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Shot,Off T,Right Foot,Open Play,"[103.0, 40.0]",0.23589852
+1066,2977,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Blocked,Right Foot,Open Play,"[96.0, 24.0]",0.009906834
+1067,2978,Raphaël Adelino José Guerreiro,Portugal,Shot,Off T,Left Foot,Open Play,"[100.0, 23.0]",0.015352268
+1068,2979,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Blocked,Right Foot,Open Play,"[87.0, 30.0]",0.014680571
+1069,2980,Manuel Henrique Tavares Fernandes,Portugal,Shot,Saved,Right Foot,Open Play,"[93.0, 52.0]",0.036288362
+1070,2981,Manuel Henrique Tavares Fernandes,Portugal,Shot,Off T,Right Foot,Open Play,"[90.0, 19.0]",0.017502971
+1071,2982,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Off T,Right Foot,Open Play,"[91.0, 22.0]",0.012859933
+1072,2983,Ricardo Andrade Quaresma Bernardo,Portugal,Shot,Saved,Right Foot,Open Play,"[110.0, 54.0]",0.03163013
+1073,2984,Rui Pedro dos Santos Patrício,Portugal,Shot,Wayward,Head,Open Play,"[109.0, 39.0]",0.042406414
+1074,3634,Shinji Okazaki,Japan,Shot,Off T,Head,Open Play,"[113.0, 38.0]",0.23759234
+1075,3635,Yoshinori Muto,Japan,Shot,Saved,Right Foot,Open Play,"[100.0, 28.0]",0.07821124
+1076,3636,Robert Lewandowski,Poland,Shot,Blocked,Right Foot,Open Play,"[98.0, 32.0]",0.041472737
+1077,3637,Gotoku Sakai,Japan,Shot,Saved,Left Foot,Open Play,"[97.0, 43.0]",0.08799073
+1078,3638,Rafał Kurzawa,Poland,Shot,Blocked,Left Foot,Open Play,"[93.0, 38.0]",0.034654185
+1079,3639,Kamil Grosicki,Poland,Shot,Saved,Head,Open Play,"[108.0, 39.0]",0.06295632
+1080,3640,Jacek Góralski,Poland,Shot,Off T,Right Foot,Open Play,"[85.0, 48.0]",0.010358376
+1081,3641,Takashi Usami,Japan,Shot,Saved,Right Foot,Open Play,"[114.0, 58.0]",0.030862652
+1082,3642,Rafał Kurzawa,Poland,Shot,Off T,Right Foot,Open Play,"[104.0, 50.0]",0.047119867
+1083,3643,Tomoaki Makino,Japan,Shot,Wayward,Head,Open Play,"[109.0, 38.0]",0.069560215
+1084,3644,Takashi Usami,Japan,Shot,Blocked,Right Foot,Open Play,"[97.0, 32.0]",0.04088001
+1085,3645,Yoshinori Muto,Japan,Shot,Wayward,Head,Open Play,"[113.0, 41.0]",0.03852514
+1086,3646,Tomoaki Makino,Japan,Shot,Off T,Right Foot,Open Play,"[118.0, 34.0]",0.08601551
+1087,3647,Jan Bednarek,Poland,Shot,Goal,Right Foot,Open Play,"[114.0, 46.0]",0.1335962
+1088,3648,Takashi Usami,Japan,Shot,Blocked,Right Foot,Open Play,"[104.0, 35.0]",0.066757314
+1089,3649,Piotr Zieliński,Poland,Shot,Blocked,Left Foot,Open Play,"[96.0, 47.0]",0.03524632
+1090,3650,Kamil Grosicki,Poland,Shot,Off T,Head,Open Play,"[106.0, 35.0]",0.028380072
+1091,3651,Takashi Inui,Japan,Shot,Off T,Right Foot,Open Play,"[107.0, 16.0]",0.04070379
+1092,3652,Maya Yoshida,Japan,Shot,Off T,Head,Open Play,"[113.0, 39.0]",0.07962904
+1093,3653,Robert Lewandowski,Poland,Shot,Off T,Right Foot,Open Play,"[109.0, 43.0]",0.4535421
+1094,3654,Kamil Glik,Poland,Shot,Off T,Head,Open Play,"[109.0, 41.0]",0.04098137
+1095,3655,Artur Jędrzejczyk,Poland,Shot,Blocked,Head,Open Play,"[110.0, 40.0]",0.036872387
+1096,2606,Amine Harit,Morocco,Shot,Off T,Right Foot,Open Play,"[103.0, 30.0]",0.07384438
+1097,2607,Younès Belhanda,Morocco,Shot,Off T,Head,Open Play,"[115.0, 52.0]",0.06019353
+1098,2608,Ayoub El Kaabi,Morocco,Shot,Off T,Left Foot,Open Play,"[102.0, 42.0]",0.10283999
+1099,2609,Hakim Ziyech,Morocco,Shot,Blocked,Left Foot,Open Play,"[111.0, 27.0]",0.06639611
+1100,2610,Younès Belhanda,Morocco,Shot,Blocked,Left Foot,Open Play,"[113.0, 46.0]",0.33118212
+1101,2611,Medhi Amine El Mouttaqi Benatia,Morocco,Shot,Saved,Left Foot,Open Play,"[110.0, 44.0]",0.16908821
+1102,2612,Sardar Azmoun,Iran,Shot,Wayward,Right Foot,Open Play,"[113.0, 34.0]",0.099965416
+1103,2613,Achraf Hakimi Mouh,Morocco,Shot,Blocked,Right Foot,Open Play,"[104.0, 23.0]",0.026129294
+1104,2614,Younès Belhanda,Morocco,Shot,Blocked,Right Foot,Open Play,"[92.0, 41.0]",0.02642615
+1105,2615,Amine Harit,Morocco,Shot,Saved,Right Foot,Open Play,"[110.0, 24.0]",0.028385784
+1106,2616,Roozbeh Cheshmi,Iran,Shot,Off T,Right Foot,Open Play,"[114.0, 53.0]",0.034328517
+1107,2617,Alireza Jahanbakhsh,Iran,Shot,Off T,Right Foot,Free Kick,"[84.0, 47.0]",0.01925386
+1108,2618,Omid Ebrahimi,Iran,Shot,Blocked,Right Foot,Open Play,"[98.0, 52.0]",0.025593156
+1109,2619,Sardar Azmoun,Iran,Shot,Saved,Right Foot,Open Play,"[109.0, 51.0]",0.2719615
+1110,2620,Alireza Jahanbakhsh,Iran,Shot,Saved,Right Foot,Open Play,"[108.0, 52.0]",0.09751275
+1111,2621,Ehsan Hajsafi,Iran,Shot,Blocked,Right Foot,Open Play,"[98.0, 35.0]",0.022828022
+1112,2622,Ehsan Hajsafi,Iran,Shot,Off T,Left Foot,Free Kick,"[82.0, 42.0]",0.022159873
+1113,2623,Amine Harit,Morocco,Shot,Wayward,Right Foot,Open Play,"[112.0, 30.0]",0.06630709
+1114,2624,Hakim Ziyech,Morocco,Shot,Saved,Left Foot,Open Play,"[99.0, 34.0]",0.054570496
+1115,2625,Romain Saïss,Morocco,Shot,Off T,Head,Open Play,"[114.0, 41.0]",0.093030766
+1116,2626,Hakim Ziyech,Morocco,Shot,Blocked,Left Foot,Open Play,"[97.0, 50.0]",0.03838701
+1117,2627,Manuel Marouan da Costa Trinidade,Morocco,Shot,Wayward,Right Foot,Open Play,"[82.0, 51.0]",0.010319257
+1118,3619,Daniel Carvajal Ramos,Spain,Shot,Off T,Right Foot,Open Play,"[101.0, 62.0]",0.018944118
+1119,3620,Vahid Amiri,Iran,Shot,Off T,Left Foot,Open Play,"[95.0, 26.0]",0.011536347
+1120,3621,Diego da Silva Costa,Spain,Shot,Wayward,Head,Open Play,"[114.0, 45.0]",0.085332274
+1121,3622,Karim Ansarifard,Iran,Shot,Off T,Left Foot,Open Play,"[93.0, 37.0]",0.022282861
+1122,3623,David Josué Jiménez Silva,Spain,Shot,Blocked,Left Foot,Open Play,"[97.0, 48.0]",0.032238517
+1123,3624,Sergio Ramos García,Spain,Shot,Blocked,Right Foot,Free Kick,"[88.0, 34.0]",0.03426386
+1124,3625,David Josué Jiménez Silva,Spain,Shot,Saved,Left Foot,Free Kick,"[95.0, 49.0]",0.07336608
+1125,3626,David Josué Jiménez Silva,Spain,Shot,Off T,Left Foot,Open Play,"[113.0, 40.0]",0.16802657
+1126,3627,Francisco Román Alarcón Suárez,Spain,Shot,Off T,Right Foot,Open Play,"[98.0, 61.0]",0.017436389
+1127,3628,David Josué Jiménez Silva,Spain,Shot,Blocked,Left Foot,Open Play,"[113.0, 36.0]",0.10248178
+1128,3629,Francisco Román Alarcón Suárez,Spain,Shot,Blocked,Right Foot,Open Play,"[96.0, 29.0]",0.030725373
+1129,3630,David Josué Jiménez Silva,Spain,Shot,Blocked,Left Foot,Open Play,"[104.0, 48.0]",0.055669777
+1130,3631,Gerard Piqué Bernabéu,Spain,Shot,Blocked,Right Foot,Open Play,"[114.0, 41.0]",0.2490742
+1131,3632,Sergio Busquets i Burgos,Spain,Shot,Saved,Right Foot,Open Play,"[96.0, 43.0]",0.03139065
+1132,3633,Diego da Silva Costa,Spain,Shot,Wayward,Left Foot,Open Play,"[113.0, 31.0]",0.06622958
+1133,3634,Francisco Román Alarcón Suárez,Spain,Shot,Off T,Right Foot,Open Play,"[105.0, 51.0]",0.083946675
+1134,3635,Karim Ansarifard,Iran,Shot,Off T,Right Foot,Open Play,"[104.0, 28.0]",0.0192162
+1135,3636,Diego da Silva Costa,Spain,Shot,Goal,Right Foot,Open Play,"[107.0, 36.0]",0.2706818
+1136,3637,Mehdi Taremi,Iran,Shot,Off T,Head,Open Play,"[112.0, 39.0]",0.07399542
+1137,3638,Sergio Ramos García,Spain,Shot,Blocked,Right Foot,Open Play,"[109.0, 46.0]",0.100910135
+1138,3639,Gerard Piqué Bernabéu,Spain,Shot,Blocked,Left Foot,Open Play,"[118.0, 39.0]",0.68638676
+1139,3640,Francisco Román Alarcón Suárez,Spain,Shot,Blocked,Right Foot,Free Kick,"[99.0, 56.0]",0.07332817
+1140,3641,Mehdi Taremi,Iran,Shot,Off T,Head,Open Play,"[117.0, 47.0]",0.08673033
+1141,3642,Sardar Azmoun,Iran,Shot,Wayward,Head,Open Play,"[109.0, 37.0]",0.090280816
+1142,3251,Yasir Gharsan Al Shahrani,Saudi Arabia,Shot,Blocked,Right Foot,Open Play,"[103.0, 21.0]",0.018845346
+1143,3252,Aleksandr Samedov,Russia,Shot,Blocked,Right Foot,Open Play,"[111.0, 52.0]",0.04499048
+1144,3253,Yuri Zhirkov,Russia,Shot,Blocked,Left Foot,Open Play,"[107.0, 26.0]",0.027691884
+1145,3254,Alan Dzagoev,Russia,Shot,Blocked,Right Foot,Open Play,"[106.0, 49.0]",0.06495655
+1146,3255,Yury Gazinskiy,Russia,Shot,Goal,Head,Open Play,"[112.0, 47.0]",0.09187309
+1147,3256,Mohammad Ibrahim Al Sahlawi,Saudi Arabia,Shot,Blocked,Left Foot,Open Play,"[103.0, 29.0]",0.047388878
+1148,3257,Salem Mohammed Al Dawsari,Saudi Arabia,Shot,Off T,Right Foot,Open Play,"[92.0, 39.0]",0.04546827
+1149,3258,Yasir Gharsan Al Shahrani,Saudi Arabia,Shot,Off T,Head,Open Play,"[110.0, 42.0]",0.122445844
+1150,3259,Denis Cheryshev,Russia,Shot,Goal,Left Foot,Open Play,"[110.0, 34.0]",0.26999885
+1151,3260,Aleksandr Samedov,Russia,Shot,Off T,Right Foot,Open Play,"[97.0, 50.0]",0.029080672
+1152,3261,Denis Cheryshev,Russia,Shot,Blocked,Left Foot,Open Play,"[108.0, 24.0]",0.031980548
+1153,3262,Denis Cheryshev,Russia,Shot,Saved,Head,Open Play,"[107.0, 39.0]",0.08531114
+1154,3263,Roman Zobnin,Russia,Shot,Saved,Right Foot,Open Play,"[104.0, 56.0]",0.02501437
+1155,3264,Artem Dzyuba,Russia,Shot,Goal,Head,Open Play,"[115.0, 37.0]",0.2027929
+1156,3265,Salem Mohammed Al Dawsari,Saudi Arabia,Shot,Off T,Right Foot,Open Play,"[97.0, 25.0]",0.02933318
+1157,3266,Roman Zobnin,Russia,Shot,Off T,Head,Open Play,"[110.0, 42.0]",0.083050855
+1158,3267,Hattan Babhir,Saudi Arabia,Shot,Blocked,Left Foot,Open Play,"[104.0, 57.0]",0.03508512
+1159,3268,Daler Kuzyaev,Russia,Shot,Off T,Right Foot,Open Play,"[86.0, 38.0]",0.018565752
+1160,3269,Denis Cheryshev,Russia,Shot,Goal,Left Foot,Open Play,"[104.0, 23.0]",0.02896708
+1161,3270,Aleksandr Golovin,Russia,Shot,Goal,Right Foot,Free Kick,"[99.0, 52.0]",0.07120123
+1162,3051,Mikael Lustig,Sweden,Shot,Blocked,Right Foot,Open Play,"[85.0, 51.0]",0.009144992
+1163,3052,Marcus Berg,Sweden,Shot,Saved,Left Foot,Open Play,"[113.0, 38.0]",0.46228638
+1164,3053,Pontus Jansson,Sweden,Shot,Off T,Head,Open Play,"[109.0, 39.0]",0.061906938
+1165,3054,Andreas Granqvist,Sweden,Shot,Blocked,Head,Open Play,"[111.0, 32.0]",0.028558316
+1166,3055,Marcus Berg,Sweden,Shot,Blocked,Left Foot,Open Play,"[112.0, 34.0]",0.15276097
+1167,3056,Jae-Sung Lee,South Korea,Shot,Blocked,Left Foot,Open Play,"[106.0, 56.0]",0.045391254
+1168,3057,Emil Forsberg,Sweden,Shot,Blocked,Right Foot,Open Play,"[90.0, 24.0]",0.023175942
+1169,3058,Marcus Berg,Sweden,Shot,Wayward,Right Foot,Open Play,"[118.0, 29.0]",0.061605234
+1170,3059,Emil Forsberg,Sweden,Shot,Blocked,Right Foot,Open Play,"[94.0, 29.0]",0.0111330105
+1171,3060,Andreas Granqvist,Sweden,Shot,Saved,Right Foot,Open Play,"[104.0, 28.0]",0.09813172
+1172,3061,Viktor Claesson,Sweden,Shot,Blocked,Head,Open Play,"[111.0, 38.0]",0.052822348
+1173,3062,Emil Forsberg,Sweden,Shot,Off T,Right Foot,Open Play,"[99.0, 37.0]",0.052061442
+1174,3063,Ja-Cheol Koo,South Korea,Shot,Off T,Head,Open Play,"[107.0, 30.0]",0.047114473
+1175,3064,Ola Toivonen,Sweden,Shot,Saved,Head,Open Play,"[113.0, 37.0]",0.07531369
+1176,3065,Min-Woo Kim,South Korea,Shot,Blocked,Right Foot,Open Play,"[97.0, 25.0]",0.03930308
+1177,3066,Andreas Granqvist,Sweden,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1178,3067,Sebastian Larsson,Sweden,Shot,Blocked,Right Foot,Open Play,"[83.0, 47.0]",0.010513514
+1179,3068,Emil Forsberg,Sweden,Shot,Blocked,Right Foot,Open Play,"[98.0, 33.0]",0.03870639
+1180,3069,Viktor Claesson,Sweden,Shot,Wayward,Right Foot,Open Play,"[99.0, 48.0]",0.047015924
+1181,3070,Seung-Woo Lee,South Korea,Shot,Blocked,Left Foot,Open Play,"[100.0, 56.0]",0.027942903
+1182,3071,Hee-Chan Hwang,South Korea,Shot,Off T,Head,Open Play,"[110.0, 38.0]",0.10224919
+1183,4018,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1184,4019,David Josué Jiménez Silva,Spain,Shot,Off T,Right Foot,Open Play,"[106.0, 38.0]",0.18864359
+1185,4020,Gonçalo Manuel Ganchinho Guedes,Portugal,Shot,Blocked,Right Foot,Open Play,"[96.0, 53.0]",0.023468496
+1186,4021,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Blocked,Right Foot,Free Kick,"[99.0, 63.0]",0.052383155
+1187,4022,David Josué Jiménez Silva,Spain,Shot,Blocked,Left Foot,Open Play,"[113.0, 31.0]",0.055210005
+1188,4023,Diego da Silva Costa,Spain,Shot,Goal,Right Foot,Open Play,"[105.0, 45.0]",0.07400832
+1189,4025,David Josué Jiménez Silva,Spain,Shot,Blocked,Left Foot,Free Kick,"[100.0, 54.0]",0.07158775
+1190,4026,Andrés Iniesta Luján,Spain,Shot,Off T,Left Foot,Open Play,"[110.0, 29.0]",0.1122103
+1191,4027,Sergio Busquets i Burgos,Spain,Shot,Off T,Head,Open Play,"[111.0, 40.0]",0.077906616
+1192,4028,Francisco Román Alarcón Suárez,Spain,Shot,Saved,Left Foot,Open Play,"[101.0, 55.0]",0.022768002
+1193,4029,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Goal,Left Foot,Open Play,"[101.0, 36.0]",0.036621287
+1194,4030,Bruno Miguel Borges Fernandes,Portugal,Shot,Off T,Right Foot,Open Play,"[87.0, 35.0]",0.016568057
+1195,4031,Diego da Silva Costa,Spain,Shot,Goal,Right Foot,Open Play,"[118.0, 41.0]",0.7929192
+1196,4032,José Ignacio Fernández Iglesias,Spain,Shot,Goal,Right Foot,Open Play,"[99.0, 52.0]",0.03518696
+1197,4033,Diego da Silva Costa,Spain,Shot,Off T,Left Foot,Open Play,"[110.0, 35.0]",0.22789349
+1198,4034,Kléper Laveran Lima Ferreira,Portugal,Shot,Wayward,Head,Open Play,"[116.0, 34.0]",0.11620741
+1199,4035,Ricardo Andrade Quaresma Bernardo,Portugal,Shot,Off T,Right Foot,Open Play,"[107.0, 64.0]",0.025023904
+1200,4036,Iago Aspas Juncal,Spain,Shot,Saved,Left Foot,Open Play,"[100.0, 48.0]",0.062179223
+1201,4037,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Goal,Right Foot,Free Kick,"[96.0, 44.0]",0.10709231
+1202,4038,Ricardo Andrade Quaresma Bernardo,Portugal,Shot,Blocked,Right Foot,Open Play,"[108.0, 31.0]",0.04740074
+1203,4039,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Off T,Head,Open Play,"[113.0, 44.0]",0.107438534
+1204,2859,Khalid Boutaïb,Morocco,Shot,Off T,Head,Open Play,"[109.0, 30.0]",0.020716103
+1205,2860,Raphaël Adelino José Guerreiro,Portugal,Shot,Blocked,Left Foot,Open Play,"[91.0, 39.0]",0.013622488
+1206,2861,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Goal,Head,Open Play,"[115.0, 41.0]",0.1869952
+1207,2862,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Off T,Right Foot,Open Play,"[108.0, 56.0]",0.03559095
+1208,2863,Medhi Amine El Mouttaqi Benatia,Morocco,Shot,Saved,Head,Open Play,"[114.0, 33.0]",0.051906142
+1209,2864,Manuel Marouan da Costa Trinidade,Morocco,Shot,Off T,Head,Open Play,"[109.0, 45.0]",0.025755627
+1210,2865,Hakim Ziyech,Morocco,Shot,Blocked,Left Foot,Open Play,"[109.0, 26.0]",0.034933552
+1211,2866,Hakim Ziyech,Morocco,Shot,Saved,Right Foot,Open Play,"[92.0, 25.0]",0.01198129
+1212,2867,Khalid Boutaïb,Morocco,Shot,Wayward,Head,Open Play,"[108.0, 44.0]",0.060267642
+1213,2868,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Blocked,Right Foot,Free Kick,"[100.0, 34.0]",0.08999304
+1214,2869,Karim El Ahmadi Al Aroos,Morocco,Shot,Off T,Right Foot,Open Play,"[87.0, 28.0]",0.015069329
+1215,2870,Gonçalo Manuel Ganchinho Guedes,Portugal,Shot,Saved,Right Foot,Open Play,"[109.0, 34.0]",0.23386426
+1216,2871,Younès Belhanda,Morocco,Shot,Off T,Head,Open Play,"[112.0, 41.0]",0.12758629
+1217,2872,José Miguel da Rocha Fonte,Portugal,Shot,Off T,Head,Open Play,"[111.0, 42.0]",0.047847625
+1218,2873,Gonçalo Manuel Ganchinho Guedes,Portugal,Shot,Wayward,Right Foot,Open Play,"[107.0, 31.0]",0.04070806
+1219,2874,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Off T,Right Foot,Open Play,"[103.0, 53.0]",0.06786557
+1220,2875,Younès Belhanda,Morocco,Shot,Saved,Right Foot,Open Play,"[105.0, 57.0]",0.033848487
+1221,2876,Younès Belhanda,Morocco,Shot,Saved,Head,Open Play,"[112.0, 50.0]",0.03286756
+1222,2877,Medhi Amine El Mouttaqi Benatia,Morocco,Shot,Off T,Left Foot,Open Play,"[107.0, 42.0]",0.07808029
+1223,2878,Mbark Boussoufa,Morocco,Shot,Wayward,Head,Open Play,"[113.0, 34.0]",0.06883541
+1224,2879,Hakim Ziyech,Morocco,Shot,Off T,Left Foot,Free Kick,"[96.0, 54.0]",0.053389616
+1225,2880,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Blocked,Right Foot,Open Play,"[93.0, 17.0]",0.01818466
+1226,2881,Medhi Amine El Mouttaqi Benatia,Morocco,Shot,Off T,Other,Open Play,"[113.0, 47.0]",0.14291386
+1227,2882,Nabil Dirar,Morocco,Shot,Off T,Right Foot,Open Play,"[86.0, 54.0]",0.009546082
+1228,2883,Bruno Miguel Borges Fernandes,Portugal,Shot,Off T,Right Foot,Open Play,"[97.0, 52.0]",0.023208467
+1229,2884,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Blocked,Right Foot,Free Kick,"[102.0, 31.0]",0.10440962
+1230,2885,Hakim Ziyech,Morocco,Shot,Blocked,Left Foot,Open Play,"[112.0, 50.0]",0.106634915
+1231,2886,Medhi Amine El Mouttaqi Benatia,Morocco,Shot,Off T,Left Foot,Open Play,"[111.0, 38.0]",0.06894785
+1232,2887,Bruno Miguel Borges Fernandes,Portugal,Shot,Off T,Right Foot,Open Play,"[90.0, 21.0]",0.010987664
+1233,2584,Emil Forsberg,Sweden,Shot,Saved,Right Foot,Free Kick,"[114.0, 17.0]",0.04733487
+1234,2585,Miguel Arturo Layún Prado,Mexico,Shot,Off T,Left Foot,Open Play,"[92.0, 58.0]",0.012521504
+1235,2586,Andreas Granqvist,Sweden,Shot,Wayward,Head,Open Play,"[112.0, 36.0]",0.047051627
+1236,2587,Marcus Berg,Sweden,Shot,Off T,Right Foot,Open Play,"[116.0, 36.0]",0.19958206
+1237,2588,Emil Forsberg,Sweden,Shot,Off T,Right Foot,Open Play,"[96.0, 56.0]",0.014451567
+1238,2589,Carlos Alberto Vela Garrido,Mexico,Shot,Off T,Left Foot,Open Play,"[104.0, 46.0]",0.10052774
+1239,2590,Emil Forsberg,Sweden,Shot,Off T,Right Foot,Open Play,"[110.0, 38.0]",0.14463916
+1240,2591,Carlos Alberto Vela Garrido,Mexico,Shot,Blocked,Left Foot,Open Play,"[99.0, 63.0]",0.022580601
+1241,2592,José Andrés Guardado Hernández,Mexico,Shot,Wayward,Head,Open Play,"[116.0, 40.0]",0.24305731
+1242,2593,Héctor Miguel Herrera López,Mexico,Shot,Blocked,Right Foot,Open Play,"[117.0, 22.0]",0.017657088
+1243,2594,José Andrés Guardado Hernández,Mexico,Shot,Off T,Left Foot,Open Play,"[93.0, 34.0]",0.022426067
+1244,2595,Emil Forsberg,Sweden,Shot,Blocked,Right Foot,Open Play,"[101.0, 34.0]",0.08664918
+1245,2596,Marcus Berg,Sweden,Shot,Saved,Right Foot,Open Play,"[115.0, 42.0]",0.33101508
+1246,2597,Emil Forsberg,Sweden,Shot,Off T,Right Foot,Open Play,"[105.0, 30.0]",0.062747136
+1247,2598,Hirving Rodrigo Lozano Bahena,Mexico,Shot,Blocked,Right Foot,Open Play,"[99.0, 28.0]",0.034652002
+1248,2599,Carlos Alberto Vela Garrido,Mexico,Shot,Off T,Left Foot,Open Play,"[106.0, 54.0]",0.049177576
+1249,2600,Carlos Joel Salcedo Hernández,Mexico,Shot,Blocked,Right Foot,Open Play,"[104.0, 28.0]",0.02102849
+1250,2601,Miguel Arturo Layún Prado,Mexico,Shot,Saved,Right Foot,Open Play,"[105.0, 61.0]",0.018600535
+1251,2602,Marcus Berg,Sweden,Shot,Off T,Left Foot,Open Play,"[109.0, 28.0]",0.16938257
+1252,2603,Viktor Claesson,Sweden,Shot,Wayward,Right Foot,Open Play,"[109.0, 41.0]",0.27345926
+1253,2604,Ludwig Augustinsson,Sweden,Shot,Goal,Left Foot,Open Play,"[116.0, 32.0]",0.2790069
+1254,2605,Emil Forsberg,Sweden,Shot,Off T,Left Foot,Open Play,"[103.0, 36.0]",0.114753306
+1255,2606,José Andrés Guardado Hernández,Mexico,Shot,Off T,Left Foot,Open Play,"[115.0, 19.0]",0.020634798
+1256,2607,Ludwig Augustinsson,Sweden,Shot,Off T,Right Foot,Open Play,"[106.0, 25.0]",0.035911486
+1257,2608,Marcus Berg,Sweden,Shot,Saved,Head,Open Play,"[108.0, 29.0]",0.015843851
+1258,2609,Andreas Granqvist,Sweden,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1259,2610,Carlos Joel Salcedo Hernández,Mexico,Shot,Blocked,Right Foot,Open Play,"[80.0, 54.0]",0.010007644
+1260,2611,Marco Jhonfai Fabián De La Mora,Mexico,Shot,Blocked,Right Foot,Open Play,"[90.0, 48.0]",0.018108571
+1261,2612,Carlos Joel Salcedo Hernández,Mexico,Shot,Off T,Head,Open Play,"[111.0, 31.0]",0.017042058
+1262,2613,Javier Hernández Balcázar,Mexico,Shot,Off T,Head,Open Play,"[106.0, 40.0]",0.037968118
+1263,2614,Héctor Alfredo Moreno Herrera,Mexico,Shot,Blocked,Head,Open Play,"[111.0, 42.0]",0.06828808
+1264,2615,Carlos Alberto Vela Garrido,Mexico,Shot,Blocked,Left Foot,Free Kick,"[96.0, 54.0]",0.043650974
+1265,2616,Javier Hernández Balcázar,Mexico,Shot,Blocked,Right Foot,Open Play,"[116.0, 29.0]",0.0704245
+1266,2617,Carlos Alberto Vela Garrido,Mexico,Shot,Off T,Head,Open Play,"[117.0, 42.0]",0.74679697
+1267,2618,Hirving Rodrigo Lozano Bahena,Mexico,Shot,Off T,Right Foot,Open Play,"[98.0, 51.0]",0.030237112
+1268,2619,Héctor Miguel Herrera López,Mexico,Shot,Saved,Left Foot,Open Play,"[91.0, 48.0]",0.030375455
+1269,2620,Hirving Rodrigo Lozano Bahena,Mexico,Shot,Saved,Right Foot,Open Play,"[102.0, 21.0]",0.022628793
+1270,2917,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Saved,Right Foot,Open Play,"[112.0, 27.0]",0.035294347
+1271,2918,Vahid Amiri,Iran,Shot,Off T,Left Foot,Open Play,"[101.0, 29.0]",0.059441242
+1272,2919,João Mário Naval da Costa Eduardo,Portugal,Shot,Off T,Right Foot,Open Play,"[102.0, 35.0]",0.14393309
+1273,2920,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Blocked,Right Foot,Free Kick,"[95.0, 55.0]",0.039962333
+1274,2921,José Miguel da Rocha Fonte,Portugal,Shot,Blocked,Right Foot,Open Play,"[100.0, 39.0]",0.04448955
+1275,2922,Kléper Laveran Lima Ferreira,Portugal,Shot,Off T,Head,Open Play,"[114.0, 35.0]",0.057879645
+1276,2923,André Miguel Valente Silva,Portugal,Shot,Wayward,Head,Open Play,"[103.0, 34.0]",0.02940368
+1277,2924,Ramin Rezaeian,Iran,Shot,Off T,Right Foot,Free Kick,"[93.0, 23.0]",0.03309399
+1278,2925,José Miguel da Rocha Fonte,Portugal,Shot,Wayward,Head,Open Play,"[117.0, 50.0]",0.02778431
+1279,2926,Saeid Ezatolahi Afagh,Iran,Shot,Saved,Head,Open Play,"[109.0, 47.0]",0.046653
+1280,2927,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Saved,Right Foot,Open Play,"[83.0, 34.0]",0.012714876
+1281,2928,Ricardo Andrade Quaresma Bernardo,Portugal,Shot,Off T,Right Foot,Open Play,"[112.0, 55.0]",0.03576757
+1282,2929,Ricardo Andrade Quaresma Bernardo,Portugal,Shot,Goal,Right Foot,Open Play,"[102.0, 58.0]",0.0123060765
+1283,2930,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Saved,Right Foot,Penalty,"[108.0, 40.0]",0.76
+1284,2931,Sardar Azmoun,Iran,Shot,Wayward,Head,Open Play,"[111.0, 36.0]",0.03299182
+1285,2932,Raphaël Adelino José Guerreiro,Portugal,Shot,Blocked,Left Foot,Open Play,"[93.0, 30.0]",0.029522885
+1286,2933,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Off T,Right Foot,Open Play,"[97.0, 35.0]",0.031095896
+1287,2934,Adrien Sebastian Perruchet Silva,Portugal,Shot,Off T,Right Foot,Open Play,"[96.0, 24.0]",0.017586734
+1288,2935,Saman Ghoddos,Iran,Shot,Off T,Right Foot,Open Play,"[98.0, 38.0]",0.052727155
+1289,2936,André Miguel Valente Silva,Portugal,Shot,Off T,Right Foot,Open Play,"[95.0, 51.0]",0.031515997
+1290,2937,Sardar Azmoun,Iran,Shot,Blocked,Head,Open Play,"[113.0, 32.0]",0.03155883
+1291,2938,Karim Ansarifard,Iran,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1292,2939,Saman Ghoddos,Iran,Shot,Blocked,Right Foot,Open Play,"[97.0, 45.0]",0.0259604
+1293,2940,Mehdi Taremi,Iran,Shot,Off T,Left Foot,Open Play,"[113.0, 33.0]",0.35391924
+1294,3495,Edgar Yoel Bárcenas Herrera,Panama,Shot,Off T,Right Foot,Open Play,"[81.0, 40.0]",0.007365972
+1295,3496,Aníbal Cesis Godoy,Panama,Shot,Off T,Left Foot,Open Play,"[102.0, 32.0]",0.13451067
+1296,3497,John Stones,England,Shot,Goal,Head,Open Play,"[109.0, 42.0]",0.07512671
+1297,3498,Edgar Yoel Bárcenas Herrera,Panama,Shot,Off T,Left Foot,Open Play,"[96.0, 49.0]",0.02824812
+1298,3499,Harry Kane,England,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1299,3500,Jesse Lingard,England,Shot,Goal,Right Foot,Open Play,"[98.0, 34.0]",0.060175423
+1300,3501,Raheem Shaquille Sterling,England,Shot,Saved,Head,Open Play,"[115.0, 40.0]",0.41439074
+1301,3502,John Stones,England,Shot,Goal,Head,Open Play,"[118.0, 36.0]",0.45612025
+1302,3503,Jesse Lingard,England,Shot,Blocked,Right Foot,Open Play,"[100.0, 40.0]",0.10395398
+1303,3504,Harry Kane,England,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1304,3505,Ruben Loftus-Cheek,England,Shot,Blocked,Left Foot,Open Play,"[97.0, 51.0]",0.025342245
+1305,3506,Harry Kane,England,Shot,Goal,Right Foot,Open Play,"[105.0, 49.0]",0.1269506
+1306,3507,Michael Amir Murillo Bermudez,Panama,Shot,Saved,Right Foot,Open Play,"[115.0, 51.0]",0.19250491
+1307,3508,Jordan Brian Henderson,England,Shot,Off T,Right Foot,Open Play,"[104.0, 45.0]",0.033640955
+1308,3509,Román Aureliano Torres Morcillo,Panama,Shot,Off T,Right Foot,Open Play,"[116.0, 36.0]",0.29889992
+1309,3510,Felipe Abdiel Baloy Ramírez,Panama,Shot,Goal,Right Foot,Open Play,"[109.0, 44.0]",0.13714771
+1310,3511,Raheem Shaquille Sterling,England,Shot,Off T,Right Foot,Open Play,"[93.0, 30.0]",0.034551587
+1311,3512,Blas Antonio Miguel Pérez Ortega,Panama,Shot,Blocked,Left Foot,Open Play,"[106.0, 41.0]",0.045845088
+1312,3513,José Luis Rodríguez Francis,Panama,Shot,Off T,Left Foot,Open Play,"[94.0, 20.0]",0.018537758
+1313,3896,Youri Tielemans,Belgium,Shot,Saved,Right Foot,Open Play,"[93.0, 52.0]",0.01884349
+1314,3897,Michy Batshuayi Tunga,Belgium,Shot,Blocked,Right Foot,Open Play,"[117.0, 40.0]",0.2356519
+1315,3898,Marcus Rashford,England,Shot,Blocked,Right Foot,Open Play,"[91.0, 20.0]",0.012964692
+1316,3899,Jamie Vardy,England,Shot,Off T,Head,Open Play,"[112.0, 42.0]",0.17052485
+1317,3900,Michy Batshuayi Tunga,Belgium,Shot,Blocked,Right Foot,Open Play,"[109.0, 55.0]",0.032172132
+1318,3901,Marouane Fellaini-Bakkioui,Belgium,Shot,Blocked,Right Foot,Open Play,"[107.0, 33.0]",0.027875638
+1319,3902,Youri Tielemans,Belgium,Shot,Blocked,Right Foot,Open Play,"[91.0, 49.0]",0.01247171
+1320,3903,Ruben Loftus-Cheek,England,Shot,Off T,Head,Open Play,"[113.0, 40.0]",0.08079294
+1321,3904,Adnan Januzaj,Belgium,Shot,Blocked,Left Foot,Open Play,"[90.0, 41.0]",0.020228453
+1322,3905,Anga Dedryck Boyata,Belgium,Shot,Wayward,Head,Open Play,"[111.0, 43.0]",0.061413296
+1323,3906,Jamie Vardy,England,Shot,Wayward,Head,Open Play,"[109.0, 35.0]",0.039270446
+1324,3907,Thorgan Hazard,Belgium,Shot,Off T,Right Foot,Open Play,"[99.0, 34.0]",0.049286656
+1325,3908,Thorgan Hazard,Belgium,Shot,Wayward,Right Foot,Open Play,"[108.0, 27.0]",0.046677392
+1326,3909,Marcus Rashford,England,Shot,Off T,Right Foot,Open Play,"[107.0, 27.0]",0.028258327
+1327,3910,Adnan Januzaj,Belgium,Shot,Goal,Left Foot,Open Play,"[105.0, 53.0]",0.050801136
+1328,3911,Trent Alexander-Arnold,England,Shot,Blocked,Right Foot,Free Kick,"[93.0, 42.0]",0.102308325
+1329,3912,Adnan Januzaj,Belgium,Shot,Blocked,Left Foot,Open Play,"[107.0, 54.0]",0.031805217
+1330,3913,Marcus Rashford,England,Shot,Saved,Right Foot,Open Play,"[104.0, 33.0]",0.42333835
+1331,3914,Fabian Delph,England,Shot,Off T,Left Foot,Open Play,"[86.0, 50.0]",0.011010092
+1332,3915,Fabian Delph,England,Shot,Blocked,Left Foot,Open Play,"[99.0, 33.0]",0.039584167
+1333,3916,Marcus Rashford,England,Shot,Off T,Right Foot,Free Kick,"[92.0, 55.0]",0.029017823
+1334,3917,Daniel Nii Tackie Mensah Welbeck,England,Shot,Blocked,Left Foot,Open Play,"[106.0, 31.0]",0.023341136
+1335,3918,Daniel Nii Tackie Mensah Welbeck,England,Shot,Off T,Right Foot,Open Play,"[116.0, 30.0]",0.0911439
+1336,3919,Dries Mertens,Belgium,Shot,Saved,Right Foot,Open Play,"[99.0, 49.0]",0.05167523
+1337,3920,Thorgan Hazard,Belgium,Shot,Blocked,Right Foot,Open Play,"[110.0, 26.0]",0.032835085
+1338,3921,Marouane Fellaini-Bakkioui,Belgium,Shot,Off T,Left Foot,Open Play,"[113.0, 29.0]",0.115744404
+1339,3817,Ashley Young,England,Shot,Saved,Right Foot,Free Kick,"[115.0, 18.0]",0.043674327
+1340,3818,Raheem Shaquille Sterling,England,Shot,Blocked,Right Foot,Open Play,"[112.0, 54.0]",0.026669312
+1341,3819,Raheem Shaquille Sterling,England,Shot,Blocked,Right Foot,Open Play,"[98.0, 37.0]",0.02635788
+1342,3820,Harry Kane,England,Shot,Off T,Head,Open Play,"[119.0, 36.0]",0.36664945
+1343,3821,Juan Guillermo Cuadrado Bello,Colombia,Shot,Blocked,Right Foot,Open Play,"[97.0, 56.0]",0.01689895
+1344,3822,Johan Andrés Mojica Palacio,Colombia,Shot,Off T,Left Foot,Open Play,"[90.0, 18.0]",0.016841354
+1345,3823,Raheem Shaquille Sterling,England,Shot,Blocked,Left Foot,Open Play,"[101.0, 46.0]",0.045488525
+1346,3824,Juan Fernando Quintero Paniagua,Colombia,Shot,Off T,Left Foot,Open Play,"[92.0, 49.0]",0.026235223
+1347,3825,Kieran Trippier,England,Shot,Off T,Right Foot,Free Kick,"[99.0, 31.0]",0.11374216
+1348,3826,Harry Kane,England,Shot,Off T,Right Foot,Open Play,"[94.0, 59.0]",0.011127956
+1349,3827,Juan Fernando Quintero Paniagua,Colombia,Shot,Saved,Left Foot,Open Play,"[97.0, 52.0]",0.020483479
+1350,3828,Jesse Lingard,England,Shot,Off T,Right Foot,Open Play,"[108.0, 50.0]",0.019548655
+1351,3829,Harry Kane,England,Shot,Goal,Right Foot,Penalty,"[108.0, 40.0]",0.76
+1352,3830,Juan Fernando Quintero Paniagua,Colombia,Shot,Blocked,Left Foot,Open Play,"[78.0, 41.0]",0.015556041
+1353,3831,Bamidele Alli,England,Shot,Off T,Head,Open Play,"[117.0, 32.0]",0.06714824
+1354,3832,Harry Maguire,England,Shot,Off T,Head,Open Play,"[108.0, 45.0]",0.027762733
+1355,3833,Juan Guillermo Cuadrado Bello,Colombia,Shot,Off T,Right Foot,Open Play,"[108.0, 52.0]",0.07512768
+1356,3834,Harry Maguire,England,Shot,Off T,Head,Open Play,"[115.0, 31.0]",0.041914552
+1357,3835,Davinson Sánchez Mina,Colombia,Shot,Wayward,Head,Open Play,"[110.0, 46.0]",0.041831743
+1358,3836,Radamel Falcao García Zárate,Colombia,Shot,Off T,Head,Open Play,"[114.0, 45.0]",0.050471604
+1359,3837,Radamel Falcao García Zárate,Colombia,Shot,Saved,Right Foot,Open Play,"[94.0, 47.0]",0.029559905
+1360,3838,Andrés Mateus Uribe Villa,Colombia,Shot,Saved,Right Foot,Open Play,"[82.0, 41.0]",0.0076720365
+1361,3839,Yerry Fernando Mina González,Colombia,Shot,Goal,Head,Open Play,"[114.0, 41.0]",0.0874024
+1362,3840,Carlos Arturo Bacca Ahumada,Colombia,Shot,Blocked,Head,Open Play,"[109.0, 42.0]",0.03042104
+1363,3841,Davinson Sánchez Mina,Colombia,Shot,Off T,Head,Open Play,"[109.0, 42.0]",0.028326292
+1364,3842,Radamel Falcao García Zárate,Colombia,Shot,Off T,Head,Open Play,"[108.0, 39.0]",0.05021168
+1365,3843,Jesse Lingard,England,Shot,Blocked,Left Foot,Open Play,"[98.0, 45.0]",0.026180284
+1366,3844,Jamie Vardy,England,Shot,Blocked,Right Foot,Open Play,"[112.0, 56.0]",0.021024613
+1367,3845,Danny Rose,England,Shot,Off T,Left Foot,Open Play,"[113.0, 25.0]",0.03730133
+1368,3846,Eric Dier,England,Shot,Off T,Head,Open Play,"[112.0, 44.0]",0.08954069
+1369,3847,Harry Maguire,England,Shot,Wayward,Head,Open Play,"[111.0, 45.0]",0.024208752
+1370,3848,Radamel Falcao García Zárate,Colombia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1371,3849,Harry Kane,England,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1372,3850,Juan Guillermo Cuadrado Bello,Colombia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1373,3851,Marcus Rashford,England,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1374,3852,Luis Fernando Muriel Fruto,Colombia,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1375,3853,Jordan Brian Henderson,England,Shot,Saved,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1376,3855,Kieran Trippier,England,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1377,3856,Carlos Arturo Bacca Ahumada,Colombia,Shot,Saved,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1378,3857,Eric Dier,England,Shot,Goal,Right Foot,Penalty,"[109.0, 41.0]",0.76
+1379,2998,Xherdan Shaqiri,Switzerland,Shot,Off T,Left Foot,Open Play,"[89.0, 60.0]",0.015886042
+1380,2999,Steven Zuber,Switzerland,Shot,Saved,Right Foot,Open Play,"[103.0, 22.0]",0.025412552
+1381,3000,Marcus Berg,Sweden,Shot,Off T,Right Foot,Open Play,"[108.0, 56.0]",0.055213265
+1382,3001,Marcus Berg,Sweden,Shot,Blocked,Right Foot,Open Play,"[104.0, 41.0]",0.18442297
+1383,3002,Albin Ekdal,Sweden,Shot,Off T,Right Foot,Open Play,"[101.0, 41.0]",0.06551793
+1384,3003,Mikael Lustig,Sweden,Shot,Wayward,Right Foot,Open Play,"[93.0, 50.0]",0.01445046
+1385,3004,Steven Zuber,Switzerland,Shot,Off T,Head,Open Play,"[112.0, 51.0]",0.037871893
+1386,3005,Marcus Berg,Sweden,Shot,Saved,Left Foot,Open Play,"[108.0, 49.0]",0.043366138
+1387,3006,Granit Xhaka,Switzerland,Shot,Off T,Left Foot,Open Play,"[81.0, 48.0]",0.012651618
+1388,3007,Xherdan Shaqiri,Switzerland,Shot,Blocked,Left Foot,Open Play,"[98.0, 60.0]",0.013079658
+1389,3008,Blerim Džemaili,Switzerland,Shot,Off T,Right Foot,Open Play,"[104.0, 31.0]",0.044724673
+1390,3009,Emil Forsberg,Sweden,Shot,Blocked,Right Foot,Free Kick,"[90.0, 51.0]",0.04215365
+1391,3010,Albin Ekdal,Sweden,Shot,Off T,Right Foot,Open Play,"[113.0, 33.0]",0.12313891
+1392,3011,Ola Toivonen,Sweden,Shot,Off T,Left Foot,Open Play,"[109.0, 47.0]",0.1754705
+1393,3012,Ricardo Iván Rodríguez Araya,Switzerland,Shot,Blocked,Right Foot,Open Play,"[93.0, 26.0]",0.014926908
+1394,3013,Emil Forsberg,Sweden,Shot,Blocked,Right Foot,Free Kick,"[104.0, 16.0]",0.04816905
+1395,3014,Emil Forsberg,Sweden,Shot,Goal,Right Foot,Open Play,"[101.0, 42.0]",0.09860796
+1396,3015,Albin Ekdal,Sweden,Shot,Off T,Right Foot,Open Play,"[93.0, 49.0]",0.029793238
+1397,3016,Ricardo Iván Rodríguez Araya,Switzerland,Shot,Saved,Right Foot,Open Play,"[93.0, 21.0]",0.019546978
+1398,3017,Xherdan Shaqiri,Switzerland,Shot,Blocked,Left Foot,Open Play,"[104.0, 58.0]",0.016021093
+1399,3018,Granit Xhaka,Switzerland,Shot,Blocked,Left Foot,Open Play,"[88.0, 33.0]",0.024448063
+1400,3019,Xherdan Shaqiri,Switzerland,Shot,Blocked,Left Foot,Open Play,"[95.0, 52.0]",0.017522497
+1401,3020,Michael Lang,Switzerland,Shot,Blocked,Right Foot,Open Play,"[112.0, 53.0]",0.027812457
+1402,3021,Breel-Donald Embolo,Switzerland,Shot,Blocked,Head,Open Play,"[113.0, 36.0]",0.05459828
+1403,3022,Ricardo Iván Rodríguez Araya,Switzerland,Shot,Blocked,Right Foot,Open Play,"[100.0, 31.0]",0.018110827
+1404,3023,Josip Drmic,Switzerland,Shot,Blocked,Left Foot,Open Play,"[101.0, 38.0]",0.03772309
+1405,3024,Haris Seferović,Switzerland,Shot,Saved,Head,Open Play,"[112.0, 30.0]",0.0451929
+1406,3025,Ola Toivonen,Sweden,Shot,Saved,Right Foot,Free Kick,"[102.0, 38.0]",0.16131301
+1407,3949,Kieran Trippier,England,Shot,Goal,Right Foot,Free Kick,"[96.0, 43.0]",0.13681328
+1408,3950,Harry Maguire,England,Shot,Off T,Head,Open Play,"[111.0, 37.0]",0.02847463
+1409,3951,Ivan Perišić,Croatia,Shot,Off T,Right Foot,Open Play,"[94.0, 20.0]",0.025050001
+1410,3952,Ante Rebić,Croatia,Shot,Blocked,Left Foot,Open Play,"[98.0, 41.0]",0.12052825
+1411,3953,Ivan Perišić,Croatia,Shot,Off T,Right Foot,Open Play,"[87.0, 26.0]",0.011568041
+1412,3954,Ante Rebić,Croatia,Shot,Saved,Left Foot,Open Play,"[101.0, 50.0]",0.049119662
+1413,3955,Jesse Lingard,England,Shot,Off T,Right Foot,Open Play,"[102.0, 41.0]",0.086329415
+1414,3956,Raheem Shaquille Sterling,England,Shot,Blocked,Left Foot,Open Play,"[104.0, 52.0]",0.02933324
+1415,3957,Šime Vrsaljko,Croatia,Shot,Off T,Right Foot,Open Play,"[88.0, 51.0]",0.01786488
+1416,3958,Jesse Lingard,England,Shot,Blocked,Left Foot,Open Play,"[96.0, 45.0]",0.07683543
+1417,3959,Ivan Rakitić,Croatia,Shot,Off T,Left Foot,Open Play,"[97.0, 34.0]",0.025872875
+1418,3960,Ivan Perišić,Croatia,Shot,Blocked,Right Foot,Open Play,"[103.0, 41.0]",0.049669664
+1419,3961,Harry Kane,England,Shot,Off T,Right Foot,Open Play,"[118.0, 56.0]",0.033182524
+1420,3962,Ivan Perišić,Croatia,Shot,Goal,Left Foot,Open Play,"[114.0, 40.0]",0.16153686
+1421,3964,Ante Rebić,Croatia,Shot,Saved,Left Foot,Open Play,"[111.0, 44.0]",0.25984475
+1422,3965,Marcelo Brozović,Croatia,Shot,Off T,Right Foot,Open Play,"[98.0, 48.0]",0.019139169
+1423,3966,Jesse Lingard,England,Shot,Wayward,Right Foot,Open Play,"[115.0, 55.0]",0.0659197
+1424,3967,Jordan Brian Henderson,England,Shot,Off T,Right Foot,Open Play,"[95.0, 45.0]",0.02943506
+1425,3968,Mario Mandžukić,Croatia,Shot,Saved,Right Foot,Open Play,"[113.0, 52.0]",0.06234461
+1426,3969,Ivan Perišić,Croatia,Shot,Off T,Right Foot,Open Play,"[113.0, 24.0]",0.08026097
+1427,3970,Dejan Lovren,Croatia,Shot,Off T,Right Foot,Open Play,"[89.0, 57.0]",0.016449666
+1428,3971,Harry Kane,England,Shot,Off T,Head,Open Play,"[113.0, 33.0]",0.031169029
+1429,3972,Eric Dier,England,Shot,Blocked,Right Foot,Open Play,"[92.0, 51.0]",0.030229246
+1430,3973,John Stones,England,Shot,Blocked,Head,Open Play,"[113.0, 49.0]",0.026228873
+1431,3974,Andrej Kramarić,Croatia,Shot,Blocked,Left Foot,Open Play,"[106.0, 58.0]",0.028589392
+1432,3975,Andrej Kramarić,Croatia,Shot,Blocked,Left Foot,Open Play,"[101.0, 34.0]",0.06090429
+1433,3976,Mario Mandžukić,Croatia,Shot,Saved,Right Foot,Open Play,"[114.0, 39.0]",0.3320944
+1434,3977,Marcelo Brozović,Croatia,Shot,Off T,Left Foot,Open Play,"[111.0, 27.0]",0.048765816
+1435,3978,Mario Mandžukić,Croatia,Shot,Goal,Left Foot,Open Play,"[114.0, 33.0]",0.17174198
+1436,3979,Ivan Perišić,Croatia,Shot,Blocked,Left Foot,Open Play,"[107.0, 32.0]",0.12101325
+1437,3980,Marcelo Brozović,Croatia,Shot,Saved,Right Foot,Open Play,"[97.0, 22.0]",0.022168055
+1438,3981,Andrej Kramarić,Croatia,Shot,Off T,Right Foot,Open Play,"[109.0, 52.0]",0.12545726
+1439,3254,Viktor Claesson,Sweden,Shot,Off T,Right Foot,Open Play,"[86.0, 43.0]",0.012779108
+1440,3255,Harry Kane,England,Shot,Off T,Right Foot,Open Play,"[97.0, 46.0]",0.052680697
+1441,3256,Harry Maguire,England,Shot,Goal,Head,Open Play,"[110.0, 44.0]",0.034489863
+1442,3257,Jordan Brian Henderson,England,Shot,Off T,Right Foot,Open Play,"[94.0, 58.0]",0.018468376
+1443,3258,Raheem Shaquille Sterling,England,Shot,Blocked,Right Foot,Open Play,"[111.0, 51.0]",0.17926262
+1444,3259,Marcus Berg,Sweden,Shot,Saved,Head,Open Play,"[113.0, 48.0]",0.027764944
+1445,3260,Emil Forsberg,Sweden,Shot,Off T,Right Foot,Open Play,"[97.0, 13.0]",0.05121217
+1446,3261,Raheem Shaquille Sterling,England,Shot,Blocked,Right Foot,Open Play,"[115.0, 32.0]",0.044794805
+1447,3262,Jesse Lingard,England,Shot,Blocked,Right Foot,Open Play,"[95.0, 23.0]",0.01145048
+1448,3263,Jesse Lingard,England,Shot,Blocked,Right Foot,Open Play,"[98.0, 48.0]",0.040244903
+1449,3264,Bamidele Alli,England,Shot,Goal,Head,Open Play,"[116.0, 32.0]",0.08706656
+1450,3265,Viktor Claesson,Sweden,Shot,Saved,Right Foot,Open Play,"[106.0, 43.0]",0.16997346
+1451,3266,Viktor Claesson,Sweden,Shot,Blocked,Left Foot,Open Play,"[113.0, 36.0]",0.23113738
+1452,3267,Ola Toivonen,Sweden,Shot,Off T,Head,Open Play,"[105.0, 47.0]",0.0127511835
+1453,3268,Harry Maguire,England,Shot,Off T,Left Foot,Open Play,"[111.0, 30.0]",0.10737247
+1454,3269,Bamidele Alli,England,Shot,Blocked,Left Foot,Open Play,"[102.0, 29.0]",0.043078333
+1455,3270,Bamidele Alli,England,Shot,Blocked,Right Foot,Open Play,"[107.0, 20.0]",0.033273663
+1456,3271,Marcus Berg,Sweden,Shot,Saved,Left Foot,Open Play,"[110.0, 42.0]",0.13775387
+1457,3272,Jesse Lingard,England,Shot,Blocked,Left Foot,Open Play,"[98.0, 43.0]",0.06470203
+1458,3273,Ludwig Augustinsson,Sweden,Shot,Off T,Left Foot,Free Kick,"[100.0, 50.0]",0.11463995
+1459,3591,Marco Reus,Germany,Shot,Off T,Right Foot,Open Play,"[113.0, 22.0]",0.020881904
+1460,3592,Sami Khedira,Germany,Shot,Saved,Head,Open Play,"[111.0, 42.0]",0.022346059
+1461,3593,Woo-Young Jung,South Korea,Shot,Saved,Right Foot,Free Kick,"[87.0, 49.0]",0.039588153
+1462,3594,Yong Lee,South Korea,Shot,Off T,Right Foot,Open Play,"[91.0, 50.0]",0.011354855
+1463,3595,Heung-Min Son,South Korea,Shot,Off T,Right Foot,Open Play,"[108.0, 51.0]",0.06565892
+1464,3596,Marco Reus,Germany,Shot,Blocked,Left Foot,Open Play,"[97.0, 42.0]",0.09013645
+1465,3597,Timo Werner,Germany,Shot,Blocked,Right Foot,Open Play,"[108.0, 51.0]",0.11420574
+1466,3598,Leon Goretzka,Germany,Shot,Wayward,Head,Open Play,"[112.0, 43.0]",0.06378762
+1467,3599,Mats Hummels,Germany,Shot,Saved,Right Foot,Open Play,"[116.0, 37.0]",0.3409895
+1468,3600,Mesut Özil,Germany,Shot,Blocked,Left Foot,Open Play,"[105.0, 60.0]",0.021395119
+1469,3601,Heung-Min Son,South Korea,Shot,Off T,Right Foot,Open Play,"[99.0, 53.0]",0.041204456
+1470,3602,Woo-Young Jung,South Korea,Shot,Saved,Right Foot,Open Play,"[89.0, 38.0]",0.016197857
+1471,3603,Leon Goretzka,Germany,Shot,Saved,Head,Open Play,"[111.0, 39.0]",0.15384452
+1472,3604,Toni Kroos,Germany,Shot,Off T,Right Foot,Open Play,"[85.0, 38.0]",0.013065994
+1473,3605,Timo Werner,Germany,Shot,Off T,Right Foot,Open Play,"[108.0, 37.0]",0.10289497
+1474,3606,Heung-Min Son,South Korea,Shot,Off T,Right Foot,Open Play,"[119.0, 31.0]",0.27235216
+1475,3607,Joshua Kimmich,Germany,Shot,Blocked,Left Foot,Open Play,"[103.0, 56.0]",0.03501422
+1476,3608,Sami Khedira,Germany,Shot,Blocked,Right Foot,Open Play,"[94.0, 52.0]",0.017935367
+1477,3609,Toni Kroos,Germany,Shot,Blocked,Left Foot,Open Play,"[104.0, 31.0]",0.12934966
+1478,3610,Heung-Min Son,South Korea,Shot,Off T,Right Foot,Open Play,"[96.0, 42.0]",0.042058438
+1479,3611,Timo Werner,Germany,Shot,Off T,Right Foot,Open Play,"[112.0, 28.0]",0.03699075
+1480,3612,Mario Gómez García,Germany,Shot,Saved,Head,Open Play,"[113.0, 39.0]",0.22437352
+1481,3613,Toni Kroos,Germany,Shot,Off T,Left Foot,Open Play,"[94.0, 39.0]",0.04536848
+1482,3614,Mario Gómez García,Germany,Shot,Blocked,Left Foot,Open Play,"[115.0, 43.0]",0.28396937
+1483,3615,Heung-Min Son,South Korea,Shot,Off T,Right Foot,Open Play,"[102.0, 29.0]",0.04896827
+1484,3616,Thomas Müller,Germany,Shot,Off T,Head,Open Play,"[112.0, 44.0]",0.15893847
+1485,3617,Marco Reus,Germany,Shot,Off T,Right Foot,Open Play,"[97.0, 54.0]",0.029524803
+1486,3618,Julian Brandt,Germany,Shot,Blocked,Right Foot,Open Play,"[109.0, 29.0]",0.1500678
+1487,3619,Toni Kroos,Germany,Shot,Off T,Right Foot,Open Play,"[95.0, 33.0]",0.043211073
+1488,3620,Mats Hummels,Germany,Shot,Off T,Other,Open Play,"[112.0, 39.0]",0.24813859
+1489,3621,Toni Kroos,Germany,Shot,Saved,Right Foot,Open Play,"[98.0, 41.0]",0.047491834
+1490,3622,Woo-Young Jung,South Korea,Shot,Saved,Right Foot,Open Play,"[86.0, 39.0]",0.01241907
+1491,3623,Jae-Sung Lee,South Korea,Shot,Blocked,Left Foot,Open Play,"[98.0, 42.0]",0.04271262
+1492,3624,Young-Gwon Kim,South Korea,Shot,Goal,Left Foot,Open Play,"[115.0, 42.0]",0.47217062
+1493,3625,Thomas Müller,Germany,Shot,Wayward,Head,Open Play,"[108.0, 36.0]",0.07952041
+1494,3626,Mats Hummels,Germany,Shot,Off T,Head,Open Play,"[115.0, 47.0]",0.12002199
+1495,3627,Heung-Min Son,South Korea,Shot,Goal,Left Foot,Open Play,"[116.0, 32.0]",0.780189
+1496,3628,Thomas Müller,Germany,Shot,Blocked,Right Foot,Open Play,"[99.0, 35.0]",0.07533962
+1497,3629,Julian Brandt,Germany,Shot,Saved,Right Foot,Open Play,"[102.0, 49.0]",0.06612207
+1498,3630,Mats Hummels,Germany,Shot,Blocked,Left Foot,Open Play,"[106.0, 35.0]",0.049124252
+1499,3631,Mats Hummels,Germany,Shot,Off T,Head,Open Play,"[113.0, 39.0]",0.19015019
+1500,3645,Yūya Ōsako,Japan,Shot,Saved,Left Foot,Open Play,"[104.0, 48.0]",0.25592348
+1501,3646,Shinji Kagawa,Japan,Shot,Blocked,Left Foot,Open Play,"[103.0, 39.0]",0.147781
+1502,3647,Shinji Kagawa,Japan,Shot,Goal,Right Foot,Penalty,"[108.0, 40.0]",0.76
+1503,3648,Radamel Falcao García Zárate,Colombia,Shot,Saved,Left Foot,Open Play,"[112.0, 43.0]",0.22891212
+1504,3649,Takashi Inui,Japan,Shot,Off T,Right Foot,Open Play,"[108.0, 30.0]",0.168692
+1505,3650,Juan Fernando Quintero Paniagua,Colombia,Shot,Blocked,Left Foot,Open Play,"[93.0, 49.0]",0.021943275
+1506,3651,Oscar Fabián Murillo Murillo,Colombia,Shot,Wayward,Head,Open Play,"[110.0, 34.0]",0.026016064
+1507,3652,Juan Guillermo Cuadrado Bello,Colombia,Shot,Blocked,Right Foot,Open Play,"[101.0, 60.0]",0.015954943
+1508,3653,Yūya Ōsako,Japan,Shot,Wayward,Right Foot,Open Play,"[112.0, 26.0]",0.07296688
+1509,3654,Radamel Falcao García Zárate,Colombia,Shot,Saved,Right Foot,Open Play,"[109.0, 45.0]",0.11823388
+1510,3655,Juan Fernando Quintero Paniagua,Colombia,Shot,Goal,Left Foot,Free Kick,"[100.0, 60.0]",0.03302352
+1511,3656,Yūya Ōsako,Japan,Shot,Saved,Left Foot,Open Play,"[117.0, 30.0]",0.11830249
+1512,3657,Takashi Inui,Japan,Shot,Saved,Right Foot,Open Play,"[106.0, 28.0]",0.06157763
+1513,3658,Maya Yoshida,Japan,Shot,Off T,Head,Open Play,"[113.0, 39.0]",0.1089635
+1514,3659,Hiroki Sakai,Japan,Shot,Off T,Right Foot,Open Play,"[110.0, 57.0]",0.027961968
+1515,3660,Takashi Inui,Japan,Shot,Blocked,Right Foot,Open Play,"[105.0, 25.0]",0.038647596
+1516,3661,Keisuke Honda,Japan,Shot,Saved,Left Foot,Open Play,"[96.0, 60.0]",0.015934661
+1517,3662,Hiroki Sakai,Japan,Shot,Blocked,Right Foot,Open Play,"[114.0, 49.0]",0.12429098
+1518,3663,Yūya Ōsako,Japan,Shot,Goal,Head,Open Play,"[117.0, 39.0]",0.23470171
+1519,3664,James David Rodríguez Rubio,Colombia,Shot,Blocked,Left Foot,Open Play,"[112.0, 54.0]",0.04734624
+1520,3665,Jefferson Andrés Lerma Solís,Colombia,Shot,Wayward,Other,Open Play,"[113.0, 47.0]",0.04337223
+1521,3666,Carlos Arturo Bacca Ahumada,Colombia,Shot,Blocked,Right Foot,Open Play,"[109.0, 31.0]",0.06710881
+1522,3667,Oscar Fabián Murillo Murillo,Colombia,Shot,Wayward,Head,Open Play,"[111.0, 42.0]",0.08291103
+1523,3668,Yūya Ōsako,Japan,Shot,Wayward,Head,Open Play,"[108.0, 43.0]",0.058462113
+1524,3226,Eden Hazard,Belgium,Shot,Off T,Left Foot,Open Play,"[109.0, 23.0]",0.019637499
+1525,3227,Blaise Matuidi,France,Shot,Saved,Left Foot,Open Play,"[92.0, 38.0]",0.01303839
+1526,3228,Eden Hazard,Belgium,Shot,Blocked,Right Foot,Open Play,"[107.0, 21.0]",0.01630504
+1527,3229,Toby Alderweireld,Belgium,Shot,Saved,Left Foot,Open Play,"[105.0, 41.0]",0.06923522
+1528,3230,Olivier Giroud,France,Shot,Off T,Left Foot,Open Play,"[103.0, 48.0]",0.24659362
+1529,3231,Olivier Giroud,France,Shot,Off T,Head,Open Play,"[108.0, 44.0]",0.040773172
+1530,3232,Olivier Giroud,France,Shot,Wayward,Left Foot,Open Play,"[107.0, 32.0]",0.15631188
+1531,3233,Antoine Griezmann,France,Shot,Off T,Right Foot,Open Play,"[98.0, 30.0]",0.0468742
+1532,3234,Olivier Giroud,France,Shot,Off T,Left Foot,Open Play,"[109.0, 36.0]",0.13414341
+1533,3235,Antoine Griezmann,France,Shot,Off T,Left Foot,Open Play,"[91.0, 32.0]",0.026999686
+1534,3236,Antoine Griezmann,France,Shot,Blocked,Left Foot,Open Play,"[96.0, 50.0]",0.019341314
+1535,3237,Benjamin Pavard,France,Shot,Saved,Right Foot,Open Play,"[114.0, 53.0]",0.09804139
+1536,3238,Blaise Matuidi,France,Shot,Wayward,Head,Open Play,"[105.0, 30.0]",0.036197774
+1537,3239,Antoine Griezmann,France,Shot,Blocked,Left Foot,Free Kick,"[96.0, 57.0]",0.045064036
+1538,3240,Romelu Lukaku Menama,Belgium,Shot,Off T,Head,Open Play,"[111.0, 40.0]",0.054394465
+1539,3241,Olivier Giroud,France,Shot,Blocked,Right Foot,Open Play,"[107.0, 31.0]",0.058892976
+1540,3242,Samuel Yves Umtiti,France,Shot,Goal,Head,Open Play,"[118.0, 47.0]",0.07233822
+1541,3243,Blaise Matuidi,France,Shot,Blocked,Left Foot,Open Play,"[99.0, 30.0]",0.032036
+1542,3244,Olivier Giroud,France,Shot,Blocked,Left Foot,Open Play,"[112.0, 34.0]",0.17627539
+1543,3245,Toby Alderweireld,Belgium,Shot,Off T,Right Foot,Open Play,"[93.0, 60.0]",0.0116144605
+1544,3246,Kevin De Bruyne,Belgium,Shot,Wayward,Right Foot,Open Play,"[107.0, 38.0]",0.10418073
+1545,3247,Marouane Fellaini-Bakkioui,Belgium,Shot,Off T,Head,Open Play,"[108.0, 40.0]",0.07174937
+1546,3248,Olivier Giroud,France,Shot,Off T,Left Foot,Open Play,"[100.0, 32.0]",0.036298357
+1547,3249,Kevin De Bruyne,Belgium,Shot,Off T,Left Foot,Open Play,"[95.0, 34.0]",0.0364441
+1548,3250,Paul Pogba,France,Shot,Off T,Head,Open Play,"[108.0, 42.0]",0.038035292
+1549,3251,Axel Witsel,Belgium,Shot,Saved,Right Foot,Open Play,"[91.0, 27.0]",0.015624825
+1550,3252,Antoine Griezmann,France,Shot,Saved,Right Foot,Open Play,"[103.0, 46.0]",0.119997054
+1551,3253,Corentin Tolisso,France,Shot,Saved,Left Foot,Open Play,"[107.0, 31.0]",0.16674982
+1552,4312,Thomas Meunier,Belgium,Shot,Goal,Right Foot,Open Play,"[113.0, 41.0]",0.2976184
+1553,4313,Raheem Shaquille Sterling,England,Shot,Blocked,Left Foot,Open Play,"[100.0, 53.0]",0.059819948
+1554,4314,Kevin De Bruyne,Belgium,Shot,Saved,Right Foot,Open Play,"[108.0, 29.0]",0.05701546
+1555,4315,Fabian Delph,England,Shot,Saved,Right Foot,Open Play,"[91.0, 31.0]",0.017405652
+1556,4316,Ruben Loftus-Cheek,England,Shot,Saved,Head,Open Play,"[108.0, 45.0]",0.050740242
+1557,4317,Harry Maguire,England,Shot,Saved,Head,Open Play,"[108.0, 37.0]",0.014484448
+1558,4318,Harry Kane,England,Shot,Off T,Right Foot,Open Play,"[104.0, 41.0]",0.10772764
+1559,4319,Raheem Shaquille Sterling,England,Shot,Off T,Right Foot,Open Play,"[97.0, 29.0]",0.028621446
+1560,4320,Youri Tielemans,Belgium,Shot,Blocked,Right Foot,Open Play,"[97.0, 40.0]",0.033633463
+1561,4321,Eden Hazard,Belgium,Shot,Blocked,Right Foot,Open Play,"[106.0, 51.0]",0.077757634
+1562,4322,Youri Tielemans,Belgium,Shot,Wayward,Right Foot,Open Play,"[96.0, 43.0]",0.03229424
+1563,4323,Toby Alderweireld,Belgium,Shot,Off T,Right Foot,Open Play,"[110.0, 34.0]",0.049434207
+1564,4324,Kevin De Bruyne,Belgium,Shot,Blocked,Right Foot,Open Play,"[104.0, 52.0]",0.038013883
+1565,4325,Romelu Lukaku Menama,Belgium,Shot,Blocked,Left Foot,Open Play,"[104.0, 30.0]",0.09781054
+1566,4326,Jesse Lingard,England,Shot,Off T,Right Foot,Open Play,"[109.0, 54.0]",0.023827497
+1567,4327,Jesse Lingard,England,Shot,Blocked,Right Foot,Open Play,"[107.0, 58.0]",0.021512281
+1568,4328,Harry Kane,England,Shot,Wayward,Right Foot,Open Play,"[100.0, 48.0]",0.025310759
+1569,4329,Eric Dier,England,Shot,Saved,Right Foot,Open Play,"[94.0, 50.0]",0.029425079
+1570,4330,Eric Dier,England,Shot,Blocked,Right Foot,Open Play,"[112.0, 50.0]",0.25625533
+1571,4331,Harry Maguire,England,Shot,Off T,Head,Open Play,"[110.0, 40.0]",0.064027205
+1572,4332,Eric Dier,England,Shot,Off T,Head,Open Play,"[109.0, 43.0]",0.05466971
+1573,4333,Harry Maguire,England,Shot,Off T,Head,Open Play,"[111.0, 33.0]",0.029847719
+1574,4334,Dries Mertens,Belgium,Shot,Off T,Right Foot,Open Play,"[104.0, 30.0]",0.064848706
+1575,4335,Thomas Meunier,Belgium,Shot,Saved,Right Foot,Open Play,"[109.0, 55.0]",0.05458503
+1576,4336,Marcus Rashford,England,Shot,Saved,Right Foot,Open Play,"[99.0, 23.0]",0.0414745
+1577,4337,Eden Hazard,Belgium,Shot,Goal,Right Foot,Open Play,"[112.0, 35.0]",0.3376146
+1578,3207,Roman Zobnin,Russia,Shot,Blocked,Left Foot,Open Play,"[100.0, 22.0]",0.024663324
+1579,3208,Sergei Ignashevich,Russia,Shot,Saved,Head,Open Play,"[110.0, 38.0]",0.07677571
+1580,3209,Aleksandr Golovin,Russia,Shot,Off T,Right Foot,Open Play,"[96.0, 37.0]",0.073840134
+1581,3210,Denis Cheryshev,Russia,Shot,Blocked,Left Foot,Open Play,"[99.0, 48.0]",0.036032032
+1582,3211,Marwan Mohsen,Egypt,Shot,Blocked,Head,Open Play,"[116.0, 33.0]",0.07518085
+1583,3212,Mahmoud Ibrahim Hassan,Egypt,Shot,Off T,Right Foot,Open Play,"[105.0, 24.0]",0.040192466
+1584,3213,Denis Cheryshev,Russia,Shot,Off T,Right Foot,Open Play,"[92.0, 34.0]",0.012952245
+1585,3214,Yury Gazinskiy,Russia,Shot,Off T,Right Foot,Open Play,"[89.0, 32.0]",0.020071592
+1586,3215,Mahmoud Ibrahim Hassan,Egypt,Shot,Blocked,Right Foot,Open Play,"[99.0, 28.0]",0.043603424
+1587,3216,Marwan Mohsen,Egypt,Shot,Wayward,Head,Open Play,"[117.0, 25.0]",0.015450136
+1588,3217,Marwan Mohsen,Egypt,Shot,Off T,Head,Open Play,"[113.0, 34.0]",0.033839483
+1589,3218,Denis Cheryshev,Russia,Shot,Wayward,Left Foot,Open Play,"[90.0, 39.0]",0.015880683
+1590,3219,Marwan Mohsen,Egypt,Shot,Saved,Head,Open Play,"[107.0, 41.0]",0.03436539
+1591,3220,Artem Dzyuba,Russia,Shot,Off T,Head,Open Play,"[113.0, 47.0]",0.03691661
+1592,3221,Mohamed Salah,Egypt,Shot,Off T,Left Foot,Open Play,"[104.0, 46.0]",0.07566194
+1593,3222,Roman Zobnin,Russia,Shot,Blocked,Right Foot,Open Play,"[97.0, 55.0]",0.033548277
+1594,3223,Mohamed Salah,Egypt,Shot,Blocked,Left Foot,Open Play,"[107.0, 33.0]",0.14315405
+1595,3224,Denis Cheryshev,Russia,Shot,Goal,Left Foot,Open Play,"[111.0, 47.0]",0.118507884
+1596,3225,Artem Dzyuba,Russia,Shot,Goal,Right Foot,Open Play,"[108.0, 44.0]",0.23581284
+1597,3226,Ali Gabr,Egypt,Shot,Off T,Head,Open Play,"[107.0, 49.0]",0.015155
+1598,3227,Mahmoud Ibrahim Hassan,Egypt,Shot,Off T,Right Foot,Open Play,"[101.0, 40.0]",0.11809318
+1599,3228,Abdalla Mahmoud El Said Bekhit,Egypt,Shot,Off T,Right Foot,Open Play,"[90.0, 34.0]",0.01917266
+1600,3229,Mohamed Salah,Egypt,Shot,Goal,Left Foot,Penalty,"[108.0, 40.0]",0.76
+1601,3230,Sergei Ignashevich,Russia,Shot,Saved,Head,Open Play,"[117.0, 34.0]",0.22739872
+1602,3231,Mohamed Salah,Egypt,Shot,Blocked,Left Foot,Open Play,"[102.0, 38.0]",0.07542016
+1603,3232,Amr Medhat Warda,Egypt,Shot,Off T,Left Foot,Open Play,"[102.0, 59.0]",0.044241335
+1604,3233,Tarek Hamed,Egypt,Shot,Blocked,Right Foot,Open Play,"[93.0, 50.0]",0.025914943
+1605,3209,Julian Draxler,Germany,Shot,Blocked,Right Foot,Open Play,"[113.0, 42.0]",0.2631674
+1606,3210,Jonas Hector,Germany,Shot,Blocked,Left Foot,Open Play,"[104.0, 40.0]",0.051938135
+1607,3211,Marcus Berg,Sweden,Shot,Saved,Right Foot,Open Play,"[106.0, 40.0]",0.37163213
+1608,3212,Jérôme Boateng,Germany,Shot,Blocked,Left Foot,Open Play,"[97.0, 53.0]",0.024006378
+1609,3213,Marcus Berg,Sweden,Shot,Blocked,Right Foot,Open Play,"[105.0, 43.0]",0.07109924
+1610,3214,Sebastian Rudy,Germany,Shot,Blocked,Right Foot,Open Play,"[92.0, 42.0]",0.028765226
+1611,3215,Ola Toivonen,Sweden,Shot,Goal,Right Foot,Open Play,"[112.0, 48.0]",0.11636221
+1612,3216,İlkay Gündoğan,Germany,Shot,Saved,Right Foot,Open Play,"[94.0, 28.0]",0.023594707
+1613,3217,Jérôme Boateng,Germany,Shot,Off T,Left Foot,Open Play,"[96.0, 62.0]",0.01903722
+1614,3218,Marcus Berg,Sweden,Shot,Saved,Head,Open Play,"[107.0, 47.0]",0.022954088
+1615,3219,Marco Reus,Germany,Shot,Goal,Left Foot,Open Play,"[112.0, 40.0]",0.16247162
+1616,3220,Toni Kroos,Germany,Shot,Blocked,Right Foot,Open Play,"[101.0, 29.0]",0.017973144
+1617,3221,Thomas Müller,Germany,Shot,Off T,Head,Open Play,"[111.0, 54.0]",0.025699561
+1618,3222,Jonas Hector,Germany,Shot,Saved,Left Foot,Open Play,"[112.0, 30.0]",0.0881194
+1619,3223,Toni Kroos,Germany,Shot,Blocked,Left Foot,Open Play,"[105.0, 29.0]",0.06656701
+1620,3224,Toni Kroos,Germany,Shot,Blocked,Right Foot,Open Play,"[93.0, 38.0]",0.016933931
+1621,3225,Marco Reus,Germany,Shot,Blocked,Right Foot,Open Play,"[106.0, 22.0]",0.016813735
+1622,3226,Toni Kroos,Germany,Shot,Wayward,Right Foot,Open Play,"[105.0, 26.0]",0.025921663
+1623,3227,Emil Forsberg,Sweden,Shot,Saved,Left Foot,Open Play,"[98.0, 20.0]",0.011906222
+1624,3228,Timo Werner,Germany,Shot,Off T,Right Foot,Open Play,"[109.0, 49.0]",0.15861104
+1625,3229,Andreas Granqvist,Sweden,Shot,Saved,Head,Open Play,"[110.0, 45.0]",0.03686343
+1626,3230,Mario Gómez García,Germany,Shot,Saved,Head,Open Play,"[111.0, 40.0]",0.07766268
+1627,3232,John Guidetti,Sweden,Shot,Saved,Right Foot,Open Play,"[107.0, 59.0]",0.01691968
+1628,3233,Toni Kroos,Germany,Shot,Goal,Right Foot,Open Play,"[111.0, 20.0]",0.025825093
+1629,3350,Granit Xhaka,Switzerland,Shot,Off T,Left Foot,Open Play,"[84.0, 51.0]",0.0073960517
+1630,3351,Aleksandar Mitrović,Serbia,Shot,Saved,Head,Open Play,"[114.0, 38.0]",0.19096097
+1631,3352,Filip Kostić,Serbia,Shot,Wayward,Left Foot,Open Play,"[108.0, 37.0]",0.07240391
+1632,3353,Aleksandar Mitrović,Serbia,Shot,Goal,Head,Open Play,"[115.0, 39.0]",0.24807788
+1633,3354,Xherdan Shaqiri,Switzerland,Shot,Blocked,Left Foot,Open Play,"[95.0, 58.0]",0.009581855
+1634,3355,Blerim Džemaili,Switzerland,Shot,Off T,Left Foot,Open Play,"[111.0, 38.0]",0.12870406
+1635,3356,Aleksandar Mitrović,Serbia,Shot,Off T,Head,Open Play,"[104.0, 33.0]",0.024992686
+1636,3357,Sergej Milinković-Savić,Serbia,Shot,Off T,Right Foot,Open Play,"[100.0, 52.0]",0.034908324
+1637,3358,Aleksandar Mitrović,Serbia,Shot,Off T,Right Foot,Open Play,"[104.0, 32.0]",0.02208598
+1638,3359,Xherdan Shaqiri,Switzerland,Shot,Blocked,Left Foot,Open Play,"[100.0, 41.0]",0.053169806
+1639,3360,Stephan Lichtsteiner,Switzerland,Shot,Blocked,Right Foot,Open Play,"[97.0, 51.0]",0.02156158
+1640,3361,Manuel Obafemi Akanji,Switzerland,Shot,Off T,Head,Open Play,"[113.0, 37.0]",0.06605975
+1641,3362,Blerim Džemaili,Switzerland,Shot,Saved,Right Foot,Open Play,"[111.0, 39.0]",0.24593273
+1642,3363,Fabian Lukas Schär,Switzerland,Shot,Off T,Head,Open Play,"[113.0, 44.0]",0.040317886
+1643,3364,Dušan Tadić,Serbia,Shot,Saved,Right Foot,Open Play,"[99.0, 49.0]",0.011167105
+1644,3365,Aleksandar Mitrović,Serbia,Shot,Off T,Head,Open Play,"[109.0, 43.0]",0.036103643
+1645,3366,Nemanja Matić,Serbia,Shot,Off T,Other,Open Play,"[118.0, 32.0]",0.039090183
+1646,3367,Dušan Tadić,Serbia,Shot,Off T,Left Foot,Open Play,"[100.0, 49.0]",0.08247225
+1647,3368,Ricardo Iván Rodríguez Araya,Switzerland,Shot,Wayward,Right Foot,Open Play,"[98.0, 18.0]",0.026318658
+1648,3369,Aleksandar Mitrović,Serbia,Shot,Off T,Head,Open Play,"[114.0, 43.0]",0.085099824
+1649,3370,Xherdan Shaqiri,Switzerland,Shot,Blocked,Left Foot,Open Play,"[106.0, 55.0]",0.067735694
+1650,3371,Granit Xhaka,Switzerland,Shot,Goal,Left Foot,Open Play,"[95.0, 22.0]",0.025094373
+1651,3373,Adem Ljajić,Serbia,Shot,Blocked,Right Foot,Open Play,"[104.0, 29.0]",0.030392764
+1652,3374,Breel-Donald Embolo,Switzerland,Shot,Saved,Right Foot,Open Play,"[86.0, 40.0]",0.018965486
+1653,3375,Xherdan Shaqiri,Switzerland,Shot,Off T,Left Foot,Open Play,"[86.0, 36.0]",0.021150429
+1654,3376,Mario Gavranović,Switzerland,Shot,Saved,Right Foot,Open Play,"[110.0, 43.0]",0.23736155
+1655,3377,Ricardo Iván Rodríguez Araya,Switzerland,Shot,Blocked,Left Foot,Free Kick,"[94.0, 30.0]",0.068923414
+1656,3378,Manuel Obafemi Akanji,Switzerland,Shot,Blocked,Left Foot,Open Play,"[108.0, 37.0]",0.05803199
+1657,3379,Xherdan Shaqiri,Switzerland,Shot,Goal,Left Foot,Open Play,"[111.0, 31.0]",0.27450573
+1658,3380,Xherdan Shaqiri,Switzerland,Shot,Off T,Left Foot,Open Play,"[99.0, 33.0]",0.044802416
+1659,3298,Jesse Lingard,England,Shot,Saved,Right Foot,Open Play,"[113.0, 39.0]",0.39378345
+1660,3299,Harry Maguire,England,Shot,Off T,Head,Open Play,"[108.0, 41.0]",0.02961977
+1661,3300,Harry Kane,England,Shot,Blocked,Right Foot,Open Play,"[97.0, 36.0]",0.036681008
+1662,3301,John Stones,England,Shot,Saved,Head,Open Play,"[112.0, 47.0]",0.052105304
+1663,3302,Harry Kane,England,Shot,Goal,Right Foot,Open Play,"[116.0, 46.0]",0.24012212
+1664,3303,Jordan Brian Henderson,England,Shot,Saved,Right Foot,Open Play,"[94.0, 48.0]",0.01864315
+1665,3304,Naïm Sliti,Tunisia,Shot,Off T,Right Foot,Open Play,"[91.0, 21.0]",0.018489435
+1666,3305,Jesse Lingard,England,Shot,Off T,Right Foot,Open Play,"[116.0, 50.0]",0.15409201
+1667,3306,Ferjani Sassi,Tunisia,Shot,Blocked,Right Foot,Open Play,"[98.0, 46.0]",0.030076278
+1668,3307,Fakhreddine Ben Youssef,Tunisia,Shot,Wayward,Head,Open Play,"[108.0, 36.0]",0.02704481
+1669,3308,Harry Maguire,England,Shot,Saved,Head,Open Play,"[111.0, 58.0]",0.0075164693
+1670,3309,Ferjani Sassi,Tunisia,Shot,Goal,Right Foot,Penalty,"[108.0, 40.0]",0.76
+1671,3310,Bamidele Alli,England,Shot,Blocked,Head,Open Play,"[118.0, 47.0]",0.086920045
+1672,3311,Raheem Shaquille Sterling,England,Shot,Wayward,Right Foot,Open Play,"[117.0, 37.0]",0.2892481
+1673,3312,John Stones,England,Shot,Wayward,Left Foot,Open Play,"[114.0, 39.0]",0.35615966
+1674,3313,Jesse Lingard,England,Shot,Blocked,Left Foot,Open Play,"[106.0, 41.0]",0.13873914
+1675,3315,Bamidele Alli,England,Shot,Saved,Head,Open Play,"[112.0, 40.0]",0.05535741
+1676,3316,John Stones,England,Shot,Wayward,Head,Open Play,"[106.0, 40.0]",0.016941283
+1677,3317,Kieran Trippier,England,Shot,Off T,Right Foot,Free Kick,"[93.0, 27.0]",0.060391016
+1678,3318,Wahbi Khazri,Tunisia,Shot,Blocked,Right Foot,Open Play,"[106.0, 60.0]",0.027727345
+1679,3319,Naïm Sliti,Tunisia,Shot,Off T,Left Foot,Open Play,"[93.0, 43.0]",0.020466503
+1680,3320,Ashley Young,England,Shot,Off T,Right Foot,Free Kick,"[96.0, 34.0]",0.08861464
+1681,3321,Harry Kane,England,Shot,Goal,Head,Open Play,"[116.0, 36.0]",0.258531

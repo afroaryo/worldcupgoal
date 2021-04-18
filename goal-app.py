@@ -5,16 +5,11 @@ import matplotlib.pyplot as plt
 from pywaffle import Waffle
 from matplotlib.patches import Arc
 import matplotlib.font_manager
-import gawang
 import matplotlib as mpl 
 import matplotlib.gridspec as gridspec 
 import matplotlib.patheffects as path_effects
 import matplotlib.font_manager
-from PIL import Image
-import requests
-from io import BytesIO
 import streamlit as st
-import flag
 import pitch_mckeever
 import flag
 import emoji
